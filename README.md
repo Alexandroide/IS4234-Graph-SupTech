@@ -12,8 +12,6 @@ It enables regulators to:
 - Identify the **most systemically critical vendors** (hardware or software)
 - Generate visual and quantitative insights
 
-The design supports the **CIDM** (Critical Infrastructure Dependency Mapping) framework described in your concept.
-
 ---
 
 ## ⚙️ System Architecture Overview
