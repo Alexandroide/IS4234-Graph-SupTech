@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 # Load NAICS JSON from file
-with open("NAICS_codes.json", "r") as f:
+with open("../data/NAICS_codes.json", "r") as f:
     naics_data = json.load(f)
 
 CRITICAL_SECTORS = ["TO COMPLETE"]  # Replace with actual NAICS codes as strings
@@ -127,3 +127,30 @@ class Company:
         """
         total_score = (0.45 * self.economic_criticality_score) + (0.55 * self.societal_criticality_score)
         return round(total_score, 2)
+    
+    def to_dict(self) -> dict:
+        """
+        Converts the company object into a dictionary for JSON storage.
+        """
+        return {
+            "company_id": self.company_id,
+            "company_name": self.company_name,
+            "sector_id": self.sector_id,
+            "sector_name": self.sector_name,
+            "employee_count": self.employee_count,
+            "revenue": self.revenue,
+            "market_cap": self.market_cap,
+            "total_assets": self.total_assets,
+            "num_business_clients": self.num_business_clients,
+            "num_critical_sector_clients": self.num_critical_sector_clients,
+            "num_customers_in_critical_services": self.num_customers_in_critical_services,
+            "healthcare_clients_affected": self.healthcare_clients_affected,
+            "essential_service_clients_count": self.essential_service_clients_count,
+            "num_suppliers": self.num_suppliers,
+            "market_share": self.market_share,
+            "regulated_sector_flag": self.regulated_sector_flag,
+            "economic_criticality_score": self.economic_criticality_score,
+            "societal_criticality_score": self.societal_criticality_score,
+            "total_criticality_score": self.total_criticality_score,
+            "timestamp": self.timestamp
+        }
