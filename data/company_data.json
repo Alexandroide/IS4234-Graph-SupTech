@@ -1,0 +1,24 @@
+[
+  {
+    "company_id": "COMP001",
+    "company_name": "Acme Corp",
+    "sector_id": 101,
+    "sector_name": null,
+    "employee_count": 1200,
+    "revenue": 150000000,
+    "market_cap": 500000000,
+    "total_assets": 300000000,
+    "num_business_clients": 250,
+    "num_critical_sector_clients": 40,
+    "num_customers_in_critical_services": 5000,
+    "healthcare_clients_affected": 10,
+    "essential_service_clients_count": 50,
+    "num_suppliers": 15,
+    "market_share": 0.08,
+    "regulated_sector_flag": false,
+    "economic_criticality_score": 9882.03,
+    "societal_criticality_score": 28.19,
+    "total_criticality_score": 4462.42,
+    "timestamp": "2025-10-28T15:52:08.695005"
+  }
+]
