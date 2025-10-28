@@ -1,4 +1,0 @@
-[
-    {"company_id": "COMP_A", "societal_criticality_score": 0.72, "economic_criticality_score": 0.65, "total_criticality_score": 0.69},
-    {"company_id": "COMP_B", "societal_criticality_score": 0.5, "economic_criticality_score": 0.45, "total_criticality_score": 0.48}
-  ]

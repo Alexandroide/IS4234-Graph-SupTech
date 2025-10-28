@@ -1,0 +1,2 @@
+company_id,company_name,sector_id,employee_count,revenue,market_cap,total_assets,num_business_clients,num_critical_sector_clients,num_customers_in_critical_services,healthcare_clients_affected,essential_service_clients_count,num_suppliers,market_share
+COMP001,Acme Corp,101,1200,150000000,500000000,300000000,250,40,5000,10,50,15,0.08
