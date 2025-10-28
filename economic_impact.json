@@ -1,0 +1,69 @@
+{
+    "economic_impact": {
+      "direct_financial_exposure": {
+        "definition": "Objective financial size indicators capturing direct economic exposure.",
+        "variables": {
+          "monthly_revenue": {
+            "definition": "Average total company revenue per month in USD.",
+            "example": 120000000
+          },
+          "gross_margin": {
+            "definition": "Gross margin ratio (gross profit / revenue) as a fraction (0–1).",
+            "example": 0.35
+          },
+          "total_assets": {
+            "definition": "Book value of total assets (USD).",
+            "example": 950000000
+          },
+          "market_cap": {
+            "definition": "Market capitalization for publicly traded firms (USD).",
+            "example": 4500000000
+          }
+        }
+      },
+      "network_dependency_exposure": {
+        "definition": "Objective indicators of a company's network centrality and B2B footprint.",
+        "variables": {
+          "num_business_clients": {
+            "definition": "Number of unique business clients served.",
+            "example": 250
+          },
+          "num_suppliers": {
+            "definition": "Number of suppliers from whom the company sources critical inputs.",
+            "example": 40
+          }
+        }
+      },
+      "market_position": {
+        "definition": "Indicators of market dominance and concentration.",
+        "variables": {
+          "market_share": {
+            "definition": "Percentage of total market served (0–1), based on reported industry data.",
+            "example": 0.25
+          },
+          "industry_revenue_rank": {
+            "definition": "Rank of the company by revenue in its primary industry sector (1 = largest).",
+            "example": 3
+          }
+        }
+      },
+      "macroeconomic_linkages": {
+        "definition": "Connections to key sectors of the economy and international trade exposure.",
+        "variables": {
+          "num_critical_sector_clients": {
+            "definition": "Number of clients operating in officially designated critical sectors (finance, energy, health, etc.).",
+            "example": 15
+          },
+          "exports_share": {
+            "definition": "Fraction of revenue derived from exports (0–1).",
+            "example": 0.3
+          }
+        }
+      },
+      "timestamps": {
+        "submission": "2025-10-28T12:00:00Z",
+        "last_updated": "2025-10-28T12:00:00Z"
+      }
+    }
+  }
+  
