@@ -1,0 +1,4 @@
+[
+    {"company_asset_id": "HW001", "company_id": "COMP_A", "supplier_id": "COMP_B", "operational_reliance": 0.6},
+    {"company_asset_id": "SW001", "company_id": "COMP_A", "supplier_id": "COMP_C", "operational_reliance": 0.3}
+  ]
