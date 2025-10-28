@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from company import Company  # adjust path according to your repo structure
 
-CSV_FILE = "../data/test_C1_data.csv"
+CSV_FILE = "../data/test/test_C1_data.csv"
 DB_FILE = "../data/company_data.json"
 
 # Step 1: Read CSV
