@@ -3,48 +3,64 @@ import json
 import pandas as pd
 from asset import Asset
 
-CSV_FILE = "../data/test/test_C1_asset_data.csv"
-DB_FILE = "../data/asset_data.json"
 
-# Step 1: Read CSV
-df = pd.read_csv(CSV_FILE)
+def update_asset_database(csv_file: str, db_file: str = "../data/asset_data.json") -> None:
+    """
+    Reads an asset CSV file, converts each row into an Asset object,
+    and updates the central asset JSON database.
 
-# Load existing database if it exists
-if os.path.exists(DB_FILE):
-    with open(DB_FILE, "r") as f:
-        asset_db = json.load(f)
-else:
-    asset_db = []
+    If an asset with the same company_asset_id already exists, it is replaced.
+    """
+    # Step 1: Load CSV
+    if not os.path.exists(csv_file):
+        print(f"⚠️ CSV file not found: {csv_file}")
+        return
 
-# Step 2: Process each asset row
-for idx, row in df.iterrows():
-    asset_obj = Asset(
-        company_id=row["company_id"],
-        supplier_id=row["supplier_id"],
-        asset_name=row["asset_name"],
-        asset_type=row["asset_type"],
-        purchase_date=row["purchase_date"],
-        deployment_date=row["deployment_date"],
-        revenue_share=row.get("revenue_share"),
-        critical_service_share=row.get("critical_service_share"),
-        client_share=row.get("client_share"),
-        capacity_share=row.get("capacity_share"),
-        redundancy_level=row.get("redundancy_level"),
-        revenue_impact=row.get("revenue_impact"),
-    )
+    df = pd.read_csv(csv_file)
 
-    asset_dict = asset_obj.to_dict()
-
-    # Replace existing asset if same company_asset_id exists
-    existing_index = next((i for i, a in enumerate(asset_db)
-                           if a["company_asset_id"] == asset_dict["company_asset_id"]), None)
-    if existing_index is not None:
-        asset_db[existing_index] = asset_dict
+    # Step 2: Load or initialize JSON database
+    if os.path.exists(db_file):
+        with open(db_file, "r") as f:
+            try:
+                asset_db = json.load(f)
+            except json.JSONDecodeError:
+                asset_db = []
     else:
-        asset_db.append(asset_dict)
+        asset_db = []
 
-# Step 3: Save updated database
-with open(DB_FILE, "w") as f:
-    json.dump(asset_db, f, indent=2)
+    # Step 3: Process each asset in CSV
+    for _, row in df.iterrows():
+        asset_obj = Asset(
+            company_id=row["company_id"],
+            supplier_id=row["supplier_id"],
+            asset_name=row["asset_name"],
+            asset_type=row["asset_type"],
+            purchase_date=row["purchase_date"],
+            deployment_date=row["deployment_date"],
+            revenue_share=row.get("revenue_share"),
+            critical_service_share=row.get("critical_service_share"),
+            client_share=row.get("client_share"),
+            capacity_share=row.get("capacity_share"),
+            redundancy_level=row.get("redundancy_level"),
+            revenue_impact=row.get("revenue_impact"),
+        )
 
-print(f"Asset database updated: {DB_FILE}")
+        asset_dict = asset_obj.to_dict()
+
+        # Replace if same company_asset_id already exists
+        existing_index = next(
+            (i for i, a in enumerate(asset_db)
+             if a["company_asset_id"] == asset_dict["company_asset_id"]),
+            None
+        )
+
+        if existing_index is not None:
+            asset_db[existing_index] = asset_dict
+        else:
+            asset_db.append(asset_dict)
+
+    # Step 4: Save database
+    with open(db_file, "w") as f:
+        json.dump(asset_db, f, indent=2)
+
+    print(f"✅ Asset database updated: {db_file} (from {csv_file})")

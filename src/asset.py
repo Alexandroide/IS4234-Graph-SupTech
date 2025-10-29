@@ -39,7 +39,7 @@ class Asset:
         self.redundancy_level = redundancy_level
 
         # Computed metrics
-        self.operational_reliance = None
+        self.operational_reliance = self.compute_operational_reliance()
         self.timestamp = datetime.datetime.utcnow().isoformat()
 
     # Static methods
@@ -66,9 +66,28 @@ class Asset:
     
     # Operational reliance computation
     def compute_operational_reliance(self) -> float:
-        ### TBD
-        return None
-    
+        weights = {
+            "revenue_share": 0.25,
+            "critical_service_share": 0.25,
+            "client_share": 0.15,
+            "capacity_share": 0.15,
+            "redundancy_level": 0.10,  # inverse
+            "revenue_impact": 0.10,
+        }
+
+        redundancy_factor = 1 - self.redundancy_level
+
+        score = (
+            self.revenue_share * weights["revenue_share"]
+            + self.critical_service_share * weights["critical_service_share"]
+            + self.client_share * weights["client_share"]
+            + self.capacity_share * weights["capacity_share"]
+            + redundancy_factor * weights["redundancy_level"]
+            + self.revenue_impact * weights["revenue_impact"]
+        )
+
+        return round(min(score, 1.0), 3)
+
     # To save as json
     def to_dict(self) -> dict:
         """

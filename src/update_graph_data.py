@@ -1,66 +1,84 @@
+import os
 import json
 from collections import defaultdict
 
-# Step 1: Load JSON data files
-company_file = "../data/company_data.json"
-asset_file = "../data/asset_data.json"
-DB_FILE = "../data/graph_data.json"
 
-with open(company_file, "r") as f:
-    companies_data = json.load(f)
+def update_graph_database(
+    company_file: str = "../data/company_data.json",
+    asset_file: str = "../data/asset_data.json",
+    db_file: str = "../data/graph_data.json"
+) -> None:
+    """
+    Builds a directed, weighted graph representation of company dependencies.
 
-with open(asset_file, "r") as f:
-    assets_data = json.load(f)
+    Nodes = companies (or suppliers)
+    Edges = company → supplier (asset dependency)
+    Edge weight = operational reliance
+    Node weights = criticality scores
+    """
 
-# Step 2: Build company weights dictionary
-# Default supplier weights if not in company file
-default_weight = 0.0
+    # --- Step 1: Load JSON databases ---
+    if not os.path.exists(company_file):
+        print(f"⚠️ Company file not found: {company_file}")
+        return
+    if not os.path.exists(asset_file):
+        print(f"⚠️ Asset file not found: {asset_file}")
+        return
 
-company_weights = {}
-for c in companies_data:
-    company_id = c["company_id"]
-    company_weights[company_id] = {
-        "societal": c.get("societal_criticality_score", default_weight),
-        "economic": c.get("economic_criticality_score", default_weight),
-        "global": c.get("total_criticality_score", default_weight)
-    }
+    with open(company_file, "r") as f:
+        try:
+            companies_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"❌ Error reading {company_file}: invalid JSON")
+            return
 
-# Step 3: Build graph representation
-graph_input = defaultdict(lambda: {"weights": {}, "edges": {}})
+    with open(asset_file, "r") as f:
+        try:
+            assets_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"❌ Error reading {asset_file}: invalid JSON")
+            return
 
-# Add nodes with weights
-for company_id, weights in company_weights.items():
-    graph_input[company_id]["weights"] = weights
-
-# Add edges from assets
-for asset in assets_data:
-    company_id = asset["company_id"]
-    supplier_id = asset["supplier_id"]
-    op_rel = asset.get("operational_reliance", 0)
-
-    # Ensure nodes exist in graph
-    if supplier_id not in graph_input:
-        graph_input[supplier_id]["weights"] = {
-            "societal": company_weights.get(supplier_id, {}).get("societal", default_weight),
-            "economic": company_weights.get(supplier_id, {}).get("economic", default_weight),
-            "global": company_weights.get(supplier_id, {}).get("global", default_weight)
+    # --- Step 2: Build company weights dictionary ---
+    default_weight = 0.0
+    company_weights = {}
+    for c in companies_data:
+        company_id = c["company_id"]
+        company_weights[company_id] = {
+            "societal": c.get("societal_criticality_score", default_weight),
+            "economic": c.get("economic_criticality_score", default_weight),
+            "global": c.get("total_criticality_score", default_weight),
         }
 
-    # Add edge
-    graph_input[company_id]["edges"][supplier_id] = op_rel
+    # --- Step 3: Build graph structure ---
+    graph_input = defaultdict(lambda: {"weights": {}, "edges": {}})
 
-# Convert defaultdict to normal dict for JSON saving
-graph_input = dict(graph_input)
+    # Add all companies as nodes
+    for company_id, weights in company_weights.items():
+        graph_input[company_id]["weights"] = weights
 
-# Step 4: Save to JSON
-with open(DB_FILE, "w") as f:
-    json.dump(graph_input, f, indent=2)
+    # Add edges from assets
+    for asset in assets_data:
+        company_id = asset["company_id"]
+        supplier_id = asset["supplier_id"]
+        op_rel = asset.get("operational_reliance", 0.0)
 
-print(f"Graph data saved to {DB_FILE}")
+        # Ensure supplier node exists
+        if supplier_id not in graph_input:
+            graph_input[supplier_id]["weights"] = {
+                "societal": company_weights.get(supplier_id, {}).get("societal", default_weight),
+                "economic": company_weights.get(supplier_id, {}).get("economic", default_weight),
+                "global": company_weights.get(supplier_id, {}).get("global", default_weight),
+            }
 
-# Step 5: Test the graph
-# Print some nodes and edges to check
-# for node, data in graph_input.items():
-#    print(f"Node: {node}")
-#    print(f"  Weights: {data['weights']}")
-#    print(f"  Edges: {data['edges']}\n")
+        # Add or update edge
+        graph_input[company_id]["edges"][supplier_id] = op_rel
+
+    # Convert defaultdict → normal dict
+    graph_input = dict(graph_input)
+
+    # --- Step 4: Save graph to file ---
+    with open(db_file, "w") as f:
+        json.dump(graph_input, f, indent=2)
+
+    print(f"✅ Graph database updated: {db_file}")
