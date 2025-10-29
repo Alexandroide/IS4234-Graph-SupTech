@@ -1,384 +1,462 @@
 {
   "COMP001": {
     "weights": {
-      "societal": 71.46,
-      "economic": 43033.92,
-      "global": 19404.57
+      "societal": 91.09,
+      "economic": 8627.86,
+      "global": 3932.64
     },
     "edges": {
-      "SUP001": 0.37,
-      "SUP002": 0.25,
-      "SUP003": 0.183,
-      "SUP004": 0.265,
-      "SUP005": 0.223,
-      "SUP006": 0.271,
-      "SUP019": 0.28
+      "COMP021": 0.224,
+      "COMP008": 0.253,
+      "COMP024": 0.327,
+      "COMP012": 0.299,
+      "COMP023": 0.24
     }
   },
   "COMP002": {
     "weights": {
-      "societal": 40.0,
-      "economic": 46860.86,
-      "global": 21109.39
+      "societal": 87.81,
+      "economic": 16902.31,
+      "global": 7654.34
     },
     "edges": {
-      "SUP011": 0.311,
-      "SUP020": 0.232,
-      "SUP010": 0.454,
-      "SUP013": 0.347
+      "COMP013": 0.26,
+      "COMP011": 0.215,
+      "COMP028": 0.387,
+      "COMP027": 0.235,
+      "COMP009": 0.33,
+      "COMP026": 0.291
     }
   },
   "COMP003": {
     "weights": {
-      "societal": 80.19,
-      "economic": 37485.12,
-      "global": 16912.41
+      "societal": 72.73,
+      "economic": 47460.27,
+      "global": 21397.12
     },
-    "edges": {}
+    "edges": {
+      "COMP027": 0.3,
+      "COMP008": 0.261,
+      "COMP006": 0.332,
+      "COMP001": 0.331
+    }
   },
   "COMP004": {
     "weights": {
-      "societal": 86.02,
-      "economic": 51914.18,
-      "global": 23408.69
+      "societal": 34.27,
+      "economic": 16600.78,
+      "global": 7489.2
     },
     "edges": {
-      "SUP006": 0.249,
-      "SUP002": 0.216,
-      "SUP012": 0.248,
-      "SUP013": 0.245
+      "COMP028": 0.32,
+      "COMP019": 0.33,
+      "COMP016": 0.256,
+      "COMP007": 0.381,
+      "COMP025": 0.24,
+      "COMP017": 0.346,
+      "COMP023": 0.269,
+      "COMP005": 0.358,
+      "COMP030": 0.23,
+      "COMP012": 0.148,
+      "COMP024": 0.365,
+      "COMP029": 0.287,
+      "COMP022": 0.345,
+      "COMP010": 0.331
     }
   },
   "COMP005": {
     "weights": {
-      "societal": 76.67,
-      "economic": 55180.58,
-      "global": 24873.43
+      "societal": 82.21,
+      "economic": 45902.79,
+      "global": 20701.47
     },
     "edges": {
-      "SUP003": 0.228,
-      "SUP020": 0.359,
-      "SUP012": 0.293
+      "COMP009": 0.163,
+      "COMP022": 0.265,
+      "COMP003": 0.381,
+      "COMP026": 0.225,
+      "COMP002": 0.324,
+      "COMP015": 0.353,
+      "COMP024": 0.322,
+      "COMP028": 0.302,
+      "COMP008": 0.285,
+      "COMP019": 0.316,
+      "COMP012": 0.269,
+      "COMP030": 0.269,
+      "COMP006": 0.282
     }
   },
   "COMP006": {
     "weights": {
-      "societal": 95.08,
-      "economic": 53242.06,
-      "global": 24011.22
+      "societal": 83.74,
+      "economic": 62657.96,
+      "global": 28242.14
     },
     "edges": {
-      "SUP010": 0.282,
-      "SUP014": 0.295,
-      "SUP005": 0.269
+      "COMP021": 0.232,
+      "COMP027": 0.294,
+      "COMP019": 0.208,
+      "COMP026": 0.282,
+      "COMP017": 0.28
     }
   },
   "COMP007": {
     "weights": {
-      "societal": 72.83,
-      "economic": 39682.5,
-      "global": 17897.18
+      "societal": 90.65,
+      "economic": 49745.33,
+      "global": 22435.26
     },
     "edges": {
-      "SUP009": 0.231,
-      "SUP011": 0.287
+      "COMP019": 0.244,
+      "COMP018": 0.263,
+      "COMP013": 0.241,
+      "COMP015": 0.27,
+      "COMP025": 0.205,
+      "COMP030": 0.254
     }
   },
   "COMP008": {
     "weights": {
-      "societal": 58.41,
-      "economic": 16419.17,
-      "global": 7420.75
+      "societal": 42.78,
+      "economic": 59188.51,
+      "global": 26658.36
     },
     "edges": {
-      "SUP005": 0.158,
-      "SUP012": 0.213,
-      "SUP001": 0.255
+      "COMP011": 0.371,
+      "COMP002": 0.359,
+      "COMP009": 0.286,
+      "COMP030": 0.306,
+      "COMP024": 0.256,
+      "COMP027": 0.142
     }
   },
   "COMP009": {
     "weights": {
-      "societal": 71.66,
-      "economic": 20491.65,
-      "global": 9260.66
+      "societal": 63.23,
+      "economic": 16155.87,
+      "global": 7304.92
     },
-    "edges": {}
+    "edges": {
+      "COMP024": 0.264,
+      "COMP026": 0.283,
+      "COMP017": 0.299,
+      "COMP003": 0.274,
+      "COMP022": 0.287,
+      "COMP028": 0.389,
+      "COMP005": 0.239,
+      "COMP027": 0.329,
+      "COMP029": 0.245,
+      "COMP025": 0.345,
+      "COMP015": 0.348
+    }
   },
   "COMP010": {
     "weights": {
-      "societal": 64.71,
-      "economic": 56993.29,
-      "global": 25682.57
+      "societal": 104.46,
+      "economic": 20615.87,
+      "global": 9334.59
     },
     "edges": {
-      "SUP017": 0.245,
-      "SUP003": 0.297,
-      "SUP009": 0.29,
-      "SUP015": 0.342
+      "COMP012": 0.317,
+      "COMP021": 0.257,
+      "COMP024": 0.252,
+      "COMP014": 0.246,
+      "COMP022": 0.333
     }
   },
   "COMP011": {
     "weights": {
-      "societal": 58.15,
-      "economic": 39312.01,
-      "global": 17722.39
+      "societal": 63.8,
+      "economic": 43648.01,
+      "global": 19676.69
     },
     "edges": {
-      "SUP010": 0.26,
-      "SUP002": 0.284,
-      "SUP015": 0.252
+      "COMP020": 0.302,
+      "COMP010": 0.283,
+      "COMP024": 0.317,
+      "COMP001": 0.35,
+      "COMP028": 0.323
     }
   },
   "COMP012": {
     "weights": {
-      "societal": 82.4,
-      "economic": 53412.53,
-      "global": 24080.96
+      "societal": 102.65,
+      "economic": 46743.44,
+      "global": 21091.01
     },
     "edges": {
-      "SUP016": 0.333,
-      "SUP006": 0.246,
-      "SUP001": 0.297,
-      "SUP015": 0.318
+      "COMP004": 0.289,
+      "COMP030": 0.289,
+      "COMP008": 0.287,
+      "COMP019": 0.258,
+      "COMP005": 0.349,
+      "COMP014": 0.355
     }
   },
   "COMP013": {
     "weights": {
-      "societal": 84.64,
-      "economic": 60641.71,
-      "global": 27335.32
+      "societal": 62.45,
+      "economic": 27426.74,
+      "global": 12376.38
     },
     "edges": {
-      "SUP010": 0.247,
-      "SUP009": 0.367,
-      "SUP016": 0.137,
-      "SUP001": 0.226
+      "COMP015": 0.242,
+      "COMP011": 0.291,
+      "COMP023": 0.355,
+      "COMP009": 0.268,
+      "COMP012": 0.298
     }
   },
   "COMP014": {
     "weights": {
-      "societal": 58.92,
-      "economic": 32029.47,
-      "global": 14445.67
+      "societal": 59.51,
+      "economic": 51494.22,
+      "global": 23205.13
     },
     "edges": {
-      "SUP002": 0.298,
-      "SUP012": 0.319,
-      "SUP007": 0.263,
-      "SUP013": 0.278
+      "COMP017": 0.232,
+      "COMP021": 0.266,
+      "COMP016": 0.213,
+      "COMP015": 0.224,
+      "COMP009": 0.317,
+      "COMP007": 0.328
     }
   },
   "COMP015": {
     "weights": {
-      "societal": 28.7,
-      "economic": 54967.56,
-      "global": 24751.19
+      "societal": 51.8,
+      "economic": 19566.16,
+      "global": 8833.26
     },
     "edges": {
-      "SUP020": 0.301,
-      "SUP013": 0.327,
-      "SUP003": 0.346,
-      "SUP019": 0.428,
-      "SUP016": 0.24,
-      "SUP007": 0.304
+      "COMP023": 0.279,
+      "COMP020": 0.236,
+      "COMP022": 0.348,
+      "COMP028": 0.303,
+      "COMP021": 0.356,
+      "COMP011": 0.281
     }
   },
   "COMP016": {
     "weights": {
-      "societal": 86.12,
-      "economic": 35515.46,
-      "global": 16029.32
+      "societal": 78.82,
+      "economic": 55338.29,
+      "global": 24945.58
     },
     "edges": {
-      "SUP017": 0.269
+      "COMP022": 0.196,
+      "COMP023": 0.277,
+      "COMP014": 0.349
     }
   },
   "COMP017": {
     "weights": {
-      "societal": 46.48,
-      "economic": 46790.36,
-      "global": 21081.23
+      "societal": 82.79,
+      "economic": 48416.0,
+      "global": 21832.73
     },
     "edges": {
-      "SUP014": 0.282,
-      "SUP016": 0.259,
-      "SUP010": 0.237
+      "COMP025": 0.356,
+      "COMP015": 0.354,
+      "COMP002": 0.374,
+      "COMP014": 0.286
     }
   },
   "COMP018": {
     "weights": {
-      "societal": 91.17,
-      "economic": 34209.6,
-      "global": 15444.46
+      "societal": 79.5,
+      "economic": 40591.96,
+      "global": 18310.11
     },
     "edges": {
-      "SUP017": 0.256,
-      "SUP005": 0.18
+      "COMP029": 0.233,
+      "COMP028": 0.27,
+      "COMP014": 0.163,
+      "COMP003": 0.234,
+      "COMP008": 0.258,
+      "COMP002": 0.329,
+      "COMP009": 0.19,
+      "COMP010": 0.36
     }
   },
   "COMP019": {
     "weights": {
-      "societal": 85.37,
-      "economic": 27273.76,
-      "global": 12320.15
+      "societal": 57.26,
+      "economic": 14826.66,
+      "global": 6703.49
     },
     "edges": {
-      "SUP012": 0.309,
-      "SUP001": 0.265
+      "COMP010": 0.307,
+      "COMP014": 0.295,
+      "COMP001": 0.212,
+      "COMP021": 0.269
     }
   },
   "COMP020": {
     "weights": {
-      "societal": 94.19,
-      "economic": 55922.9,
-      "global": 25217.11
+      "societal": 85.66,
+      "economic": 22859.16,
+      "global": 10333.73
     },
     "edges": {
-      "SUP020": 0.132
+      "COMP003": 0.315,
+      "COMP024": 0.264,
+      "COMP026": 0.211,
+      "COMP015": 0.346
     }
   },
-  "SUP001": {
+  "COMP021": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 56.07,
+      "economic": 45738.82,
+      "global": 20613.31
     },
-    "edges": {}
+    "edges": {
+      "COMP003": 0.243,
+      "COMP023": 0.154,
+      "COMP022": 0.305
+    }
   },
-  "SUP002": {
+  "COMP022": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 79.32,
+      "economic": 41130.96,
+      "global": 18552.56
     },
-    "edges": {}
+    "edges": {
+      "COMP008": 0.333,
+      "COMP004": 0.287,
+      "COMP001": 0.315,
+      "COMP025": 0.244,
+      "COMP006": 0.216
+    }
   },
-  "SUP003": {
+  "COMP023": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 54.45,
+      "economic": 22880.22,
+      "global": 10326.05
     },
-    "edges": {}
+    "edges": {
+      "COMP029": 0.304,
+      "COMP003": 0.33,
+      "COMP009": 0.321,
+      "COMP007": 0.294,
+      "COMP021": 0.214
+    }
   },
-  "SUP004": {
+  "COMP024": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 100.16,
+      "economic": 32574.86,
+      "global": 14713.77
     },
-    "edges": {}
+    "edges": {
+      "COMP013": 0.215,
+      "COMP010": 0.276,
+      "COMP015": 0.255,
+      "COMP005": 0.247,
+      "COMP009": 0.298,
+      "COMP004": 0.386,
+      "COMP017": 0.291
+    }
   },
-  "SUP005": {
+  "COMP025": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 81.71,
+      "economic": 45159.92,
+      "global": 20366.9
     },
-    "edges": {}
+    "edges": {
+      "COMP028": 0.36,
+      "COMP020": 0.302,
+      "COMP022": 0.344,
+      "COMP004": 0.304,
+      "COMP005": 0.301
+    }
   },
-  "SUP010": {
+  "COMP026": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 71.22,
+      "economic": 45915.62,
+      "global": 20701.2
     },
-    "edges": {}
+    "edges": {
+      "COMP004": 0.285,
+      "COMP019": 0.349,
+      "COMP022": 0.355,
+      "COMP018": 0.409,
+      "COMP013": 0.32
+    }
   },
-  "SUP016": {
+  "COMP027": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 55.65,
+      "economic": 38048.83,
+      "global": 17152.58
     },
-    "edges": {}
+    "edges": {
+      "COMP029": 0.35,
+      "COMP017": 0.225,
+      "COMP015": 0.248,
+      "COMP009": 0.308
+    }
   },
-  "SUP017": {
+  "COMP028": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 25.5,
+      "economic": 44542.23,
+      "global": 20058.03
     },
-    "edges": {}
+    "edges": {
+      "COMP010": 0.294,
+      "COMP003": 0.282,
+      "COMP024": 0.191,
+      "COMP012": 0.223,
+      "COMP027": 0.204,
+      "COMP013": 0.252,
+      "COMP018": 0.237,
+      "COMP022": 0.271,
+      "COMP001": 0.359,
+      "COMP017": 0.227,
+      "COMP002": 0.35,
+      "COMP019": 0.231,
+      "COMP005": 0.365,
+      "COMP006": 0.151
+    }
   },
-  "SUP009": {
+  "COMP029": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 80.81,
+      "economic": 32984.07,
+      "global": 14887.28
     },
-    "edges": {}
+    "edges": {
+      "COMP006": 0.357,
+      "COMP019": 0.303,
+      "COMP022": 0.315,
+      "COMP013": 0.389,
+      "COMP015": 0.311,
+      "COMP008": 0.213
+    }
   },
-  "SUP020": {
+  "COMP030": {
     "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
+      "societal": 90.04,
+      "economic": 49650.76,
+      "global": 22392.36
     },
-    "edges": {}
-  },
-  "SUP006": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP011": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP012": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP013": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP014": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP019": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP007": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
-  },
-  "SUP015": {
-    "weights": {
-      "societal": 0.0,
-      "economic": 0.0,
-      "global": 0.0
-    },
-    "edges": {}
+    "edges": {
+      "COMP011": 0.236,
+      "COMP029": 0.266,
+      "COMP012": 0.412,
+      "COMP023": 0.305,
+      "COMP027": 0.203,
+      "COMP018": 0.232,
+      "COMP016": 0.286,
+      "COMP002": 0.297,
+      "COMP021": 0.348,
+      "COMP022": 0.239
+    }
   }
 }
