@@ -2,8 +2,9 @@ import json
 from collections import defaultdict
 
 # Step 1: Load JSON data files
-company_file = "../data/test_company_data.json"
-asset_file = "../data/test_asset_data.json"
+company_file = "../data/company_data.json"
+asset_file = "../data/asset_data.json"
+DB_FILE = "../data/graph_data.json"
 
 with open(company_file, "r") as f:
     companies_data = json.load(f)
@@ -52,8 +53,10 @@ for asset in assets_data:
 graph_input = dict(graph_input)
 
 # Step 4: Save to JSON
-with open("../data/graph_data.json", "w") as f:
+with open(DB_FILE, "w") as f:
     json.dump(graph_input, f, indent=2)
+
+print(f"Graph data saved to {DB_FILE}")
 
 # Step 5: Test the graph
 # Print some nodes and edges to check
