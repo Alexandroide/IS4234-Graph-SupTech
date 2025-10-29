@@ -1,0 +1,56 @@
+{
+  "COMP001": {
+    "weights": {
+      "societal": 28.19,
+      "economic": 9882.03,
+      "global": 4462.42
+    },
+    "edges": {
+      "SUP001": null,
+      "SUP002": null,
+      "SUP003": null,
+      "SUP004": null,
+      "SUP005": null
+    }
+  },
+  "SUP001": {
+    "weights": {
+      "societal": 0.0,
+      "economic": 0.0,
+      "global": 0.0
+    },
+    "edges": {}
+  },
+  "SUP002": {
+    "weights": {
+      "societal": 0.0,
+      "economic": 0.0,
+      "global": 0.0
+    },
+    "edges": {}
+  },
+  "SUP003": {
+    "weights": {
+      "societal": 0.0,
+      "economic": 0.0,
+      "global": 0.0
+    },
+    "edges": {}
+  },
+  "SUP004": {
+    "weights": {
+      "societal": 0.0,
+      "economic": 0.0,
+      "global": 0.0
+    },
+    "edges": {}
+  },
+  "SUP005": {
+    "weights": {
+      "societal": 0.0,
+      "economic": 0.0,
+      "global": 0.0
+    },
+    "edges": {}
+  }
+}
