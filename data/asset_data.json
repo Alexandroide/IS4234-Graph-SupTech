@@ -15,7 +15,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.13,
     "operational_reliance": 0.224,
-    "timestamp": "2025-10-29T05:33:41.188624"
+    "timestamp": "2025-10-29T05:40:23.996397"
   },
   {
     "asset_id": "7e990cb9872be645",
@@ -33,7 +33,7 @@
     "redundancy_level": 0.43,
     "revenue_impact": 0.11,
     "operational_reliance": 0.253,
-    "timestamp": "2025-10-29T05:33:41.188735"
+    "timestamp": "2025-10-29T05:40:23.996561"
   },
   {
     "asset_id": "b3b48c9c67b505a4",
@@ -51,7 +51,7 @@
     "redundancy_level": 0.13,
     "revenue_impact": 0.32,
     "operational_reliance": 0.327,
-    "timestamp": "2025-10-29T05:33:41.188812"
+    "timestamp": "2025-10-29T05:40:23.996667"
   },
   {
     "asset_id": "8bcfdc3ff3c32e8e",
@@ -69,7 +69,7 @@
     "redundancy_level": 0.97,
     "revenue_impact": 0.62,
     "operational_reliance": 0.271,
-    "timestamp": "2025-10-29T05:33:41.188874"
+    "timestamp": "2025-10-29T05:40:23.996739"
   },
   {
     "asset_id": "f351c987fc2f0498",
@@ -87,7 +87,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.33,
     "operational_reliance": 0.299,
-    "timestamp": "2025-10-29T05:33:41.188937"
+    "timestamp": "2025-10-29T05:40:23.996831"
   },
   {
     "asset_id": "f2c233005524766a",
@@ -105,7 +105,7 @@
     "redundancy_level": 0.86,
     "revenue_impact": 0.26,
     "operational_reliance": 0.24,
-    "timestamp": "2025-10-29T05:33:41.188993"
+    "timestamp": "2025-10-29T05:40:23.996917"
   },
   {
     "asset_id": "33ce19bd6c2d50d5",
@@ -123,7 +123,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.46,
     "operational_reliance": 0.26,
-    "timestamp": "2025-10-29T05:33:41.189047"
+    "timestamp": "2025-10-29T05:40:23.996980"
   },
   {
     "asset_id": "0a3d35e20f932156",
@@ -141,7 +141,7 @@
     "redundancy_level": 0.96,
     "revenue_impact": 0.29,
     "operational_reliance": 0.215,
-    "timestamp": "2025-10-29T05:33:41.189098"
+    "timestamp": "2025-10-29T05:40:23.997038"
   },
   {
     "asset_id": "67f4f5237c9adf3b",
@@ -159,7 +159,7 @@
     "redundancy_level": 0.12,
     "revenue_impact": 0.73,
     "operational_reliance": 0.387,
-    "timestamp": "2025-10-29T05:33:41.189148"
+    "timestamp": "2025-10-29T05:40:23.997093"
   },
   {
     "asset_id": "29ee38f6f277de13",
@@ -177,7 +177,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.57,
     "operational_reliance": 0.294,
-    "timestamp": "2025-10-29T05:33:41.189200"
+    "timestamp": "2025-10-29T05:40:23.997148"
   },
   {
     "asset_id": "af6b5ba64b6ce971",
@@ -195,7 +195,7 @@
     "redundancy_level": 0.85,
     "revenue_impact": 0.6,
     "operational_reliance": 0.235,
-    "timestamp": "2025-10-29T05:33:41.189251"
+    "timestamp": "2025-10-29T05:40:23.997200"
   },
   {
     "asset_id": "36df82d01f3cf2f5",
@@ -213,7 +213,7 @@
     "redundancy_level": 0.19,
     "revenue_impact": 0.57,
     "operational_reliance": 0.33,
-    "timestamp": "2025-10-29T05:33:41.189301"
+    "timestamp": "2025-10-29T05:40:23.997252"
   },
   {
     "asset_id": "565dd6ebaf3e970e",
@@ -231,7 +231,7 @@
     "redundancy_level": 0.79,
     "revenue_impact": 0.52,
     "operational_reliance": 0.26,
-    "timestamp": "2025-10-29T05:33:41.189415"
+    "timestamp": "2025-10-29T05:40:23.997301"
   },
   {
     "asset_id": "393e328b08f4b59d",
@@ -249,7 +249,7 @@
     "redundancy_level": 0.96,
     "revenue_impact": 0.62,
     "operational_reliance": 0.283,
-    "timestamp": "2025-10-29T05:33:41.189494"
+    "timestamp": "2025-10-29T05:40:23.997351"
   },
   {
     "asset_id": "d4548389268cf94e",
@@ -267,7 +267,7 @@
     "redundancy_level": 0.75,
     "revenue_impact": 0.57,
     "operational_reliance": 0.291,
-    "timestamp": "2025-10-29T05:33:41.189553"
+    "timestamp": "2025-10-29T05:40:23.997400"
   },
   {
     "asset_id": "8c7699e84ddcb8d7",
@@ -285,7 +285,7 @@
     "redundancy_level": 0.89,
     "revenue_impact": 0.5,
     "operational_reliance": 0.3,
-    "timestamp": "2025-10-29T05:33:41.189608"
+    "timestamp": "2025-10-29T05:40:23.997450"
   },
   {
     "asset_id": "41d6ad24c9722fa9",
@@ -303,7 +303,7 @@
     "redundancy_level": 0.86,
     "revenue_impact": 0.72,
     "operational_reliance": 0.261,
-    "timestamp": "2025-10-29T05:33:41.189661"
+    "timestamp": "2025-10-29T05:40:23.997500"
   },
   {
     "asset_id": "3602f5cd7c69796e",
@@ -321,7 +321,7 @@
     "redundancy_level": 0.25,
     "revenue_impact": 0.69,
     "operational_reliance": 0.332,
-    "timestamp": "2025-10-29T05:33:41.189713"
+    "timestamp": "2025-10-29T05:40:23.997551"
   },
   {
     "asset_id": "594d8a12c2d7bfe2",
@@ -339,7 +339,7 @@
     "redundancy_level": 0.95,
     "revenue_impact": 0.72,
     "operational_reliance": 0.331,
-    "timestamp": "2025-10-29T05:33:41.189764"
+    "timestamp": "2025-10-29T05:40:23.997600"
   },
   {
     "asset_id": "5ba62c9061973004",
@@ -357,7 +357,7 @@
     "redundancy_level": 0.48,
     "revenue_impact": 0.27,
     "operational_reliance": 0.32,
-    "timestamp": "2025-10-29T05:33:41.189815"
+    "timestamp": "2025-10-29T05:40:23.997650"
   },
   {
     "asset_id": "ec85828aaf1da868",
@@ -375,7 +375,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.59,
     "operational_reliance": 0.275,
-    "timestamp": "2025-10-29T05:33:41.189866"
+    "timestamp": "2025-10-29T05:40:23.997700"
   },
   {
     "asset_id": "749e71e6c5b06e30",
@@ -393,7 +393,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.37,
     "operational_reliance": 0.191,
-    "timestamp": "2025-10-29T05:33:41.189916"
+    "timestamp": "2025-10-29T05:40:23.997749"
   },
   {
     "asset_id": "8e2df4fca51a4acc",
@@ -411,7 +411,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.63,
     "operational_reliance": 0.33,
-    "timestamp": "2025-10-29T05:33:41.189970"
+    "timestamp": "2025-10-29T05:40:23.997800"
   },
   {
     "asset_id": "e508198658d26ab6",
@@ -429,7 +429,7 @@
     "redundancy_level": 0.67,
     "revenue_impact": 0.66,
     "operational_reliance": 0.256,
-    "timestamp": "2025-10-29T05:33:41.190021"
+    "timestamp": "2025-10-29T05:40:23.997849"
   },
   {
     "asset_id": "cd16fe6dc8333980",
@@ -447,7 +447,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.56,
     "operational_reliance": 0.381,
-    "timestamp": "2025-10-29T05:33:41.190072"
+    "timestamp": "2025-10-29T05:40:23.997900"
   },
   {
     "asset_id": "6c1e6ddb7b8f5b3d",
@@ -465,7 +465,7 @@
     "redundancy_level": 0.21,
     "revenue_impact": 0.33,
     "operational_reliance": 0.24,
-    "timestamp": "2025-10-29T05:33:41.190122"
+    "timestamp": "2025-10-29T05:40:23.997949"
   },
   {
     "asset_id": "5997236566ef1d97",
@@ -483,7 +483,7 @@
     "redundancy_level": 0.02,
     "revenue_impact": 0.48,
     "operational_reliance": 0.346,
-    "timestamp": "2025-10-29T05:33:41.190173"
+    "timestamp": "2025-10-29T05:40:23.997999"
   },
   {
     "asset_id": "cb30a09ebde1fe09",
@@ -501,7 +501,7 @@
     "redundancy_level": 0.67,
     "revenue_impact": 0.49,
     "operational_reliance": 0.163,
-    "timestamp": "2025-10-29T05:33:41.190222"
+    "timestamp": "2025-10-29T05:40:23.998049"
   },
   {
     "asset_id": "321b9b8d593b9bac",
@@ -519,7 +519,7 @@
     "redundancy_level": 0.82,
     "revenue_impact": 0.78,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:33:41.190273"
+    "timestamp": "2025-10-29T05:40:23.998100"
   },
   {
     "asset_id": "0f97daecb599f255",
@@ -537,7 +537,7 @@
     "redundancy_level": 0.94,
     "revenue_impact": 0.24,
     "operational_reliance": 0.265,
-    "timestamp": "2025-10-29T05:33:41.190322"
+    "timestamp": "2025-10-29T05:40:23.998150"
   },
   {
     "asset_id": "817064af0605d856",
@@ -555,7 +555,7 @@
     "redundancy_level": 0.12,
     "revenue_impact": 0.79,
     "operational_reliance": 0.381,
-    "timestamp": "2025-10-29T05:33:41.190372"
+    "timestamp": "2025-10-29T05:40:23.998200"
   },
   {
     "asset_id": "e64fea60dc50d814",
@@ -573,7 +573,7 @@
     "redundancy_level": 0.01,
     "revenue_impact": 0.39,
     "operational_reliance": 0.326,
-    "timestamp": "2025-10-29T05:33:41.190421"
+    "timestamp": "2025-10-29T05:40:23.998251"
   },
   {
     "asset_id": "ff09713cc13a7446",
@@ -591,7 +591,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.22,
     "operational_reliance": 0.293,
-    "timestamp": "2025-10-29T05:33:41.190470"
+    "timestamp": "2025-10-29T05:40:23.998302"
   },
   {
     "asset_id": "128da1b73af5e796",
@@ -609,7 +609,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.3,
     "operational_reliance": 0.232,
-    "timestamp": "2025-10-29T05:33:41.190520"
+    "timestamp": "2025-10-29T05:40:23.998353"
   },
   {
     "asset_id": "ecd5879465c2711a",
@@ -627,7 +627,7 @@
     "redundancy_level": 0.49,
     "revenue_impact": 0.33,
     "operational_reliance": 0.294,
-    "timestamp": "2025-10-29T05:33:41.190569"
+    "timestamp": "2025-10-29T05:40:23.998402"
   },
   {
     "asset_id": "5d36ea6742ad6081",
@@ -645,7 +645,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.49,
     "operational_reliance": 0.208,
-    "timestamp": "2025-10-29T05:33:41.190618"
+    "timestamp": "2025-10-29T05:40:23.998452"
   },
   {
     "asset_id": "0e2850893e84dd8c",
@@ -663,7 +663,7 @@
     "redundancy_level": 0.69,
     "revenue_impact": 0.55,
     "operational_reliance": 0.282,
-    "timestamp": "2025-10-29T05:33:41.190668"
+    "timestamp": "2025-10-29T05:40:23.998503"
   },
   {
     "asset_id": "38dc53f3a9849f35",
@@ -681,7 +681,7 @@
     "redundancy_level": 0.31,
     "revenue_impact": 0.51,
     "operational_reliance": 0.28,
-    "timestamp": "2025-10-29T05:33:41.190718"
+    "timestamp": "2025-10-29T05:40:23.998554"
   },
   {
     "asset_id": "69a62ba2e7e1faad",
@@ -699,7 +699,7 @@
     "redundancy_level": 0.19,
     "revenue_impact": 0.18,
     "operational_reliance": 0.244,
-    "timestamp": "2025-10-29T05:33:41.190768"
+    "timestamp": "2025-10-29T05:40:23.998606"
   },
   {
     "asset_id": "e467af79fc3d19fc",
@@ -717,7 +717,7 @@
     "redundancy_level": 0.76,
     "revenue_impact": 0.52,
     "operational_reliance": 0.263,
-    "timestamp": "2025-10-29T05:33:41.190817"
+    "timestamp": "2025-10-29T05:40:23.998659"
   },
   {
     "asset_id": "033d4ac61827d71c",
@@ -735,7 +735,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.78,
     "operational_reliance": 0.265,
-    "timestamp": "2025-10-29T05:33:41.190867"
+    "timestamp": "2025-10-29T05:40:23.998711"
   },
   {
     "asset_id": "4719fa00eb251da7",
@@ -753,7 +753,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.5,
     "operational_reliance": 0.241,
-    "timestamp": "2025-10-29T05:33:41.190918"
+    "timestamp": "2025-10-29T05:40:23.998763"
   },
   {
     "asset_id": "e424602967e5ca9d",
@@ -771,7 +771,7 @@
     "redundancy_level": 0.48,
     "revenue_impact": 0.68,
     "operational_reliance": 0.27,
-    "timestamp": "2025-10-29T05:33:41.190967"
+    "timestamp": "2025-10-29T05:40:23.998814"
   },
   {
     "asset_id": "76b0195171ce3fd7",
@@ -789,7 +789,7 @@
     "redundancy_level": 0.56,
     "revenue_impact": 0.31,
     "operational_reliance": 0.205,
-    "timestamp": "2025-10-29T05:33:41.191016"
+    "timestamp": "2025-10-29T05:40:23.998864"
   },
   {
     "asset_id": "bd0a485701d1fb41",
@@ -807,7 +807,7 @@
     "redundancy_level": 0.78,
     "revenue_impact": 0.37,
     "operational_reliance": 0.254,
-    "timestamp": "2025-10-29T05:33:41.191066"
+    "timestamp": "2025-10-29T05:40:23.998915"
   },
   {
     "asset_id": "dd1885e34bd000b9",
@@ -825,7 +825,7 @@
     "redundancy_level": 0.95,
     "revenue_impact": 0.25,
     "operational_reliance": 0.236,
-    "timestamp": "2025-10-29T05:33:41.191116"
+    "timestamp": "2025-10-29T05:40:23.998965"
   },
   {
     "asset_id": "c1440dd4a2f68350",
@@ -843,7 +843,7 @@
     "redundancy_level": 0.0,
     "revenue_impact": 0.42,
     "operational_reliance": 0.266,
-    "timestamp": "2025-10-29T05:33:41.191166"
+    "timestamp": "2025-10-29T05:40:23.999016"
   },
   {
     "asset_id": "3a2c9c3587bd8ae5",
@@ -861,7 +861,7 @@
     "redundancy_level": 0.66,
     "revenue_impact": 0.75,
     "operational_reliance": 0.371,
-    "timestamp": "2025-10-29T05:33:41.191216"
+    "timestamp": "2025-10-29T05:40:23.999067"
   },
   {
     "asset_id": "44a9dccb555f3bd1",
@@ -879,7 +879,7 @@
     "redundancy_level": 0.07,
     "revenue_impact": 0.22,
     "operational_reliance": 0.359,
-    "timestamp": "2025-10-29T05:33:41.191267"
+    "timestamp": "2025-10-29T05:40:23.999117"
   },
   {
     "asset_id": "b5c23414b0ec7d3b",
@@ -897,7 +897,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.48,
     "operational_reliance": 0.286,
-    "timestamp": "2025-10-29T05:33:41.191317"
+    "timestamp": "2025-10-29T05:40:23.999168"
   },
   {
     "asset_id": "4bc4e2e26e53e2ea",
@@ -915,7 +915,7 @@
     "redundancy_level": 0.67,
     "revenue_impact": 0.7,
     "operational_reliance": 0.274,
-    "timestamp": "2025-10-29T05:33:41.191367"
+    "timestamp": "2025-10-29T05:40:23.999258"
   },
   {
     "asset_id": "675861be43739253",
@@ -933,7 +933,7 @@
     "redundancy_level": 0.76,
     "revenue_impact": 0.43,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:33:41.191418"
+    "timestamp": "2025-10-29T05:40:23.999313"
   },
   {
     "asset_id": "c1547aacfeb07b4e",
@@ -951,7 +951,7 @@
     "redundancy_level": 0.09,
     "revenue_impact": 0.34,
     "operational_reliance": 0.306,
-    "timestamp": "2025-10-29T05:33:41.191470"
+    "timestamp": "2025-10-29T05:40:23.999365"
   },
   {
     "asset_id": "52ef4457ace47f48",
@@ -969,7 +969,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.49,
     "operational_reliance": 0.275,
-    "timestamp": "2025-10-29T05:33:41.191526"
+    "timestamp": "2025-10-29T05:40:23.999418"
   },
   {
     "asset_id": "d736af85b9dd5051",
@@ -987,7 +987,7 @@
     "redundancy_level": 0.51,
     "revenue_impact": 0.79,
     "operational_reliance": 0.305,
-    "timestamp": "2025-10-29T05:33:41.191577"
+    "timestamp": "2025-10-29T05:40:23.999471"
   },
   {
     "asset_id": "a44585dda5dffba8",
@@ -1005,7 +1005,7 @@
     "redundancy_level": 0.63,
     "revenue_impact": 0.63,
     "operational_reliance": 0.256,
-    "timestamp": "2025-10-29T05:33:41.191629"
+    "timestamp": "2025-10-29T05:40:23.999525"
   },
   {
     "asset_id": "0ba8bae528f76930",
@@ -1023,7 +1023,7 @@
     "redundancy_level": 0.97,
     "revenue_impact": 0.53,
     "operational_reliance": 0.253,
-    "timestamp": "2025-10-29T05:33:41.191680"
+    "timestamp": "2025-10-29T05:40:23.999577"
   },
   {
     "asset_id": "80d057e199db54b8",
@@ -1041,7 +1041,7 @@
     "redundancy_level": 0.84,
     "revenue_impact": 0.18,
     "operational_reliance": 0.142,
-    "timestamp": "2025-10-29T05:33:41.191731"
+    "timestamp": "2025-10-29T05:40:23.999629"
   },
   {
     "asset_id": "b423fc09e74c2202",
@@ -1059,7 +1059,7 @@
     "redundancy_level": 0.24,
     "revenue_impact": 0.49,
     "operational_reliance": 0.332,
-    "timestamp": "2025-10-29T05:33:41.191782"
+    "timestamp": "2025-10-29T05:40:23.999681"
   },
   {
     "asset_id": "4d27276b8f9e953d",
@@ -1077,7 +1077,7 @@
     "redundancy_level": 0.28,
     "revenue_impact": 0.65,
     "operational_reliance": 0.389,
-    "timestamp": "2025-10-29T05:33:41.191832"
+    "timestamp": "2025-10-29T05:40:23.999734"
   },
   {
     "asset_id": "3865e5b00a3aa158",
@@ -1095,7 +1095,7 @@
     "redundancy_level": 1.0,
     "revenue_impact": 0.44,
     "operational_reliance": 0.223,
-    "timestamp": "2025-10-29T05:33:41.191883"
+    "timestamp": "2025-10-29T05:40:23.999787"
   },
   {
     "asset_id": "8543c15c1152a1f2",
@@ -1113,7 +1113,7 @@
     "redundancy_level": 0.46,
     "revenue_impact": 0.33,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:33:41.191934"
+    "timestamp": "2025-10-29T05:40:23.999839"
   },
   {
     "asset_id": "d34bc2093513181b",
@@ -1131,7 +1131,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.59,
     "operational_reliance": 0.239,
-    "timestamp": "2025-10-29T05:33:41.191987"
+    "timestamp": "2025-10-29T05:40:23.999891"
   },
   {
     "asset_id": "2056cab991cd4884",
@@ -1149,7 +1149,7 @@
     "redundancy_level": 0.1,
     "revenue_impact": 0.69,
     "operational_reliance": 0.353,
-    "timestamp": "2025-10-29T05:33:41.192039"
+    "timestamp": "2025-10-29T05:40:23.999944"
   },
   {
     "asset_id": "b3a0d553efc5549f",
@@ -1167,7 +1167,7 @@
     "redundancy_level": 0.07,
     "revenue_impact": 0.65,
     "operational_reliance": 0.322,
-    "timestamp": "2025-10-29T05:33:41.192090"
+    "timestamp": "2025-10-29T05:40:23.999995"
   },
   {
     "asset_id": "d128a590033cb413",
@@ -1185,7 +1185,7 @@
     "redundancy_level": 0.72,
     "revenue_impact": 0.63,
     "operational_reliance": 0.317,
-    "timestamp": "2025-10-29T05:33:41.192145"
+    "timestamp": "2025-10-29T05:40:24.000047"
   },
   {
     "asset_id": "12080975e268859d",
@@ -1203,7 +1203,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.16,
     "operational_reliance": 0.257,
-    "timestamp": "2025-10-29T05:33:41.192195"
+    "timestamp": "2025-10-29T05:40:24.000098"
   },
   {
     "asset_id": "d5beb9020507967b",
@@ -1221,7 +1221,7 @@
     "redundancy_level": 0.8,
     "revenue_impact": 0.31,
     "operational_reliance": 0.252,
-    "timestamp": "2025-10-29T05:33:41.192247"
+    "timestamp": "2025-10-29T05:40:24.000151"
   },
   {
     "asset_id": "07d5f860722b6a10",
@@ -1239,7 +1239,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.53,
     "operational_reliance": 0.247,
-    "timestamp": "2025-10-29T05:33:41.192298"
+    "timestamp": "2025-10-29T05:40:24.000203"
   },
   {
     "asset_id": "eee8a3577fcdc98e",
@@ -1257,7 +1257,7 @@
     "redundancy_level": 0.26,
     "revenue_impact": 0.11,
     "operational_reliance": 0.247,
-    "timestamp": "2025-10-29T05:33:41.192349"
+    "timestamp": "2025-10-29T05:40:24.000256"
   },
   {
     "asset_id": "7bcb14d51337b607",
@@ -1275,7 +1275,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.55,
     "operational_reliance": 0.246,
-    "timestamp": "2025-10-29T05:33:41.192404"
+    "timestamp": "2025-10-29T05:40:24.000308"
   },
   {
     "asset_id": "d7283dda43eb86ae",
@@ -1293,7 +1293,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.37,
     "operational_reliance": 0.333,
-    "timestamp": "2025-10-29T05:33:41.192455"
+    "timestamp": "2025-10-29T05:40:24.000360"
   },
   {
     "asset_id": "bd1a079a10b5b11d",
@@ -1311,7 +1311,7 @@
     "redundancy_level": 0.91,
     "revenue_impact": 0.62,
     "operational_reliance": 0.302,
-    "timestamp": "2025-10-29T05:33:41.192507"
+    "timestamp": "2025-10-29T05:40:24.000412"
   },
   {
     "asset_id": "68dbe3cc4ec8f152",
@@ -1329,7 +1329,7 @@
     "redundancy_level": 0.68,
     "revenue_impact": 0.6,
     "operational_reliance": 0.283,
-    "timestamp": "2025-10-29T05:33:41.192558"
+    "timestamp": "2025-10-29T05:40:24.000464"
   },
   {
     "asset_id": "71a1bdbe675dd304",
@@ -1347,7 +1347,7 @@
     "redundancy_level": 0.58,
     "revenue_impact": 0.61,
     "operational_reliance": 0.317,
-    "timestamp": "2025-10-29T05:33:41.192610"
+    "timestamp": "2025-10-29T05:40:24.000516"
   },
   {
     "asset_id": "e7e3505bc8c30b70",
@@ -1365,7 +1365,7 @@
     "redundancy_level": 0.53,
     "revenue_impact": 0.74,
     "operational_reliance": 0.276,
-    "timestamp": "2025-10-29T05:33:41.192661"
+    "timestamp": "2025-10-29T05:40:24.000568"
   },
   {
     "asset_id": "867146b01fe34d50",
@@ -1383,7 +1383,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.66,
     "operational_reliance": 0.35,
-    "timestamp": "2025-10-29T05:33:41.192714"
+    "timestamp": "2025-10-29T05:40:24.000621"
   },
   {
     "asset_id": "60a868d84475247b",
@@ -1401,7 +1401,7 @@
     "redundancy_level": 0.98,
     "revenue_impact": 0.78,
     "operational_reliance": 0.323,
-    "timestamp": "2025-10-29T05:33:41.192766"
+    "timestamp": "2025-10-29T05:40:24.000673"
   },
   {
     "asset_id": "abded1e52f042374",
@@ -1419,7 +1419,7 @@
     "redundancy_level": 0.26,
     "revenue_impact": 0.37,
     "operational_reliance": 0.252,
-    "timestamp": "2025-10-29T05:33:41.192818"
+    "timestamp": "2025-10-29T05:40:24.000725"
   },
   {
     "asset_id": "8309360272a03936",
@@ -1437,7 +1437,7 @@
     "redundancy_level": 0.33,
     "revenue_impact": 0.53,
     "operational_reliance": 0.345,
-    "timestamp": "2025-10-29T05:33:41.192870"
+    "timestamp": "2025-10-29T05:40:24.000777"
   },
   {
     "asset_id": "95db685a11324810",
@@ -1455,7 +1455,7 @@
     "redundancy_level": 0.95,
     "revenue_impact": 0.31,
     "operational_reliance": 0.204,
-    "timestamp": "2025-10-29T05:33:41.192922"
+    "timestamp": "2025-10-29T05:40:24.000831"
   },
   {
     "asset_id": "eed9313887fdb4ce",
@@ -1473,7 +1473,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.21,
     "operational_reliance": 0.289,
-    "timestamp": "2025-10-29T05:33:41.192974"
+    "timestamp": "2025-10-29T05:40:24.000883"
   },
   {
     "asset_id": "7cbb70abea8a2626",
@@ -1491,7 +1491,7 @@
     "redundancy_level": 0.44,
     "revenue_impact": 0.27,
     "operational_reliance": 0.269,
-    "timestamp": "2025-10-29T05:33:41.193026"
+    "timestamp": "2025-10-29T05:40:24.000935"
   },
   {
     "asset_id": "fb3f30c7e1f4ab68",
@@ -1509,7 +1509,7 @@
     "redundancy_level": 0.06,
     "revenue_impact": 0.29,
     "operational_reliance": 0.358,
-    "timestamp": "2025-10-29T05:33:41.193078"
+    "timestamp": "2025-10-29T05:40:24.000987"
   },
   {
     "asset_id": "91515d7bf3a9f901",
@@ -1527,7 +1527,7 @@
     "redundancy_level": 0.05,
     "revenue_impact": 0.33,
     "operational_reliance": 0.289,
-    "timestamp": "2025-10-29T05:33:41.193131"
+    "timestamp": "2025-10-29T05:40:24.001042"
   },
   {
     "asset_id": "d010ef8bfece2204",
@@ -1545,7 +1545,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.33,
     "operational_reliance": 0.203,
-    "timestamp": "2025-10-29T05:33:41.193184"
+    "timestamp": "2025-10-29T05:40:24.001095"
   },
   {
     "asset_id": "76b34749c883a6b9",
@@ -1563,7 +1563,7 @@
     "redundancy_level": 0.8,
     "revenue_impact": 0.18,
     "operational_reliance": 0.287,
-    "timestamp": "2025-10-29T05:33:41.193236"
+    "timestamp": "2025-10-29T05:40:24.001148"
   },
   {
     "asset_id": "a8cce04560ff6707",
@@ -1581,7 +1581,7 @@
     "redundancy_level": 0.17,
     "revenue_impact": 0.14,
     "operational_reliance": 0.258,
-    "timestamp": "2025-10-29T05:33:41.193288"
+    "timestamp": "2025-10-29T05:40:24.001201"
   },
   {
     "asset_id": "6ec70842df43185f",
@@ -1599,7 +1599,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.45,
     "operational_reliance": 0.349,
-    "timestamp": "2025-10-29T05:33:41.193340"
+    "timestamp": "2025-10-29T05:40:24.001255"
   },
   {
     "asset_id": "d89c754a4c8e16f7",
@@ -1617,7 +1617,7 @@
     "redundancy_level": 0.4,
     "revenue_impact": 0.58,
     "operational_reliance": 0.324,
-    "timestamp": "2025-10-29T05:33:41.193393"
+    "timestamp": "2025-10-29T05:40:24.001309"
   },
   {
     "asset_id": "c0a9e93fcfba8875",
@@ -1635,7 +1635,7 @@
     "redundancy_level": 0.28,
     "revenue_impact": 0.54,
     "operational_reliance": 0.225,
-    "timestamp": "2025-10-29T05:33:41.193445"
+    "timestamp": "2025-10-29T05:40:24.001362"
   },
   {
     "asset_id": "e4322376a1e9040c",
@@ -1653,7 +1653,7 @@
     "redundancy_level": 0.43,
     "revenue_impact": 0.66,
     "operational_reliance": 0.302,
-    "timestamp": "2025-10-29T05:33:41.193502"
+    "timestamp": "2025-10-29T05:40:24.001416"
   },
   {
     "asset_id": "08d132f8cc2918c2",
@@ -1671,7 +1671,7 @@
     "redundancy_level": 0.4,
     "revenue_impact": 0.61,
     "operational_reliance": 0.355,
-    "timestamp": "2025-10-29T05:33:41.193556"
+    "timestamp": "2025-10-29T05:40:24.001469"
   },
   {
     "asset_id": "2016df9752bf05da",
@@ -1689,7 +1689,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.67,
     "operational_reliance": 0.242,
-    "timestamp": "2025-10-29T05:33:41.193616"
+    "timestamp": "2025-10-29T05:40:24.001522"
   },
   {
     "asset_id": "42ac3a680a6d965b",
@@ -1707,7 +1707,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.57,
     "operational_reliance": 0.291,
-    "timestamp": "2025-10-29T05:33:41.193670"
+    "timestamp": "2025-10-29T05:40:24.001575"
   },
   {
     "asset_id": "5e73c23136da0eeb",
@@ -1725,7 +1725,7 @@
     "redundancy_level": 0.21,
     "revenue_impact": 0.56,
     "operational_reliance": 0.355,
-    "timestamp": "2025-10-29T05:33:41.193723"
+    "timestamp": "2025-10-29T05:40:24.001628"
   },
   {
     "asset_id": "0571c0e5ba5fc103",
@@ -1743,7 +1743,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.4,
     "operational_reliance": 0.268,
-    "timestamp": "2025-10-29T05:33:41.193777"
+    "timestamp": "2025-10-29T05:40:24.001682"
   },
   {
     "asset_id": "e6a274ecb7f645ac",
@@ -1761,7 +1761,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.63,
     "operational_reliance": 0.329,
-    "timestamp": "2025-10-29T05:33:41.193833"
+    "timestamp": "2025-10-29T05:40:24.001736"
   },
   {
     "asset_id": "9fef2977b8857e70",
@@ -1779,7 +1779,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.54,
     "operational_reliance": 0.331,
-    "timestamp": "2025-10-29T05:33:41.193887"
+    "timestamp": "2025-10-29T05:40:24.001789"
   },
   {
     "asset_id": "abd9e58a22b6ae09",
@@ -1797,7 +1797,7 @@
     "redundancy_level": 0.37,
     "revenue_impact": 0.61,
     "operational_reliance": 0.287,
-    "timestamp": "2025-10-29T05:33:41.193940"
+    "timestamp": "2025-10-29T05:40:24.001843"
   },
   {
     "asset_id": "efbf86b87f1f24b7",
@@ -1815,7 +1815,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.41,
     "operational_reliance": 0.298,
-    "timestamp": "2025-10-29T05:33:41.193994"
+    "timestamp": "2025-10-29T05:40:24.001896"
   },
   {
     "asset_id": "164fb8166340bd73",
@@ -1833,7 +1833,7 @@
     "redundancy_level": 0.53,
     "revenue_impact": 0.32,
     "operational_reliance": 0.232,
-    "timestamp": "2025-10-29T05:33:41.194048"
+    "timestamp": "2025-10-29T05:40:24.001951"
   },
   {
     "asset_id": "74896a6fa142458f",
@@ -1851,7 +1851,7 @@
     "redundancy_level": 0.77,
     "revenue_impact": 0.63,
     "operational_reliance": 0.266,
-    "timestamp": "2025-10-29T05:33:41.194105"
+    "timestamp": "2025-10-29T05:40:24.002005"
   },
   {
     "asset_id": "3fad66d12ad5a8e2",
@@ -1869,7 +1869,7 @@
     "redundancy_level": 0.53,
     "revenue_impact": 0.26,
     "operational_reliance": 0.213,
-    "timestamp": "2025-10-29T05:33:41.194160"
+    "timestamp": "2025-10-29T05:40:24.002060"
   },
   {
     "asset_id": "4e5eae1087a50ca5",
@@ -1887,7 +1887,7 @@
     "redundancy_level": 0.92,
     "revenue_impact": 0.7,
     "operational_reliance": 0.224,
-    "timestamp": "2025-10-29T05:33:41.194214"
+    "timestamp": "2025-10-29T05:40:24.002116"
   },
   {
     "asset_id": "a8d09543b1094302",
@@ -1905,7 +1905,7 @@
     "redundancy_level": 0.02,
     "revenue_impact": 0.33,
     "operational_reliance": 0.317,
-    "timestamp": "2025-10-29T05:33:41.194268"
+    "timestamp": "2025-10-29T05:40:24.002171"
   },
   {
     "asset_id": "6788419cbcce903f",
@@ -1923,7 +1923,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.71,
     "operational_reliance": 0.297,
-    "timestamp": "2025-10-29T05:33:41.194323"
+    "timestamp": "2025-10-29T05:40:24.002225"
   },
   {
     "asset_id": "cd510dd9b0f9f400",
@@ -1941,7 +1941,7 @@
     "redundancy_level": 0.51,
     "revenue_impact": 0.73,
     "operational_reliance": 0.245,
-    "timestamp": "2025-10-29T05:33:41.194377"
+    "timestamp": "2025-10-29T05:40:24.002279"
   },
   {
     "asset_id": "eeb5f076ffe4a4b0",
@@ -1959,7 +1959,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.24,
     "operational_reliance": 0.345,
-    "timestamp": "2025-10-29T05:33:41.194431"
+    "timestamp": "2025-10-29T05:40:24.002333"
   },
   {
     "asset_id": "060aa79bd5584833",
@@ -1977,7 +1977,7 @@
     "redundancy_level": 0.49,
     "revenue_impact": 0.63,
     "operational_reliance": 0.328,
-    "timestamp": "2025-10-29T05:33:41.194486"
+    "timestamp": "2025-10-29T05:40:24.002388"
   },
   {
     "asset_id": "e8232ec382592aa3",
@@ -1995,7 +1995,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.35,
     "operational_reliance": 0.279,
-    "timestamp": "2025-10-29T05:33:41.194540"
+    "timestamp": "2025-10-29T05:40:24.002442"
   },
   {
     "asset_id": "1cf40c97918be0ee",
@@ -2013,7 +2013,7 @@
     "redundancy_level": 0.64,
     "revenue_impact": 0.78,
     "operational_reliance": 0.236,
-    "timestamp": "2025-10-29T05:33:41.194594"
+    "timestamp": "2025-10-29T05:40:24.002497"
   },
   {
     "asset_id": "c32d662d0e042225",
@@ -2031,7 +2031,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.67,
     "operational_reliance": 0.348,
-    "timestamp": "2025-10-29T05:33:41.194648"
+    "timestamp": "2025-10-29T05:40:24.002551"
   },
   {
     "asset_id": "84a968d306bf6855",
@@ -2049,7 +2049,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.69,
     "operational_reliance": 0.303,
-    "timestamp": "2025-10-29T05:33:41.194703"
+    "timestamp": "2025-10-29T05:40:24.002605"
   },
   {
     "asset_id": "a0e4deb646b5f4aa",
@@ -2067,7 +2067,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.36,
     "operational_reliance": 0.282,
-    "timestamp": "2025-10-29T05:33:41.194757"
+    "timestamp": "2025-10-29T05:40:24.002661"
   },
   {
     "asset_id": "fb633831b052a562",
@@ -2085,7 +2085,7 @@
     "redundancy_level": 0.65,
     "revenue_impact": 0.15,
     "operational_reliance": 0.236,
-    "timestamp": "2025-10-29T05:33:41.194813"
+    "timestamp": "2025-10-29T05:40:24.002718"
   },
   {
     "asset_id": "840eb3a699400470",
@@ -2103,7 +2103,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.33,
     "operational_reliance": 0.271,
-    "timestamp": "2025-10-29T05:33:41.194868"
+    "timestamp": "2025-10-29T05:40:24.002772"
   },
   {
     "asset_id": "0b375d454468b800",
@@ -2121,7 +2121,7 @@
     "redundancy_level": 0.13,
     "revenue_impact": 0.6,
     "operational_reliance": 0.356,
-    "timestamp": "2025-10-29T05:33:41.194924"
+    "timestamp": "2025-10-29T05:40:24.002828"
   },
   {
     "asset_id": "4bd70b94997ebbde",
@@ -2139,7 +2139,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.76,
     "operational_reliance": 0.281,
-    "timestamp": "2025-10-29T05:33:41.194980"
+    "timestamp": "2025-10-29T05:40:24.002885"
   },
   {
     "asset_id": "375c227e2f7d7f15",
@@ -2157,7 +2157,7 @@
     "redundancy_level": 0.77,
     "revenue_impact": 0.23,
     "operational_reliance": 0.196,
-    "timestamp": "2025-10-29T05:33:41.195036"
+    "timestamp": "2025-10-29T05:40:24.002940"
   },
   {
     "asset_id": "b2152554daaeadde",
@@ -2175,7 +2175,7 @@
     "redundancy_level": 0.84,
     "revenue_impact": 0.72,
     "operational_reliance": 0.277,
-    "timestamp": "2025-10-29T05:33:41.195092"
+    "timestamp": "2025-10-29T05:40:24.002997"
   },
   {
     "asset_id": "bbea017bf09ac439",
@@ -2193,7 +2193,7 @@
     "redundancy_level": 0.18,
     "revenue_impact": 0.58,
     "operational_reliance": 0.349,
-    "timestamp": "2025-10-29T05:33:41.195147"
+    "timestamp": "2025-10-29T05:40:24.003053"
   },
   {
     "asset_id": "7a6a16d77fe1ce2d",
@@ -2211,7 +2211,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.27,
     "operational_reliance": 0.356,
-    "timestamp": "2025-10-29T05:33:41.195203"
+    "timestamp": "2025-10-29T05:40:24.003108"
   },
   {
     "asset_id": "fa31cf99fb0380ee",
@@ -2229,7 +2229,7 @@
     "redundancy_level": 0.28,
     "revenue_impact": 0.37,
     "operational_reliance": 0.354,
-    "timestamp": "2025-10-29T05:33:41.195258"
+    "timestamp": "2025-10-29T05:40:24.003163"
   },
   {
     "asset_id": "78d3547e4accfba8",
@@ -2247,7 +2247,7 @@
     "redundancy_level": 0.25,
     "revenue_impact": 0.55,
     "operational_reliance": 0.374,
-    "timestamp": "2025-10-29T05:33:41.195314"
+    "timestamp": "2025-10-29T05:40:24.003219"
   },
   {
     "asset_id": "5ec67e119c4bcf61",
@@ -2265,7 +2265,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.41,
     "operational_reliance": 0.286,
-    "timestamp": "2025-10-29T05:33:41.195370"
+    "timestamp": "2025-10-29T05:40:24.003275"
   },
   {
     "asset_id": "cc78c0798792d4e8",
@@ -2283,7 +2283,7 @@
     "redundancy_level": 0.39,
     "revenue_impact": 0.16,
     "operational_reliance": 0.27,
-    "timestamp": "2025-10-29T05:33:41.195426"
+    "timestamp": "2025-10-29T05:40:24.003331"
   },
   {
     "asset_id": "22fb1a25c790b4c1",
@@ -2301,7 +2301,7 @@
     "redundancy_level": 0.29,
     "revenue_impact": 0.68,
     "operational_reliance": 0.359,
-    "timestamp": "2025-10-29T05:33:41.195482"
+    "timestamp": "2025-10-29T05:40:24.003388"
   },
   {
     "asset_id": "44c2124967be3dbf",
@@ -2319,7 +2319,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.48,
     "operational_reliance": 0.163,
-    "timestamp": "2025-10-29T05:33:41.195538"
+    "timestamp": "2025-10-29T05:40:24.003444"
   },
   {
     "asset_id": "34ff1d9fda16607b",
@@ -2337,7 +2337,7 @@
     "redundancy_level": 0.42,
     "revenue_impact": 0.66,
     "operational_reliance": 0.234,
-    "timestamp": "2025-10-29T05:33:41.195595"
+    "timestamp": "2025-10-29T05:40:24.003499"
   },
   {
     "asset_id": "78b05f17e9afb1b3",
@@ -2355,7 +2355,7 @@
     "redundancy_level": 0.52,
     "revenue_impact": 0.27,
     "operational_reliance": 0.258,
-    "timestamp": "2025-10-29T05:33:41.195651"
+    "timestamp": "2025-10-29T05:40:24.003556"
   },
   {
     "asset_id": "6da677108887bf44",
@@ -2373,7 +2373,7 @@
     "redundancy_level": 0.36,
     "revenue_impact": 0.77,
     "operational_reliance": 0.307,
-    "timestamp": "2025-10-29T05:33:41.195707"
+    "timestamp": "2025-10-29T05:40:24.003612"
   },
   {
     "asset_id": "6a855c6dd249f9b7",
@@ -2391,7 +2391,7 @@
     "redundancy_level": 0.25,
     "revenue_impact": 0.11,
     "operational_reliance": 0.295,
-    "timestamp": "2025-10-29T05:33:41.195763"
+    "timestamp": "2025-10-29T05:40:24.003669"
   },
   {
     "asset_id": "280f2bc9262bda79",
@@ -2409,7 +2409,7 @@
     "redundancy_level": 0.76,
     "revenue_impact": 0.19,
     "operational_reliance": 0.212,
-    "timestamp": "2025-10-29T05:33:41.195819"
+    "timestamp": "2025-10-29T05:40:24.003727"
   },
   {
     "asset_id": "6d11bfbd5616c367",
@@ -2427,7 +2427,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.54,
     "operational_reliance": 0.269,
-    "timestamp": "2025-10-29T05:33:41.195875"
+    "timestamp": "2025-10-29T05:40:24.003783"
   },
   {
     "asset_id": "0643e79d18c144b5",
@@ -2445,7 +2445,7 @@
     "redundancy_level": 0.31,
     "revenue_impact": 0.38,
     "operational_reliance": 0.315,
-    "timestamp": "2025-10-29T05:33:41.195931"
+    "timestamp": "2025-10-29T05:40:24.003839"
   },
   {
     "asset_id": "b43d50561bd339a4",
@@ -2463,7 +2463,7 @@
     "redundancy_level": 0.78,
     "revenue_impact": 0.71,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:33:41.195987"
+    "timestamp": "2025-10-29T05:40:24.003896"
   },
   {
     "asset_id": "b5790d180e43b6ab",
@@ -2481,7 +2481,7 @@
     "redundancy_level": 0.97,
     "revenue_impact": 0.45,
     "operational_reliance": 0.298,
-    "timestamp": "2025-10-29T05:33:41.196044"
+    "timestamp": "2025-10-29T05:40:24.003953"
   },
   {
     "asset_id": "33fcaccd7b1b3b4a",
@@ -2499,7 +2499,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.52,
     "operational_reliance": 0.386,
-    "timestamp": "2025-10-29T05:33:41.196100"
+    "timestamp": "2025-10-29T05:40:24.004010"
   },
   {
     "asset_id": "c0fbaa926ed789de",
@@ -2517,7 +2517,7 @@
     "redundancy_level": 0.6,
     "revenue_impact": 0.4,
     "operational_reliance": 0.211,
-    "timestamp": "2025-10-29T05:33:41.196156"
+    "timestamp": "2025-10-29T05:40:24.004067"
   },
   {
     "asset_id": "6987eff89b6b10e2",
@@ -2535,7 +2535,7 @@
     "redundancy_level": 0.43,
     "revenue_impact": 0.55,
     "operational_reliance": 0.346,
-    "timestamp": "2025-10-29T05:33:41.196213"
+    "timestamp": "2025-10-29T05:40:24.004124"
   },
   {
     "asset_id": "6384ae0afe5748d1",
@@ -2553,7 +2553,7 @@
     "redundancy_level": 0.85,
     "revenue_impact": 0.57,
     "operational_reliance": 0.243,
-    "timestamp": "2025-10-29T05:33:41.196269"
+    "timestamp": "2025-10-29T05:40:24.004183"
   },
   {
     "asset_id": "e8bacb02da6cf909",
@@ -2571,7 +2571,7 @@
     "redundancy_level": 0.95,
     "revenue_impact": 0.12,
     "operational_reliance": 0.154,
-    "timestamp": "2025-10-29T05:33:41.196329"
+    "timestamp": "2025-10-29T05:40:24.004241"
   },
   {
     "asset_id": "888e15e4978f4303",
@@ -2589,7 +2589,7 @@
     "redundancy_level": 0.53,
     "revenue_impact": 0.38,
     "operational_reliance": 0.305,
-    "timestamp": "2025-10-29T05:33:41.196387"
+    "timestamp": "2025-10-29T05:40:24.004297"
   },
   {
     "asset_id": "4fd38e015f18128f",
@@ -2607,7 +2607,7 @@
     "redundancy_level": 0.21,
     "revenue_impact": 0.53,
     "operational_reliance": 0.333,
-    "timestamp": "2025-10-29T05:33:41.196444"
+    "timestamp": "2025-10-29T05:40:24.004354"
   },
   {
     "asset_id": "c18c0fad6409d2d8",
@@ -2625,7 +2625,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.16,
     "operational_reliance": 0.287,
-    "timestamp": "2025-10-29T05:33:41.196501"
+    "timestamp": "2025-10-29T05:40:24.004411"
   },
   {
     "asset_id": "49bb4eb550fa929a",
@@ -2643,7 +2643,7 @@
     "redundancy_level": 0.71,
     "revenue_impact": 0.59,
     "operational_reliance": 0.23,
-    "timestamp": "2025-10-29T05:33:41.196559"
+    "timestamp": "2025-10-29T05:40:24.004468"
   },
   {
     "asset_id": "15036947ff234ab4",
@@ -2661,7 +2661,7 @@
     "redundancy_level": 0.79,
     "revenue_impact": 0.12,
     "operational_reliance": 0.148,
-    "timestamp": "2025-10-29T05:33:41.196617"
+    "timestamp": "2025-10-29T05:40:24.004525"
   },
   {
     "asset_id": "217d3209d9af225f",
@@ -2679,7 +2679,7 @@
     "redundancy_level": 0.07,
     "revenue_impact": 0.38,
     "operational_reliance": 0.365,
-    "timestamp": "2025-10-29T05:33:41.196673"
+    "timestamp": "2025-10-29T05:40:24.004583"
   },
   {
     "asset_id": "aea4966cdf1c1b59",
@@ -2697,7 +2697,7 @@
     "redundancy_level": 0.64,
     "revenue_impact": 0.41,
     "operational_reliance": 0.315,
-    "timestamp": "2025-10-29T05:33:41.196731"
+    "timestamp": "2025-10-29T05:40:24.004640"
   },
   {
     "asset_id": "4ee86820a954fb64",
@@ -2715,7 +2715,7 @@
     "redundancy_level": 0.77,
     "revenue_impact": 0.19,
     "operational_reliance": 0.244,
-    "timestamp": "2025-10-29T05:33:41.196789"
+    "timestamp": "2025-10-29T05:40:24.004699"
   },
   {
     "asset_id": "77a6a190bf3b6f6b",
@@ -2733,7 +2733,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.26,
     "operational_reliance": 0.216,
-    "timestamp": "2025-10-29T05:33:41.196846"
+    "timestamp": "2025-10-29T05:40:24.004756"
   },
   {
     "asset_id": "860818e2b2fa3374",
@@ -2751,7 +2751,7 @@
     "redundancy_level": 0.17,
     "revenue_impact": 0.76,
     "operational_reliance": 0.304,
-    "timestamp": "2025-10-29T05:33:41.196904"
+    "timestamp": "2025-10-29T05:40:24.004816"
   },
   {
     "asset_id": "f629990212326c6f",
@@ -2769,7 +2769,7 @@
     "redundancy_level": 0.05,
     "revenue_impact": 0.55,
     "operational_reliance": 0.357,
-    "timestamp": "2025-10-29T05:33:41.196961"
+    "timestamp": "2025-10-29T05:40:24.004876"
   },
   {
     "asset_id": "636022c4f96c9c04",
@@ -2787,7 +2787,7 @@
     "redundancy_level": 0.5,
     "revenue_impact": 0.54,
     "operational_reliance": 0.33,
-    "timestamp": "2025-10-29T05:33:41.197019"
+    "timestamp": "2025-10-29T05:40:24.004934"
   },
   {
     "asset_id": "62cf1252253dcb11",
@@ -2805,7 +2805,7 @@
     "redundancy_level": 0.07,
     "revenue_impact": 0.14,
     "operational_reliance": 0.321,
-    "timestamp": "2025-10-29T05:33:41.197077"
+    "timestamp": "2025-10-29T05:40:24.004992"
   },
   {
     "asset_id": "55d4291269877487",
@@ -2823,7 +2823,7 @@
     "redundancy_level": 0.99,
     "revenue_impact": 0.34,
     "operational_reliance": 0.186,
-    "timestamp": "2025-10-29T05:33:41.197135"
+    "timestamp": "2025-10-29T05:40:24.005050"
   },
   {
     "asset_id": "d834a541f353c2db",
@@ -2841,7 +2841,7 @@
     "redundancy_level": 0.12,
     "revenue_impact": 0.41,
     "operational_reliance": 0.299,
-    "timestamp": "2025-10-29T05:33:41.197193"
+    "timestamp": "2025-10-29T05:40:24.005108"
   },
   {
     "asset_id": "a1fabb9ab4a17b90",
@@ -2859,7 +2859,7 @@
     "redundancy_level": 0.96,
     "revenue_impact": 0.73,
     "operational_reliance": 0.294,
-    "timestamp": "2025-10-29T05:33:41.197251"
+    "timestamp": "2025-10-29T05:40:24.005165"
   },
   {
     "asset_id": "c632e401e3186e9c",
@@ -2877,7 +2877,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.45,
     "operational_reliance": 0.214,
-    "timestamp": "2025-10-29T05:33:41.197309"
+    "timestamp": "2025-10-29T05:40:24.005223"
   },
   {
     "asset_id": "ce49725bd385fe9d",
@@ -2895,7 +2895,7 @@
     "redundancy_level": 0.84,
     "revenue_impact": 0.57,
     "operational_reliance": 0.215,
-    "timestamp": "2025-10-29T05:33:41.197367"
+    "timestamp": "2025-10-29T05:40:24.005281"
   },
   {
     "asset_id": "7867760e40577568",
@@ -2913,7 +2913,7 @@
     "redundancy_level": 0.76,
     "revenue_impact": 0.36,
     "operational_reliance": 0.291,
-    "timestamp": "2025-10-29T05:33:41.197425"
+    "timestamp": "2025-10-29T05:40:24.005339"
   },
   {
     "asset_id": "078d9312d8b5dedd",
@@ -2931,7 +2931,7 @@
     "redundancy_level": 0.5,
     "revenue_impact": 0.64,
     "operational_reliance": 0.255,
-    "timestamp": "2025-10-29T05:33:41.197482"
+    "timestamp": "2025-10-29T05:40:24.005399"
   },
   {
     "asset_id": "f05292bc38c8657a",
@@ -2949,7 +2949,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.52,
     "operational_reliance": 0.36,
-    "timestamp": "2025-10-29T05:33:41.197540"
+    "timestamp": "2025-10-29T05:40:24.005458"
   },
   {
     "asset_id": "abf9e5968e7441fc",
@@ -2967,7 +2967,7 @@
     "redundancy_level": 0.61,
     "revenue_impact": 0.46,
     "operational_reliance": 0.227,
-    "timestamp": "2025-10-29T05:33:41.197598"
+    "timestamp": "2025-10-29T05:40:24.005518"
   },
   {
     "asset_id": "b03e94d44c231882",
@@ -2985,7 +2985,7 @@
     "redundancy_level": 0.34,
     "revenue_impact": 0.68,
     "operational_reliance": 0.35,
-    "timestamp": "2025-10-29T05:33:41.197656"
+    "timestamp": "2025-10-29T05:40:24.005579"
   },
   {
     "asset_id": "0d72b6983daab82b",
@@ -3003,7 +3003,7 @@
     "redundancy_level": 0.67,
     "revenue_impact": 0.79,
     "operational_reliance": 0.302,
-    "timestamp": "2025-10-29T05:33:41.197714"
+    "timestamp": "2025-10-29T05:40:24.005640"
   },
   {
     "asset_id": "de61b12408edfd43",
@@ -3021,7 +3021,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.78,
     "operational_reliance": 0.344,
-    "timestamp": "2025-10-29T05:33:41.197772"
+    "timestamp": "2025-10-29T05:40:24.005701"
   },
   {
     "asset_id": "62d2346f88741a85",
@@ -3039,7 +3039,7 @@
     "redundancy_level": 0.62,
     "revenue_impact": 0.69,
     "operational_reliance": 0.304,
-    "timestamp": "2025-10-29T05:33:41.197831"
+    "timestamp": "2025-10-29T05:40:24.005760"
   },
   {
     "asset_id": "cad89838f5e6a2d2",
@@ -3057,7 +3057,7 @@
     "redundancy_level": 0.42,
     "revenue_impact": 0.39,
     "operational_reliance": 0.287,
-    "timestamp": "2025-10-29T05:33:41.197890"
+    "timestamp": "2025-10-29T05:40:24.005820"
   },
   {
     "asset_id": "253d57345be6a75a",
@@ -3075,7 +3075,7 @@
     "redundancy_level": 0.73,
     "revenue_impact": 0.59,
     "operational_reliance": 0.301,
-    "timestamp": "2025-10-29T05:33:41.197949"
+    "timestamp": "2025-10-29T05:40:24.005879"
   },
   {
     "asset_id": "9f8733b19fb910cf",
@@ -3093,7 +3093,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.64,
     "operational_reliance": 0.285,
-    "timestamp": "2025-10-29T05:33:41.198008"
+    "timestamp": "2025-10-29T05:40:24.005937"
   },
   {
     "asset_id": "1f03b51d2de7c2e4",
@@ -3111,7 +3111,7 @@
     "redundancy_level": 0.97,
     "revenue_impact": 0.31,
     "operational_reliance": 0.166,
-    "timestamp": "2025-10-29T05:33:41.198068"
+    "timestamp": "2025-10-29T05:40:24.005997"
   },
   {
     "asset_id": "3bba1f4e1585fe27",
@@ -3129,7 +3129,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.61,
     "operational_reliance": 0.269,
-    "timestamp": "2025-10-29T05:33:41.198129"
+    "timestamp": "2025-10-29T05:40:24.006056"
   },
   {
     "asset_id": "157ae785850d0dfe",
@@ -3147,7 +3147,7 @@
     "redundancy_level": 0.71,
     "revenue_impact": 0.34,
     "operational_reliance": 0.285,
-    "timestamp": "2025-10-29T05:33:41.198188"
+    "timestamp": "2025-10-29T05:40:24.006117"
   },
   {
     "asset_id": "b3fa25e8e9a49be3",
@@ -3165,7 +3165,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.53,
     "operational_reliance": 0.345,
-    "timestamp": "2025-10-29T05:33:41.198248"
+    "timestamp": "2025-10-29T05:40:24.006176"
   },
   {
     "asset_id": "3f8c0025aff87cf1",
@@ -3183,7 +3183,7 @@
     "redundancy_level": 0.05,
     "revenue_impact": 0.39,
     "operational_reliance": 0.331,
-    "timestamp": "2025-10-29T05:33:41.198310"
+    "timestamp": "2025-10-29T05:40:24.006236"
   },
   {
     "asset_id": "853a93e55e872788",
@@ -3201,7 +3201,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.56,
     "operational_reliance": 0.349,
-    "timestamp": "2025-10-29T05:33:41.198370"
+    "timestamp": "2025-10-29T05:40:24.006296"
   },
   {
     "asset_id": "ebdb47c599789dbb",
@@ -3219,7 +3219,7 @@
     "redundancy_level": 0.06,
     "revenue_impact": 0.64,
     "operational_reliance": 0.355,
-    "timestamp": "2025-10-29T05:33:41.198429"
+    "timestamp": "2025-10-29T05:40:24.006355"
   },
   {
     "asset_id": "8e76aeeef75718de",
@@ -3237,7 +3237,7 @@
     "redundancy_level": 0.18,
     "revenue_impact": 0.72,
     "operational_reliance": 0.409,
-    "timestamp": "2025-10-29T05:33:41.198490"
+    "timestamp": "2025-10-29T05:40:24.006414"
   },
   {
     "asset_id": "d9f436f064ebdbdc",
@@ -3255,7 +3255,7 @@
     "redundancy_level": 0.04,
     "revenue_impact": 0.31,
     "operational_reliance": 0.329,
-    "timestamp": "2025-10-29T05:33:41.198549"
+    "timestamp": "2025-10-29T05:40:24.006474"
   },
   {
     "asset_id": "9ed3051cdd15a55e",
@@ -3273,7 +3273,7 @@
     "redundancy_level": 0.52,
     "revenue_impact": 0.72,
     "operational_reliance": 0.32,
-    "timestamp": "2025-10-29T05:33:41.198609"
+    "timestamp": "2025-10-29T05:40:24.006538"
   },
   {
     "asset_id": "68d24c904bd6981d",
@@ -3291,7 +3291,7 @@
     "redundancy_level": 0.01,
     "revenue_impact": 0.34,
     "operational_reliance": 0.35,
-    "timestamp": "2025-10-29T05:33:41.198672"
+    "timestamp": "2025-10-29T05:40:24.006598"
   },
   {
     "asset_id": "075b783dab52a906",
@@ -3309,7 +3309,7 @@
     "redundancy_level": 0.33,
     "revenue_impact": 0.38,
     "operational_reliance": 0.303,
-    "timestamp": "2025-10-29T05:33:41.198733"
+    "timestamp": "2025-10-29T05:40:24.006657"
   },
   {
     "asset_id": "babb5e872dd53f1a",
@@ -3327,7 +3327,7 @@
     "redundancy_level": 0.38,
     "revenue_impact": 0.41,
     "operational_reliance": 0.315,
-    "timestamp": "2025-10-29T05:33:41.198794"
+    "timestamp": "2025-10-29T05:40:24.006717"
   },
   {
     "asset_id": "a07027b72a444012",
@@ -3345,7 +3345,7 @@
     "redundancy_level": 0.69,
     "revenue_impact": 0.14,
     "operational_reliance": 0.225,
-    "timestamp": "2025-10-29T05:33:41.198854"
+    "timestamp": "2025-10-29T05:40:24.006776"
   },
   {
     "asset_id": "21eb4a24c3ff79bd",
@@ -3363,7 +3363,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.32,
     "operational_reliance": 0.248,
-    "timestamp": "2025-10-29T05:33:41.198915"
+    "timestamp": "2025-10-29T05:40:24.006839"
   },
   {
     "asset_id": "3b9e6b340e211f53",
@@ -3381,7 +3381,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.79,
     "operational_reliance": 0.308,
-    "timestamp": "2025-10-29T05:33:41.198977"
+    "timestamp": "2025-10-29T05:40:24.006901"
   },
   {
     "asset_id": "e7a06b37cce2c7a8",
@@ -3399,7 +3399,7 @@
     "redundancy_level": 0.68,
     "revenue_impact": 0.52,
     "operational_reliance": 0.348,
-    "timestamp": "2025-10-29T05:33:41.199039"
+    "timestamp": "2025-10-29T05:40:24.006961"
   },
   {
     "asset_id": "bb9de6a1d645f21a",
@@ -3417,7 +3417,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.73,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:33:41.199100"
+    "timestamp": "2025-10-29T05:40:24.007020"
   },
   {
     "asset_id": "643bec1f15b33e9a",
@@ -3435,7 +3435,7 @@
     "redundancy_level": 0.51,
     "revenue_impact": 0.67,
     "operational_reliance": 0.231,
-    "timestamp": "2025-10-29T05:33:41.199161"
+    "timestamp": "2025-10-29T05:40:24.007081"
   },
   {
     "asset_id": "a47ab54a52e0cd26",
@@ -3453,7 +3453,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.61,
     "operational_reliance": 0.237,
-    "timestamp": "2025-10-29T05:33:41.199223"
+    "timestamp": "2025-10-29T05:40:24.007141"
   },
   {
     "asset_id": "328f5eaf59223d3f",
@@ -3471,7 +3471,7 @@
     "redundancy_level": 0.99,
     "revenue_impact": 0.75,
     "operational_reliance": 0.19,
-    "timestamp": "2025-10-29T05:33:41.199284"
+    "timestamp": "2025-10-29T05:40:24.007201"
   },
   {
     "asset_id": "432ee2f03222633f",
@@ -3489,7 +3489,7 @@
     "redundancy_level": 0.98,
     "revenue_impact": 0.55,
     "operational_reliance": 0.233,
-    "timestamp": "2025-10-29T05:33:41.199349"
+    "timestamp": "2025-10-29T05:40:24.007264"
   },
   {
     "asset_id": "98a1ea5a6d62e0e0",
@@ -3507,7 +3507,7 @@
     "redundancy_level": 0.38,
     "revenue_impact": 0.58,
     "operational_reliance": 0.365,
-    "timestamp": "2025-10-29T05:33:41.199410"
+    "timestamp": "2025-10-29T05:40:24.007324"
   },
   {
     "asset_id": "5389fe6f45980fc1",
@@ -3525,7 +3525,7 @@
     "redundancy_level": 0.22,
     "revenue_impact": 0.1,
     "operational_reliance": 0.269,
-    "timestamp": "2025-10-29T05:33:41.199471"
+    "timestamp": "2025-10-29T05:40:24.007384"
   },
   {
     "asset_id": "ae593820656562ae",
@@ -3543,7 +3543,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.42,
     "operational_reliance": 0.316,
-    "timestamp": "2025-10-29T05:33:41.199532"
+    "timestamp": "2025-10-29T05:40:24.007445"
   },
   {
     "asset_id": "317559818d1277c5",
@@ -3561,7 +3561,7 @@
     "redundancy_level": 0.66,
     "revenue_impact": 0.53,
     "operational_reliance": 0.282,
-    "timestamp": "2025-10-29T05:33:41.199593"
+    "timestamp": "2025-10-29T05:40:24.007506"
   },
   {
     "asset_id": "6a46473888b6e7f7",
@@ -3579,7 +3579,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.13,
     "operational_reliance": 0.151,
-    "timestamp": "2025-10-29T05:33:41.199655"
+    "timestamp": "2025-10-29T05:40:24.007566"
   },
   {
     "asset_id": "2549665f711d045c",
@@ -3597,7 +3597,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.74,
     "operational_reliance": 0.389,
-    "timestamp": "2025-10-29T05:33:41.199716"
+    "timestamp": "2025-10-29T05:40:24.007627"
   },
   {
     "asset_id": "d4bae6a037d4f67f",
@@ -3615,7 +3615,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.79,
     "operational_reliance": 0.311,
-    "timestamp": "2025-10-29T05:33:41.199777"
+    "timestamp": "2025-10-29T05:40:24.007690"
   },
   {
     "asset_id": "b2e32d7a21d25338",
@@ -3633,7 +3633,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.22,
     "operational_reliance": 0.213,
-    "timestamp": "2025-10-29T05:33:41.199840"
+    "timestamp": "2025-10-29T05:40:24.007755"
   },
   {
     "asset_id": "b15a1b89e5517a33",
@@ -3651,7 +3651,7 @@
     "redundancy_level": 0.54,
     "revenue_impact": 0.27,
     "operational_reliance": 0.232,
-    "timestamp": "2025-10-29T05:33:41.199901"
+    "timestamp": "2025-10-29T05:40:24.007815"
   },
   {
     "asset_id": "7866587aad1d587f",
@@ -3669,7 +3669,7 @@
     "redundancy_level": 0.13,
     "revenue_impact": 0.27,
     "operational_reliance": 0.36,
-    "timestamp": "2025-10-29T05:33:41.199962"
+    "timestamp": "2025-10-29T05:40:24.007876"
   },
   {
     "asset_id": "c59726827c52dd52",
@@ -3687,7 +3687,7 @@
     "redundancy_level": 0.72,
     "revenue_impact": 0.23,
     "operational_reliance": 0.286,
-    "timestamp": "2025-10-29T05:33:41.200023"
+    "timestamp": "2025-10-29T05:40:24.007937"
   },
   {
     "asset_id": "166adb38ba3edb74",
@@ -3705,7 +3705,7 @@
     "redundancy_level": 0.76,
     "revenue_impact": 0.61,
     "operational_reliance": 0.297,
-    "timestamp": "2025-10-29T05:33:41.200084"
+    "timestamp": "2025-10-29T05:40:24.008001"
   },
   {
     "asset_id": "c7d0207e3f40135a",
@@ -3723,7 +3723,7 @@
     "redundancy_level": 0.02,
     "revenue_impact": 0.76,
     "operational_reliance": 0.412,
-    "timestamp": "2025-10-29T05:33:41.200146"
+    "timestamp": "2025-10-29T05:40:24.008064"
   },
   {
     "asset_id": "8997aceeff135c7b",
@@ -3741,7 +3741,7 @@
     "redundancy_level": 0.24,
     "revenue_impact": 0.33,
     "operational_reliance": 0.348,
-    "timestamp": "2025-10-29T05:33:41.200207"
+    "timestamp": "2025-10-29T05:40:24.008125"
   },
   {
     "asset_id": "9f7fa335272f34cb",
@@ -3759,6 +3759,3858 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.43,
     "operational_reliance": 0.239,
-    "timestamp": "2025-10-29T05:33:41.200270"
+    "timestamp": "2025-10-29T05:40:24.008186"
+  },
+  {
+    "asset_id": "03d0f8700eadef6a",
+    "company_asset_id": "1ee6f843f9f41898",
+    "asset_name": "Television_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP001",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-08-19",
+    "deployment_date": "2025-01-17",
+    "revenue_share": 0.05,
+    "critical_service_share": 0.41,
+    "client_share": 0.27,
+    "capacity_share": 0.14,
+    "redundancy_level": 0.74,
+    "revenue_impact": 0.49,
+    "operational_reliance": 0.252,
+    "timestamp": "2025-10-29T05:45:10.822192"
+  },
+  {
+    "asset_id": "e647d7cb77e76b02",
+    "company_asset_id": "516ca532be8ba1ef",
+    "asset_name": "Man_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP001",
+    "supplier_id": "COMP029",
+    "purchase_date": "2024-05-04",
+    "deployment_date": "2024-12-14",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.48,
+    "client_share": 0.29,
+    "capacity_share": 0.1,
+    "redundancy_level": 0.04,
+    "revenue_impact": 0.36,
+    "operational_reliance": 0.33,
+    "timestamp": "2025-10-29T05:45:10.822305"
+  },
+  {
+    "asset_id": "a293f2b9670ff95a",
+    "company_asset_id": "31c6f04d81c45a6b",
+    "asset_name": "Blood_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP006",
+    "purchase_date": "2023-07-08",
+    "deployment_date": "2025-10-10",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.42,
+    "client_share": 0.35,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.21,
+    "revenue_impact": 0.27,
+    "operational_reliance": 0.385,
+    "timestamp": "2025-10-29T05:45:10.822390"
+  },
+  {
+    "asset_id": "d7d8db1ef6749d49",
+    "company_asset_id": "c8b52d525dd0dc91",
+    "asset_name": "Skin_A",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-08-04",
+    "deployment_date": "2024-10-20",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.45,
+    "client_share": 0.19,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.15,
+    "revenue_impact": 0.75,
+    "operational_reliance": 0.404,
+    "timestamp": "2025-10-29T05:45:10.822464"
+  },
+  {
+    "asset_id": "a9dc191e6cd3069c",
+    "company_asset_id": "639ae2b1b4a74321",
+    "asset_name": "Debate_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP029",
+    "supplier_id": "COMP003",
+    "purchase_date": "2023-08-20",
+    "deployment_date": "2024-05-13",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.11,
+    "client_share": 0.31,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.93,
+    "revenue_impact": 0.66,
+    "operational_reliance": 0.24,
+    "timestamp": "2025-10-29T05:45:10.822536"
+  },
+  {
+    "asset_id": "f8472fdf062cb6a2",
+    "company_asset_id": "a2786339360ad57e",
+    "asset_name": "Improve_X",
+    "asset_type": "Software",
+    "company_id": "COMP001",
+    "supplier_id": "COMP003",
+    "purchase_date": "2024-01-29",
+    "deployment_date": "2024-07-16",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.38,
+    "client_share": 0.18,
+    "capacity_share": 0.06,
+    "redundancy_level": 0.47,
+    "revenue_impact": 0.24,
+    "operational_reliance": 0.231,
+    "timestamp": "2025-10-29T05:45:10.822605"
+  },
+  {
+    "asset_id": "3cdf2f28f2dd619f",
+    "company_asset_id": "9dd89dee8a8086e7",
+    "asset_name": "Order_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP001",
+    "supplier_id": "COMP004",
+    "purchase_date": "2022-12-24",
+    "deployment_date": "2025-10-20",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.42,
+    "client_share": 0.13,
+    "capacity_share": 0.06,
+    "redundancy_level": 0.19,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.28,
+    "timestamp": "2025-10-29T05:45:10.822673"
+  },
+  {
+    "asset_id": "04d83b2584d94550",
+    "company_asset_id": "33abf7b1041fd7ac",
+    "asset_name": "Doctor_A",
+    "asset_type": "Software",
+    "company_id": "COMP001",
+    "supplier_id": "COMP022",
+    "purchase_date": "2023-06-20",
+    "deployment_date": "2025-10-03",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.3,
+    "client_share": 0.29,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.33,
+    "revenue_impact": 0.12,
+    "operational_reliance": 0.285,
+    "timestamp": "2025-10-29T05:45:10.822741"
+  },
+  {
+    "asset_id": "657df5d0a9fa0481",
+    "company_asset_id": "97e68a9053bc770a",
+    "asset_name": "Yes_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP007",
+    "purchase_date": "2023-03-06",
+    "deployment_date": "2024-01-12",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.27,
+    "client_share": 0.3,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.61,
+    "revenue_impact": 0.46,
+    "operational_reliance": 0.242,
+    "timestamp": "2025-10-29T05:45:10.822808"
+  },
+  {
+    "asset_id": "7aa54ba447d56c18",
+    "company_asset_id": "857066360c99d65b",
+    "asset_name": "Individual_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP020",
+    "purchase_date": "2023-02-05",
+    "deployment_date": "2024-01-28",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.38,
+    "client_share": 0.05,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.54,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.291,
+    "timestamp": "2025-10-29T05:45:10.822877"
+  },
+  {
+    "asset_id": "0c88a99e370e38c6",
+    "company_asset_id": "f7ca5e0ef4681fa1",
+    "asset_name": "Allow_X",
+    "asset_type": "Software",
+    "company_id": "COMP001",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-07-19",
+    "deployment_date": "2025-04-21",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.48,
+    "client_share": 0.37,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.66,
+    "revenue_impact": 0.19,
+    "operational_reliance": 0.309,
+    "timestamp": "2025-10-29T05:45:10.822943"
+  },
+  {
+    "asset_id": "19915ce87f83773d",
+    "company_asset_id": "6bf15a73aead4078",
+    "asset_name": "Next_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP002",
+    "supplier_id": "COMP018",
+    "purchase_date": "2023-04-12",
+    "deployment_date": "2025-10-06",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.18,
+    "client_share": 0.28,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.75,
+    "revenue_impact": 0.22,
+    "operational_reliance": 0.208,
+    "timestamp": "2025-10-29T05:45:10.823011"
+  },
+  {
+    "asset_id": "5539a20d419ffb85",
+    "company_asset_id": "1e56051a4003696c",
+    "asset_name": "Reflect_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP002",
+    "supplier_id": "COMP011",
+    "purchase_date": "2024-05-02",
+    "deployment_date": "2024-12-16",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.43,
+    "client_share": 0.16,
+    "capacity_share": 0.12,
+    "redundancy_level": 0.79,
+    "revenue_impact": 0.52,
+    "operational_reliance": 0.26,
+    "timestamp": "2025-10-29T05:45:10.823077"
+  },
+  {
+    "asset_id": "1506a89b5a85366b",
+    "company_asset_id": "5d6e05aed7bc8308",
+    "asset_name": "Attention_X",
+    "asset_type": "Software",
+    "company_id": "COMP011",
+    "supplier_id": "COMP017",
+    "purchase_date": "2024-06-15",
+    "deployment_date": "2025-02-19",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.48,
+    "client_share": 0.31,
+    "capacity_share": 0.28,
+    "redundancy_level": 0.28,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.399,
+    "timestamp": "2025-10-29T05:45:10.823147"
+  },
+  {
+    "asset_id": "df0f0706d1329026",
+    "company_asset_id": "34c6b0b6662a5689",
+    "asset_name": "Or_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP011",
+    "supplier_id": "COMP024",
+    "purchase_date": "2024-03-15",
+    "deployment_date": "2024-04-11",
+    "revenue_share": 0.07,
+    "critical_service_share": 0.48,
+    "client_share": 0.13,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.81,
+    "revenue_impact": 0.2,
+    "operational_reliance": 0.22,
+    "timestamp": "2025-10-29T05:45:10.823214"
+  },
+  {
+    "asset_id": "f1d1a6391135b6d5",
+    "company_asset_id": "16f98465c88e846d",
+    "asset_name": "Throw_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP002",
+    "supplier_id": "COMP023",
+    "purchase_date": "2024-04-24",
+    "deployment_date": "2025-01-22",
+    "revenue_share": 0.3,
+    "critical_service_share": 0.34,
+    "client_share": 0.32,
+    "capacity_share": 0.21,
+    "redundancy_level": 0.89,
+    "revenue_impact": 0.5,
+    "operational_reliance": 0.3,
+    "timestamp": "2025-10-29T05:45:10.823280"
+  },
+  {
+    "asset_id": "0bba95cc33f7fb1e",
+    "company_asset_id": "f380a6b6f4ec7bb6",
+    "asset_name": "Sense_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP025",
+    "purchase_date": "2024-01-24",
+    "deployment_date": "2024-12-16",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.38,
+    "client_share": 0.36,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.89,
+    "revenue_impact": 0.64,
+    "operational_reliance": 0.299,
+    "timestamp": "2025-10-29T05:45:10.823346"
+  },
+  {
+    "asset_id": "e07c492d5b2fc09c",
+    "company_asset_id": "93d930df26f1da63",
+    "asset_name": "Agree_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP014",
+    "purchase_date": "2023-01-21",
+    "deployment_date": "2024-05-03",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.38,
+    "client_share": 0.21,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.92,
+    "revenue_impact": 0.18,
+    "operational_reliance": 0.253,
+    "timestamp": "2025-10-29T05:45:10.823415"
+  },
+  {
+    "asset_id": "5157b7e4cc73854d",
+    "company_asset_id": "972c6216d56f4e75",
+    "asset_name": "Politics_X",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP017",
+    "purchase_date": "2024-09-04",
+    "deployment_date": "2025-05-09",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.5,
+    "client_share": 0.26,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.89,
+    "revenue_impact": 0.53,
+    "operational_reliance": 0.34,
+    "timestamp": "2025-10-29T05:45:10.823481"
+  },
+  {
+    "asset_id": "50630800161c2af1",
+    "company_asset_id": "e6bfcd67452abbcc",
+    "asset_name": "Health_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP002",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-08-10",
+    "deployment_date": "2023-12-27",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.32,
+    "client_share": 0.36,
+    "capacity_share": 0.31,
+    "redundancy_level": 0.47,
+    "revenue_impact": 0.28,
+    "operational_reliance": 0.327,
+    "timestamp": "2025-10-29T05:45:10.823546"
+  },
+  {
+    "asset_id": "f9cc551d7b9f774d",
+    "company_asset_id": "96c199c3fb37789a",
+    "asset_name": "Future_X",
+    "asset_type": "Software",
+    "company_id": "COMP002",
+    "supplier_id": "COMP012",
+    "purchase_date": "2023-08-23",
+    "deployment_date": "2025-01-27",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.31,
+    "client_share": 0.27,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.08,
+    "revenue_impact": 0.3,
+    "operational_reliance": 0.323,
+    "timestamp": "2025-10-29T05:45:10.823612"
+  },
+  {
+    "asset_id": "626559b5fdb779de",
+    "company_asset_id": "53cf70e9236bcd2a",
+    "asset_name": "Agreement_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP003",
+    "supplier_id": "COMP012",
+    "purchase_date": "2023-03-13",
+    "deployment_date": "2023-05-20",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.16,
+    "client_share": 0.12,
+    "capacity_share": 0.2,
+    "redundancy_level": 0.33,
+    "revenue_impact": 0.43,
+    "operational_reliance": 0.236,
+    "timestamp": "2025-10-29T05:45:10.823678"
+  },
+  {
+    "asset_id": "4a9beaeeb2f06023",
+    "company_asset_id": "fb6341a823501154",
+    "asset_name": "Culture_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP003",
+    "supplier_id": "COMP030",
+    "purchase_date": "2024-02-13",
+    "deployment_date": "2024-10-03",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.26,
+    "client_share": 0.32,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.02,
+    "revenue_impact": 0.72,
+    "operational_reliance": 0.405,
+    "timestamp": "2025-10-29T05:45:10.823744"
+  },
+  {
+    "asset_id": "02fbd9b5101d0e4a",
+    "company_asset_id": "bca8e54f8d8ae515",
+    "asset_name": "Sea_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP003",
+    "supplier_id": "COMP019",
+    "purchase_date": "2024-07-08",
+    "deployment_date": "2025-02-01",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.48,
+    "client_share": 0.15,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.89,
+    "revenue_impact": 0.69,
+    "operational_reliance": 0.293,
+    "timestamp": "2025-10-29T05:45:10.823810"
+  },
+  {
+    "asset_id": "45c96bddc7ec6dab",
+    "company_asset_id": "3064878e4783187e",
+    "asset_name": "Heavy_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP003",
+    "supplier_id": "COMP004",
+    "purchase_date": "2023-08-01",
+    "deployment_date": "2025-03-31",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.21,
+    "client_share": 0.22,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.67,
+    "revenue_impact": 0.66,
+    "operational_reliance": 0.256,
+    "timestamp": "2025-10-29T05:45:10.823879"
+  },
+  {
+    "asset_id": "f6e6cf4a26b6d278",
+    "company_asset_id": "43eb0ddc673b4bd6",
+    "asset_name": "Development_X",
+    "asset_type": "Software",
+    "company_id": "COMP003",
+    "supplier_id": "COMP006",
+    "purchase_date": "2024-06-01",
+    "deployment_date": "2025-01-14",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.49,
+    "client_share": 0.24,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.59,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.381,
+    "timestamp": "2025-10-29T05:45:10.823945"
+  },
+  {
+    "asset_id": "7ac6176dd0512cb6",
+    "company_asset_id": "d1ab570d1b4c950e",
+    "asset_name": "Class_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP004",
+    "supplier_id": "COMP022",
+    "purchase_date": "2023-09-25",
+    "deployment_date": "2024-05-12",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.25,
+    "client_share": 0.12,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.76,
+    "revenue_impact": 0.37,
+    "operational_reliance": 0.18,
+    "timestamp": "2025-10-29T05:45:10.824011"
+  },
+  {
+    "asset_id": "4e167366d627d641",
+    "company_asset_id": "e8f6fea8b7e23f5b",
+    "asset_name": "Population_A",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-03-09",
+    "deployment_date": "2024-12-28",
+    "revenue_share": 0.05,
+    "critical_service_share": 0.32,
+    "client_share": 0.4,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.65,
+    "revenue_impact": 0.65,
+    "operational_reliance": 0.278,
+    "timestamp": "2025-10-29T05:45:10.824076"
+  },
+  {
+    "asset_id": "3b02f18a5fe2569a",
+    "company_asset_id": "6f5946184991b120",
+    "asset_name": "Keep_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP029",
+    "purchase_date": "2024-06-29",
+    "deployment_date": "2024-07-28",
+    "revenue_share": 0.29,
+    "critical_service_share": 0.18,
+    "client_share": 0.06,
+    "capacity_share": 0.1,
+    "redundancy_level": 0.13,
+    "revenue_impact": 0.57,
+    "operational_reliance": 0.286,
+    "timestamp": "2025-10-29T05:45:10.824142"
+  },
+  {
+    "asset_id": "162b472242ed4cb5",
+    "company_asset_id": "9c4d205c2eb31323",
+    "asset_name": "Exist_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP004",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-08-26",
+    "deployment_date": "2025-03-13",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.2,
+    "client_share": 0.18,
+    "capacity_share": 0.26,
+    "redundancy_level": 0.96,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.223,
+    "timestamp": "2025-10-29T05:45:10.824231"
+  },
+  {
+    "asset_id": "0411e2f939deb543",
+    "company_asset_id": "b3478fe6dcb15098",
+    "asset_name": "Various_X",
+    "asset_type": "Software",
+    "company_id": "COMP004",
+    "supplier_id": "COMP006",
+    "purchase_date": "2022-11-03",
+    "deployment_date": "2025-08-08",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.11,
+    "client_share": 0.16,
+    "capacity_share": 0.29,
+    "redundancy_level": 0.96,
+    "revenue_impact": 0.38,
+    "operational_reliance": 0.157,
+    "timestamp": "2025-10-29T05:45:10.824298"
+  },
+  {
+    "asset_id": "465b5a270e9c2104",
+    "company_asset_id": "fd1460f9d24ff896",
+    "asset_name": "Become_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP005",
+    "supplier_id": "COMP003",
+    "purchase_date": "2024-07-05",
+    "deployment_date": "2025-04-10",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.22,
+    "client_share": 0.29,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.8,
+    "revenue_impact": 0.5,
+    "operational_reliance": 0.273,
+    "timestamp": "2025-10-29T05:45:10.824364"
+  },
+  {
+    "asset_id": "b28f23ed2329d769",
+    "company_asset_id": "48d89323a6b67250",
+    "asset_name": "Once_A",
+    "asset_type": "Software",
+    "company_id": "COMP005",
+    "supplier_id": "COMP020",
+    "purchase_date": "2024-10-21",
+    "deployment_date": "2025-08-19",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.36,
+    "client_share": 0.07,
+    "capacity_share": 0.28,
+    "redundancy_level": 0.01,
+    "revenue_impact": 0.39,
+    "operational_reliance": 0.326,
+    "timestamp": "2025-10-29T05:45:10.824430"
+  },
+  {
+    "asset_id": "3a2cb058634d744d",
+    "company_asset_id": "d3931b9ef09ea35e",
+    "asset_name": "Give_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP004",
+    "purchase_date": "2022-12-07",
+    "deployment_date": "2024-12-28",
+    "revenue_share": 0.23,
+    "critical_service_share": 0.27,
+    "client_share": 0.31,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.27,
+    "revenue_impact": 0.67,
+    "operational_reliance": 0.37,
+    "timestamp": "2025-10-29T05:45:10.824496"
+  },
+  {
+    "asset_id": "f93887175ff199c2",
+    "company_asset_id": "8ea332c239198d59",
+    "asset_name": "Agency_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-09-10",
+    "deployment_date": "2024-12-12",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.43,
+    "client_share": 0.26,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.25,
+    "revenue_impact": 0.75,
+    "operational_reliance": 0.363,
+    "timestamp": "2025-10-29T05:45:10.824563"
+  },
+  {
+    "asset_id": "e0a28ffc811db480",
+    "company_asset_id": "2ed3c43e11801350",
+    "asset_name": "Meet_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP005",
+    "supplier_id": "COMP024",
+    "purchase_date": "2024-10-23",
+    "deployment_date": "2025-03-23",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.29,
+    "client_share": 0.26,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.03,
+    "revenue_impact": 0.7,
+    "operational_reliance": 0.333,
+    "timestamp": "2025-10-29T05:45:10.824629"
+  },
+  {
+    "asset_id": "d585cecba7e3290a",
+    "company_asset_id": "ad1d0c3c1772efe8",
+    "asset_name": "While_X",
+    "asset_type": "Software",
+    "company_id": "COMP005",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-04-08",
+    "deployment_date": "2024-05-01",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.42,
+    "client_share": 0.17,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.7,
+    "revenue_impact": 0.29,
+    "operational_reliance": 0.268,
+    "timestamp": "2025-10-29T05:45:10.824695"
+  },
+  {
+    "asset_id": "2d232f116b1effd4",
+    "company_asset_id": "ee67c5ca08530c2c",
+    "asset_name": "Research_X",
+    "asset_type": "Software",
+    "company_id": "COMP006",
+    "supplier_id": "COMP018",
+    "purchase_date": "2024-10-07",
+    "deployment_date": "2025-10-14",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.4,
+    "client_share": 0.29,
+    "capacity_share": 0.28,
+    "redundancy_level": 0.49,
+    "revenue_impact": 0.66,
+    "operational_reliance": 0.345,
+    "timestamp": "2025-10-29T05:45:10.824761"
+  },
+  {
+    "asset_id": "bf17df11d2507b39",
+    "company_asset_id": "fc708dbb2e857154",
+    "asset_name": "Station_A",
+    "asset_type": "Software",
+    "company_id": "COMP006",
+    "supplier_id": "COMP008",
+    "purchase_date": "2023-12-21",
+    "deployment_date": "2024-03-09",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.38,
+    "client_share": 0.16,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.47,
+    "revenue_impact": 0.47,
+    "operational_reliance": 0.284,
+    "timestamp": "2025-10-29T05:45:10.824827"
+  },
+  {
+    "asset_id": "ca20b0a2c6653eea",
+    "company_asset_id": "aa8bd17725367e6b",
+    "asset_name": "Clear_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP006",
+    "supplier_id": "COMP003",
+    "purchase_date": "2023-08-26",
+    "deployment_date": "2025-07-06",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.28,
+    "client_share": 0.16,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.72,
+    "revenue_impact": 0.32,
+    "operational_reliance": 0.208,
+    "timestamp": "2025-10-29T05:45:10.824898"
+  },
+  {
+    "asset_id": "589f1fa39b5126dd",
+    "company_asset_id": "8c0160c6bacf2ce6",
+    "asset_name": "Use_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP007",
+    "supplier_id": "COMP008",
+    "purchase_date": "2023-01-17",
+    "deployment_date": "2024-12-20",
+    "revenue_share": 0.3,
+    "critical_service_share": 0.43,
+    "client_share": 0.15,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.3,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.362,
+    "timestamp": "2025-10-29T05:45:10.824965"
+  },
+  {
+    "asset_id": "8ced5eaed81589e1",
+    "company_asset_id": "86c785a5700d5fe5",
+    "asset_name": "Center_X",
+    "asset_type": "Software",
+    "company_id": "COMP007",
+    "supplier_id": "COMP025",
+    "purchase_date": "2023-07-22",
+    "deployment_date": "2025-01-12",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.12,
+    "client_share": 0.15,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.64,
+    "revenue_impact": 0.63,
+    "operational_reliance": 0.224,
+    "timestamp": "2025-10-29T05:45:10.825033"
+  },
+  {
+    "asset_id": "61083a0e24cc7942",
+    "company_asset_id": "b3de1352d8a61ae8",
+    "asset_name": "Concern_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP007",
+    "supplier_id": "COMP017",
+    "purchase_date": "2023-06-19",
+    "deployment_date": "2024-02-14",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.29,
+    "client_share": 0.2,
+    "capacity_share": 0.11,
+    "redundancy_level": 0.05,
+    "revenue_impact": 0.76,
+    "operational_reliance": 0.337,
+    "timestamp": "2025-10-29T05:45:10.825100"
+  },
+  {
+    "asset_id": "6d61b6ec8cf49312",
+    "company_asset_id": "eb6de5327514abaf",
+    "asset_name": "Power_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP007",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-08-21",
+    "deployment_date": "2025-09-03",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.26,
+    "client_share": 0.08,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.05,
+    "revenue_impact": 0.2,
+    "operational_reliance": 0.298,
+    "timestamp": "2025-10-29T05:45:10.825166"
+  },
+  {
+    "asset_id": "9854a7eb2be99a7a",
+    "company_asset_id": "9d32bdaaba807d50",
+    "asset_name": "College_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP008",
+    "supplier_id": "COMP003",
+    "purchase_date": "2022-11-25",
+    "deployment_date": "2024-08-28",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.25,
+    "client_share": 0.37,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.59,
+    "revenue_impact": 0.4,
+    "operational_reliance": 0.281,
+    "timestamp": "2025-10-29T05:45:10.825234"
+  },
+  {
+    "asset_id": "355098df9e419e52",
+    "company_asset_id": "67437a485274dd3f",
+    "asset_name": "Spring_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP008",
+    "supplier_id": "COMP009",
+    "purchase_date": "2023-08-02",
+    "deployment_date": "2025-07-12",
+    "revenue_share": 0.2,
+    "critical_service_share": 0.4,
+    "client_share": 0.38,
+    "capacity_share": 0.12,
+    "redundancy_level": 0.21,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.36,
+    "timestamp": "2025-10-29T05:45:10.825301"
+  },
+  {
+    "asset_id": "ed6db61d936ea9f9",
+    "company_asset_id": "1a221944c03c87a7",
+    "asset_name": "Pick_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP009",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-08-12",
+    "deployment_date": "2025-08-27",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.26,
+    "client_share": 0.29,
+    "capacity_share": 0.21,
+    "redundancy_level": 0.03,
+    "revenue_impact": 0.3,
+    "operational_reliance": 0.289,
+    "timestamp": "2025-10-29T05:45:10.825369"
+  },
+  {
+    "asset_id": "99501485bfc54340",
+    "company_asset_id": "9160f9e6cf380fea",
+    "asset_name": "Such_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP008",
+    "supplier_id": "COMP004",
+    "purchase_date": "2022-11-26",
+    "deployment_date": "2024-12-19",
+    "revenue_share": 0.07,
+    "critical_service_share": 0.19,
+    "client_share": 0.14,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.59,
+    "revenue_impact": 0.66,
+    "operational_reliance": 0.243,
+    "timestamp": "2025-10-29T05:45:10.825436"
+  },
+  {
+    "asset_id": "5ada278960719e60",
+    "company_asset_id": "31167bd0169807a6",
+    "asset_name": "Mention_X",
+    "asset_type": "Software",
+    "company_id": "COMP008",
+    "supplier_id": "COMP019",
+    "purchase_date": "2024-03-03",
+    "deployment_date": "2024-04-12",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.19,
+    "client_share": 0.1,
+    "capacity_share": 0.14,
+    "redundancy_level": 0.14,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.204,
+    "timestamp": "2025-10-29T05:45:10.825504"
+  },
+  {
+    "asset_id": "ede2d3e394420f5f",
+    "company_asset_id": "35baae7d3963b31a",
+    "asset_name": "Section_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP008",
+    "supplier_id": "COMP026",
+    "purchase_date": "2024-06-11",
+    "deployment_date": "2025-09-15",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.29,
+    "client_share": 0.16,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.27,
+    "revenue_impact": 0.48,
+    "operational_reliance": 0.286,
+    "timestamp": "2025-10-29T05:45:10.825572"
+  },
+  {
+    "asset_id": "6c8103b4603ba453",
+    "company_asset_id": "01e63cacd7f4ca42",
+    "asset_name": "Agency_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP003",
+    "purchase_date": "2024-07-30",
+    "deployment_date": "2025-08-21",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.19,
+    "client_share": 0.29,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.59,
+    "revenue_impact": 0.11,
+    "operational_reliance": 0.211,
+    "timestamp": "2025-10-29T05:45:10.825640"
+  },
+  {
+    "asset_id": "34a70b7a9c494aad",
+    "company_asset_id": "d82b3e4212bb19c5",
+    "asset_name": "Discuss_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP009",
+    "supplier_id": "COMP021",
+    "purchase_date": "2024-10-02",
+    "deployment_date": "2025-01-31",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.17,
+    "client_share": 0.23,
+    "capacity_share": 0.2,
+    "redundancy_level": 0.28,
+    "revenue_impact": 0.8,
+    "operational_reliance": 0.319,
+    "timestamp": "2025-10-29T05:45:10.825744"
+  },
+  {
+    "asset_id": "52b15fb67915f672",
+    "company_asset_id": "04e8805668b61012",
+    "asset_name": "Democrat_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP021",
+    "supplier_id": "COMP023",
+    "purchase_date": "2024-06-03",
+    "deployment_date": "2025-04-27",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.26,
+    "client_share": 0.16,
+    "capacity_share": 0.09,
+    "redundancy_level": 0.16,
+    "revenue_impact": 0.39,
+    "operational_reliance": 0.268,
+    "timestamp": "2025-10-29T05:45:10.825816"
+  },
+  {
+    "asset_id": "2d51725936e02788",
+    "company_asset_id": "ddc8b2a6a4e9d6ed",
+    "asset_name": "Special_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP029",
+    "purchase_date": "2023-08-09",
+    "deployment_date": "2023-12-07",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.26,
+    "client_share": 0.32,
+    "capacity_share": 0.06,
+    "redundancy_level": 0.09,
+    "revenue_impact": 0.28,
+    "operational_reliance": 0.296,
+    "timestamp": "2025-10-29T05:45:10.825888"
+  },
+  {
+    "asset_id": "16ce124c65f98b37",
+    "company_asset_id": "e07569890a79a1d8",
+    "asset_name": "Mention_A",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP002",
+    "purchase_date": "2024-02-14",
+    "deployment_date": "2024-12-12",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.43,
+    "client_share": 0.05,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.46,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.303,
+    "timestamp": "2025-10-29T05:45:10.825957"
+  },
+  {
+    "asset_id": "50feddac7ebbc649",
+    "company_asset_id": "082b00b005d7147c",
+    "asset_name": "Rise_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-05-10",
+    "deployment_date": "2025-05-24",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.3,
+    "client_share": 0.2,
+    "capacity_share": 0.07,
+    "redundancy_level": 0.27,
+    "revenue_impact": 0.19,
+    "operational_reliance": 0.26,
+    "timestamp": "2025-10-29T05:45:10.826025"
+  },
+  {
+    "asset_id": "dbcc4c25c7d57a94",
+    "company_asset_id": "89ecd7c944e03f18",
+    "asset_name": "Part_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP025",
+    "purchase_date": "2024-07-11",
+    "deployment_date": "2024-10-17",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.29,
+    "client_share": 0.06,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.8,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.27,
+    "timestamp": "2025-10-29T05:45:10.826093"
+  },
+  {
+    "asset_id": "b3b93b2c924c19d6",
+    "company_asset_id": "4f0e9f5b0658af8d",
+    "asset_name": "Consider_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP009",
+    "supplier_id": "COMP012",
+    "purchase_date": "2022-12-30",
+    "deployment_date": "2024-09-22",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.14,
+    "client_share": 0.4,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.46,
+    "revenue_impact": 0.18,
+    "operational_reliance": 0.27,
+    "timestamp": "2025-10-29T05:45:10.826162"
+  },
+  {
+    "asset_id": "8b45e09897f8cc97",
+    "company_asset_id": "20cb540e55612cb9",
+    "asset_name": "Scientist_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP010",
+    "supplier_id": "COMP017",
+    "purchase_date": "2023-06-18",
+    "deployment_date": "2025-01-27",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.49,
+    "client_share": 0.14,
+    "capacity_share": 0.24,
+    "redundancy_level": 0.38,
+    "revenue_impact": 0.75,
+    "operational_reliance": 0.382,
+    "timestamp": "2025-10-29T05:45:10.826229"
+  },
+  {
+    "asset_id": "358548e319d4be07",
+    "company_asset_id": "732d2a4b7af5af6a",
+    "asset_name": "East_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP010",
+    "supplier_id": "COMP024",
+    "purchase_date": "2024-08-09",
+    "deployment_date": "2025-02-26",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.21,
+    "client_share": 0.33,
+    "capacity_share": 0.2,
+    "redundancy_level": 0.93,
+    "revenue_impact": 0.46,
+    "operational_reliance": 0.253,
+    "timestamp": "2025-10-29T05:45:10.826297"
+  },
+  {
+    "asset_id": "5c31017aa140e2c1",
+    "company_asset_id": "c80b61d7752841c4",
+    "asset_name": "How_A",
+    "asset_type": "Software",
+    "company_id": "COMP010",
+    "supplier_id": "COMP011",
+    "purchase_date": "2024-02-29",
+    "deployment_date": "2025-08-27",
+    "revenue_share": 0.23,
+    "critical_service_share": 0.43,
+    "client_share": 0.25,
+    "capacity_share": 0.28,
+    "redundancy_level": 0.87,
+    "revenue_impact": 0.41,
+    "operational_reliance": 0.298,
+    "timestamp": "2025-10-29T05:45:10.826365"
+  },
+  {
+    "asset_id": "cbbc7b70f7c68209",
+    "company_asset_id": "e34445e2045c7ea9",
+    "asset_name": "Ten_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP011",
+    "supplier_id": "COMP014",
+    "purchase_date": "2023-08-28",
+    "deployment_date": "2025-05-25",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.23,
+    "client_share": 0.12,
+    "capacity_share": 0.29,
+    "redundancy_level": 0.57,
+    "revenue_impact": 0.26,
+    "operational_reliance": 0.228,
+    "timestamp": "2025-10-29T05:45:10.826432"
+  },
+  {
+    "asset_id": "cd45a48108b90e6e",
+    "company_asset_id": "bfbc353c406b5e1a",
+    "asset_name": "Forget_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP011",
+    "supplier_id": "COMP013",
+    "purchase_date": "2023-11-22",
+    "deployment_date": "2024-07-29",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.29,
+    "client_share": 0.37,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.99,
+    "revenue_impact": 0.65,
+    "operational_reliance": 0.254,
+    "timestamp": "2025-10-29T05:45:10.826500"
+  },
+  {
+    "asset_id": "0450dffa527e70bd",
+    "company_asset_id": "dbf73c960cc79b36",
+    "asset_name": "Week_X",
+    "asset_type": "Software",
+    "company_id": "COMP010",
+    "supplier_id": "COMP018",
+    "purchase_date": "2023-03-14",
+    "deployment_date": "2023-07-17",
+    "revenue_share": 0.29,
+    "critical_service_share": 0.15,
+    "client_share": 0.39,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.1,
+    "revenue_impact": 0.69,
+    "operational_reliance": 0.353,
+    "timestamp": "2025-10-29T05:45:10.826569"
+  },
+  {
+    "asset_id": "38c9c9b75f181c57",
+    "company_asset_id": "b109da5342c2e258",
+    "asset_name": "Least_X",
+    "asset_type": "Software",
+    "company_id": "COMP011",
+    "supplier_id": "COMP018",
+    "purchase_date": "2024-07-08",
+    "deployment_date": "2024-10-11",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.49,
+    "client_share": 0.08,
+    "capacity_share": 0.32,
+    "redundancy_level": 0.27,
+    "revenue_impact": 0.54,
+    "operational_reliance": 0.377,
+    "timestamp": "2025-10-29T05:45:10.826637"
+  },
+  {
+    "asset_id": "583a9d3f797e5ea5",
+    "company_asset_id": "31925833c86a707d",
+    "asset_name": "Thing_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP011",
+    "supplier_id": "COMP016",
+    "purchase_date": "2024-09-15",
+    "deployment_date": "2025-06-30",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.44,
+    "client_share": 0.35,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.32,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.383,
+    "timestamp": "2025-10-29T05:45:10.826705"
+  },
+  {
+    "asset_id": "1e8db25c071bd56d",
+    "company_asset_id": "1dff8933f5f2245b",
+    "asset_name": "Ok_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP011",
+    "supplier_id": "COMP001",
+    "purchase_date": "2023-10-31",
+    "deployment_date": "2024-01-28",
+    "revenue_share": 0.2,
+    "critical_service_share": 0.19,
+    "client_share": 0.29,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.23,
+    "revenue_impact": 0.16,
+    "operational_reliance": 0.257,
+    "timestamp": "2025-10-29T05:45:10.826773"
+  },
+  {
+    "asset_id": "a3bd9adb2bb58d9a",
+    "company_asset_id": "b177ec513e4f8ccc",
+    "asset_name": "Against_A",
+    "asset_type": "Software",
+    "company_id": "COMP012",
+    "supplier_id": "COMP026",
+    "purchase_date": "2023-02-23",
+    "deployment_date": "2024-02-25",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.22,
+    "client_share": 0.06,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.06,
+    "revenue_impact": 0.35,
+    "operational_reliance": 0.239,
+    "timestamp": "2025-10-29T05:45:10.826844"
+  },
+  {
+    "asset_id": "a53dcc6a2fe6728e",
+    "company_asset_id": "2c555d02d2de9cb1",
+    "asset_name": "Fact_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP012",
+    "supplier_id": "COMP022",
+    "purchase_date": "2023-01-04",
+    "deployment_date": "2025-06-03",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.26,
+    "client_share": 0.29,
+    "capacity_share": 0.11,
+    "redundancy_level": 0.18,
+    "revenue_impact": 0.53,
+    "operational_reliance": 0.288,
+    "timestamp": "2025-10-29T05:45:10.826913"
+  },
+  {
+    "asset_id": "73044c4affe3577c",
+    "company_asset_id": "02a26f38bbfdfdcb",
+    "asset_name": "Seem_X",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP021",
+    "purchase_date": "2023-07-10",
+    "deployment_date": "2025-08-26",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.16,
+    "client_share": 0.21,
+    "capacity_share": 0.14,
+    "redundancy_level": 0.26,
+    "revenue_impact": 0.11,
+    "operational_reliance": 0.247,
+    "timestamp": "2025-10-29T05:45:10.826982"
+  },
+  {
+    "asset_id": "eba680585004ee1d",
+    "company_asset_id": "975d419eaf27b6eb",
+    "asset_name": "You_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP024",
+    "purchase_date": "2023-09-14",
+    "deployment_date": "2023-12-19",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.16,
+    "client_share": 0.2,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.59,
+    "revenue_impact": 0.55,
+    "operational_reliance": 0.246,
+    "timestamp": "2025-10-29T05:45:10.827051"
+  },
+  {
+    "asset_id": "b018b5a65070d94d",
+    "company_asset_id": "9efe044c2bbeb172",
+    "asset_name": "Drive_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP012",
+    "supplier_id": "COMP024",
+    "purchase_date": "2023-03-15",
+    "deployment_date": "2025-07-17",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.22,
+    "client_share": 0.4,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.11,
+    "revenue_impact": 0.37,
+    "operational_reliance": 0.333,
+    "timestamp": "2025-10-29T05:45:10.827120"
+  },
+  {
+    "asset_id": "2c79eb487cd88ef2",
+    "company_asset_id": "7a8e8461a781af02",
+    "asset_name": "Race_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP013",
+    "supplier_id": "COMP020",
+    "purchase_date": "2024-04-03",
+    "deployment_date": "2024-11-26",
+    "revenue_share": 0.05,
+    "critical_service_share": 0.45,
+    "client_share": 0.32,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.91,
+    "revenue_impact": 0.62,
+    "operational_reliance": 0.302,
+    "timestamp": "2025-10-29T05:45:10.827189"
+  },
+  {
+    "asset_id": "36f802e8d1e5f956",
+    "company_asset_id": "24b251078f9b0239",
+    "asset_name": "Wrong_X",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP027",
+    "purchase_date": "2024-03-06",
+    "deployment_date": "2025-03-11",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.18,
+    "client_share": 0.14,
+    "capacity_share": 0.31,
+    "redundancy_level": 0.77,
+    "revenue_impact": 0.58,
+    "operational_reliance": 0.218,
+    "timestamp": "2025-10-29T05:45:10.827257"
+  },
+  {
+    "asset_id": "ae5eea08f44027f3",
+    "company_asset_id": "0bfdd03a346ee26e",
+    "asset_name": "Next_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP020",
+    "supplier_id": "COMP028",
+    "purchase_date": "2023-08-29",
+    "deployment_date": "2025-04-03",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.36,
+    "client_share": 0.16,
+    "capacity_share": 0.2,
+    "redundancy_level": 0.58,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.317,
+    "timestamp": "2025-10-29T05:45:10.827326"
+  },
+  {
+    "asset_id": "bab419915eb7fccc",
+    "company_asset_id": "1aa9f31d24c958a6",
+    "asset_name": "Threat_A",
+    "asset_type": "Software",
+    "company_id": "COMP013",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-02-29",
+    "deployment_date": "2024-12-03",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.27,
+    "client_share": 0.12,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.88,
+    "revenue_impact": 0.36,
+    "operational_reliance": 0.216,
+    "timestamp": "2025-10-29T05:45:10.827394"
+  },
+  {
+    "asset_id": "5b5bf9c288b1435c",
+    "company_asset_id": "c7f9ea6fd79f0815",
+    "asset_name": "Machine_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP013",
+    "supplier_id": "COMP024",
+    "purchase_date": "2024-04-27",
+    "deployment_date": "2025-07-19",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.2,
+    "client_share": 0.34,
+    "capacity_share": 0.22,
+    "redundancy_level": 0.81,
+    "revenue_impact": 0.62,
+    "operational_reliance": 0.28,
+    "timestamp": "2025-10-29T05:45:10.827463"
+  },
+  {
+    "asset_id": "dfd9a17ebd7498f9",
+    "company_asset_id": "bb5fc998fb43e265",
+    "asset_name": "Life_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP013",
+    "supplier_id": "COMP001",
+    "purchase_date": "2023-06-18",
+    "deployment_date": "2025-05-08",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.13,
+    "client_share": 0.31,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.68,
+    "revenue_impact": 0.57,
+    "operational_reliance": 0.23,
+    "timestamp": "2025-10-29T05:45:10.827531"
+  },
+  {
+    "asset_id": "b382cd6f33481f70",
+    "company_asset_id": "29e068675222aab1",
+    "asset_name": "East_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP013",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-01-26",
+    "deployment_date": "2025-06-29",
+    "revenue_share": 0.07,
+    "critical_service_share": 0.26,
+    "client_share": 0.14,
+    "capacity_share": 0.09,
+    "redundancy_level": 0.37,
+    "revenue_impact": 0.62,
+    "operational_reliance": 0.242,
+    "timestamp": "2025-10-29T05:45:10.827600"
+  },
+  {
+    "asset_id": "62f13d5adb3b7572",
+    "company_asset_id": "61a92aa15c1d53fe",
+    "asset_name": "Main_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP014",
+    "supplier_id": "COMP020",
+    "purchase_date": "2023-08-11",
+    "deployment_date": "2024-12-22",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.35,
+    "client_share": 0.38,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.61,
+    "revenue_impact": 0.55,
+    "operational_reliance": 0.305,
+    "timestamp": "2025-10-29T05:45:10.827669"
+  },
+  {
+    "asset_id": "ae8f6326ded42d75",
+    "company_asset_id": "58af46f4011a2886",
+    "asset_name": "Often_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP029",
+    "purchase_date": "2024-10-02",
+    "deployment_date": "2025-04-18",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.12,
+    "client_share": 0.06,
+    "capacity_share": 0.4,
+    "redundancy_level": 0.12,
+    "revenue_impact": 0.26,
+    "operational_reliance": 0.233,
+    "timestamp": "2025-10-29T05:45:10.827738"
+  },
+  {
+    "asset_id": "c55a5558c307847a",
+    "company_asset_id": "4a20e26d8ebb7c14",
+    "asset_name": "Treat_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP020",
+    "supplier_id": "COMP016",
+    "purchase_date": "2023-07-13",
+    "deployment_date": "2025-09-27",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.25,
+    "client_share": 0.38,
+    "capacity_share": 0.29,
+    "redundancy_level": 0.54,
+    "revenue_impact": 0.51,
+    "operational_reliance": 0.297,
+    "timestamp": "2025-10-29T05:45:10.827807"
+  },
+  {
+    "asset_id": "0b48b48f74310c1b",
+    "company_asset_id": "5dc42d146aaf2357",
+    "asset_name": "Ok_X",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP025",
+    "purchase_date": "2024-02-16",
+    "deployment_date": "2024-03-13",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.43,
+    "client_share": 0.27,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.28,
+    "revenue_impact": 0.58,
+    "operational_reliance": 0.388,
+    "timestamp": "2025-10-29T05:45:10.827876"
+  },
+  {
+    "asset_id": "056eabe9fff4e72f",
+    "company_asset_id": "db26d4f4816447ad",
+    "asset_name": "Effect_X",
+    "asset_type": "Software",
+    "company_id": "COMP014",
+    "supplier_id": "COMP013",
+    "purchase_date": "2024-04-05",
+    "deployment_date": "2024-06-08",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.19,
+    "client_share": 0.18,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.37,
+    "revenue_impact": 0.73,
+    "operational_reliance": 0.309,
+    "timestamp": "2025-10-29T05:45:10.827945"
+  },
+  {
+    "asset_id": "1a703d310ad17da7",
+    "company_asset_id": "85a4cfe652dd79a3",
+    "asset_name": "What_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP014",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-01-10",
+    "deployment_date": "2025-06-06",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.18,
+    "client_share": 0.09,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.45,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.26,
+    "timestamp": "2025-10-29T05:45:10.828015"
+  },
+  {
+    "asset_id": "6e2685a708aea2f3",
+    "company_asset_id": "bb0f37735a996106",
+    "asset_name": "Onto_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP014",
+    "supplier_id": "COMP022",
+    "purchase_date": "2022-12-16",
+    "deployment_date": "2025-03-17",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.23,
+    "client_share": 0.4,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.21,
+    "revenue_impact": 0.68,
+    "operational_reliance": 0.329,
+    "timestamp": "2025-10-29T05:45:10.828085"
+  },
+  {
+    "asset_id": "fd1ddf1627b9986f",
+    "company_asset_id": "cb668a32068643a5",
+    "asset_name": "Animal_X",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP007",
+    "purchase_date": "2023-12-16",
+    "deployment_date": "2024-01-02",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.42,
+    "client_share": 0.26,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.98,
+    "revenue_impact": 0.79,
+    "operational_reliance": 0.307,
+    "timestamp": "2025-10-29T05:45:10.828154"
+  },
+  {
+    "asset_id": "af4067d9a8d92c04",
+    "company_asset_id": "9b60739ed95d2688",
+    "asset_name": "Name_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP020",
+    "purchase_date": "2024-07-22",
+    "deployment_date": "2024-08-03",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.14,
+    "client_share": 0.35,
+    "capacity_share": 0.1,
+    "redundancy_level": 0.36,
+    "revenue_impact": 0.65,
+    "operational_reliance": 0.294,
+    "timestamp": "2025-10-29T05:45:10.828224"
+  },
+  {
+    "asset_id": "e2f9a1754ca5089e",
+    "company_asset_id": "9379704f906a7e10",
+    "asset_name": "Indeed_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP029",
+    "purchase_date": "2022-11-10",
+    "deployment_date": "2025-05-31",
+    "revenue_share": 0.05,
+    "critical_service_share": 0.21,
+    "client_share": 0.09,
+    "capacity_share": 0.2,
+    "redundancy_level": 0.11,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.212,
+    "timestamp": "2025-10-29T05:45:10.828294"
+  },
+  {
+    "asset_id": "0339be7bbc4be129",
+    "company_asset_id": "09f01dbc11660c75",
+    "asset_name": "Ask_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP014",
+    "supplier_id": "COMP012",
+    "purchase_date": "2024-05-01",
+    "deployment_date": "2025-01-18",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.14,
+    "client_share": 0.23,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.04,
+    "revenue_impact": 0.65,
+    "operational_reliance": 0.332,
+    "timestamp": "2025-10-29T05:45:10.828420"
+  },
+  {
+    "asset_id": "d8fd5db05026a23a",
+    "company_asset_id": "341e7a55a781d8c5",
+    "asset_name": "Energy_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP015",
+    "supplier_id": "COMP016",
+    "purchase_date": "2024-01-22",
+    "deployment_date": "2025-04-22",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.3,
+    "client_share": 0.37,
+    "capacity_share": 0.08,
+    "redundancy_level": 0.08,
+    "revenue_impact": 0.53,
+    "operational_reliance": 0.343,
+    "timestamp": "2025-10-29T05:45:10.828551"
+  },
+  {
+    "asset_id": "ce68e7001e61c230",
+    "company_asset_id": "2e4586f59cdc2f8a",
+    "asset_name": "Off_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP015",
+    "supplier_id": "COMP022",
+    "purchase_date": "2024-09-14",
+    "deployment_date": "2025-07-03",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.35,
+    "client_share": 0.24,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.99,
+    "revenue_impact": 0.47,
+    "operational_reliance": 0.225,
+    "timestamp": "2025-10-29T05:45:10.828647"
+  },
+  {
+    "asset_id": "0d7ab8342f531c7f",
+    "company_asset_id": "53975f0e51402382",
+    "asset_name": "Challenge_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP018",
+    "purchase_date": "2022-12-15",
+    "deployment_date": "2024-01-16",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.15,
+    "client_share": 0.28,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.55,
+    "revenue_impact": 0.71,
+    "operational_reliance": 0.312,
+    "timestamp": "2025-10-29T05:45:10.828729"
+  },
+  {
+    "asset_id": "5ec6b768e64f5a37",
+    "company_asset_id": "ef0d39b8547cd054",
+    "asset_name": "Floor_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP021",
+    "purchase_date": "2024-07-18",
+    "deployment_date": "2025-10-17",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.27,
+    "client_share": 0.34,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.73,
+    "revenue_impact": 0.32,
+    "operational_reliance": 0.273,
+    "timestamp": "2025-10-29T05:45:10.828810"
+  },
+  {
+    "asset_id": "cdc71a117abe3e55",
+    "company_asset_id": "4f5bcc73b693d3d0",
+    "asset_name": "Leave_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP015",
+    "supplier_id": "COMP001",
+    "purchase_date": "2023-09-27",
+    "deployment_date": "2024-02-26",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.16,
+    "client_share": 0.37,
+    "capacity_share": 0.07,
+    "redundancy_level": 0.83,
+    "revenue_impact": 0.17,
+    "operational_reliance": 0.175,
+    "timestamp": "2025-10-29T05:45:10.828886"
+  },
+  {
+    "asset_id": "ab81769cdc15fef0",
+    "company_asset_id": "44bd8b05e3863e4e",
+    "asset_name": "Way_A",
+    "asset_type": "Software",
+    "company_id": "COMP015",
+    "supplier_id": "COMP002",
+    "purchase_date": "2023-09-11",
+    "deployment_date": "2023-10-29",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.32,
+    "client_share": 0.26,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.33,
+    "revenue_impact": 0.19,
+    "operational_reliance": 0.305,
+    "timestamp": "2025-10-29T05:45:10.828961"
+  },
+  {
+    "asset_id": "35d844c37c7b58cd",
+    "company_asset_id": "cf2668cca9ee02db",
+    "asset_name": "As_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP015",
+    "supplier_id": "COMP017",
+    "purchase_date": "2023-03-13",
+    "deployment_date": "2024-03-26",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.39,
+    "client_share": 0.39,
+    "capacity_share": 0.26,
+    "redundancy_level": 0.35,
+    "revenue_impact": 0.5,
+    "operational_reliance": 0.378,
+    "timestamp": "2025-10-29T05:45:10.829035"
+  },
+  {
+    "asset_id": "ecdfc0dfbd51482a",
+    "company_asset_id": "d4c5fd4d655fd2c8",
+    "asset_name": "Break_A",
+    "asset_type": "Software",
+    "company_id": "COMP016",
+    "supplier_id": "COMP005",
+    "purchase_date": "2023-06-15",
+    "deployment_date": "2024-06-20",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.25,
+    "client_share": 0.32,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.81,
+    "revenue_impact": 0.69,
+    "operational_reliance": 0.301,
+    "timestamp": "2025-10-29T05:45:10.829108"
+  },
+  {
+    "asset_id": "b90ba603b7d8a0ff",
+    "company_asset_id": "f0da600dff93c657",
+    "asset_name": "Light_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP016",
+    "supplier_id": "COMP023",
+    "purchase_date": "2023-12-03",
+    "deployment_date": "2024-11-18",
+    "revenue_share": 0.2,
+    "critical_service_share": 0.36,
+    "client_share": 0.29,
+    "capacity_share": 0.06,
+    "redundancy_level": 0.27,
+    "revenue_impact": 0.63,
+    "operational_reliance": 0.329,
+    "timestamp": "2025-10-29T05:45:10.829186"
+  },
+  {
+    "asset_id": "52940e5e02b5c078",
+    "company_asset_id": "f2be325eadb17515",
+    "asset_name": "Meeting_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP012",
+    "purchase_date": "2023-05-02",
+    "deployment_date": "2023-12-25",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.26,
+    "client_share": 0.1,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.03,
+    "revenue_impact": 0.62,
+    "operational_reliance": 0.327,
+    "timestamp": "2025-10-29T05:45:10.829258"
+  },
+  {
+    "asset_id": "e1a6e1c6039ea6ea",
+    "company_asset_id": "2277dec709d31201",
+    "asset_name": "Economy_X",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP001",
+    "purchase_date": "2024-05-23",
+    "deployment_date": "2024-06-24",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.24,
+    "client_share": 0.18,
+    "capacity_share": 0.3,
+    "redundancy_level": 0.78,
+    "revenue_impact": 0.5,
+    "operational_reliance": 0.241,
+    "timestamp": "2025-10-29T05:45:10.829337"
+  },
+  {
+    "asset_id": "24cbd4c0273481b7",
+    "company_asset_id": "b21d5ded479d2061",
+    "asset_name": "Able_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP016",
+    "supplier_id": "COMP017",
+    "purchase_date": "2024-04-20",
+    "deployment_date": "2024-05-22",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.4,
+    "client_share": 0.07,
+    "capacity_share": 0.08,
+    "redundancy_level": 0.44,
+    "revenue_impact": 0.4,
+    "operational_reliance": 0.241,
+    "timestamp": "2025-10-29T05:45:10.829409"
+  },
+  {
+    "asset_id": "213a64c4c233511f",
+    "company_asset_id": "2d35301a7222a4e7",
+    "asset_name": "Lay_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP016",
+    "supplier_id": "COMP008",
+    "purchase_date": "2024-05-21",
+    "deployment_date": "2024-11-19",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.19,
+    "client_share": 0.23,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.11,
+    "revenue_impact": 0.57,
+    "operational_reliance": 0.291,
+    "timestamp": "2025-10-29T05:45:10.829482"
+  },
+  {
+    "asset_id": "1093e910234f5f56",
+    "company_asset_id": "d108b74d9c5fed83",
+    "asset_name": "Side_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP017",
+    "supplier_id": "COMP018",
+    "purchase_date": "2023-01-11",
+    "deployment_date": "2025-03-09",
+    "revenue_share": 0.05,
+    "critical_service_share": 0.22,
+    "client_share": 0.12,
+    "capacity_share": 0.1,
+    "redundancy_level": 0.26,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.207,
+    "timestamp": "2025-10-29T05:45:10.829555"
+  },
+  {
+    "asset_id": "597dcff336378d42",
+    "company_asset_id": "ac111449182ccdf9",
+    "asset_name": "Bill_A",
+    "asset_type": "Software",
+    "company_id": "COMP017",
+    "supplier_id": "COMP023",
+    "purchase_date": "2023-03-03",
+    "deployment_date": "2025-02-14",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.17,
+    "client_share": 0.18,
+    "capacity_share": 0.3,
+    "redundancy_level": 0.5,
+    "revenue_impact": 0.68,
+    "operational_reliance": 0.292,
+    "timestamp": "2025-10-29T05:45:10.829628"
+  },
+  {
+    "asset_id": "9d0fc05b3c9eb649",
+    "company_asset_id": "1e2ef6aa5218c6cc",
+    "asset_name": "Financial_A",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP003",
+    "purchase_date": "2024-06-08",
+    "deployment_date": "2025-08-08",
+    "revenue_share": 0.05,
+    "critical_service_share": 0.47,
+    "client_share": 0.35,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.57,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.323,
+    "timestamp": "2025-10-29T05:45:10.829701"
+  },
+  {
+    "asset_id": "e9952f4acc4a8335",
+    "company_asset_id": "f1d23341fbcd383a",
+    "asset_name": "Conference_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP013",
+    "purchase_date": "2023-10-21",
+    "deployment_date": "2025-05-14",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.11,
+    "client_share": 0.16,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.62,
+    "revenue_impact": 0.68,
+    "operational_reliance": 0.227,
+    "timestamp": "2025-10-29T05:45:10.829773"
+  },
+  {
+    "asset_id": "e1352c144eb0a15a",
+    "company_asset_id": "62fbd4c017a13ada",
+    "asset_name": "Light_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP017",
+    "supplier_id": "COMP010",
+    "purchase_date": "2023-12-15",
+    "deployment_date": "2024-05-06",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.14,
+    "client_share": 0.2,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.08,
+    "revenue_impact": 0.71,
+    "operational_reliance": 0.297,
+    "timestamp": "2025-10-29T05:45:10.829845"
+  },
+  {
+    "asset_id": "6355314e821059cf",
+    "company_asset_id": "bd0c2df2bbcb1d02",
+    "asset_name": "No_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP017",
+    "supplier_id": "COMP002",
+    "purchase_date": "2023-05-22",
+    "deployment_date": "2024-01-21",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.17,
+    "client_share": 0.23,
+    "capacity_share": 0.09,
+    "redundancy_level": 0.51,
+    "revenue_impact": 0.73,
+    "operational_reliance": 0.245,
+    "timestamp": "2025-10-29T05:45:10.829918"
+  },
+  {
+    "asset_id": "fa25d9ba28500a92",
+    "company_asset_id": "0dbe6841126b9c23",
+    "asset_name": "Item_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP017",
+    "supplier_id": "COMP008",
+    "purchase_date": "2024-07-14",
+    "deployment_date": "2025-09-23",
+    "revenue_share": 0.23,
+    "critical_service_share": 0.43,
+    "client_share": 0.34,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.15,
+    "revenue_impact": 0.24,
+    "operational_reliance": 0.345,
+    "timestamp": "2025-10-29T05:45:10.829990"
+  },
+  {
+    "asset_id": "fac354c05adbefbf",
+    "company_asset_id": "ac312666d5e43c8a",
+    "asset_name": "Along_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP017",
+    "supplier_id": "COMP013",
+    "purchase_date": "2023-07-13",
+    "deployment_date": "2025-08-26",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.36,
+    "client_share": 0.11,
+    "capacity_share": 0.32,
+    "redundancy_level": 0.49,
+    "revenue_impact": 0.63,
+    "operational_reliance": 0.328,
+    "timestamp": "2025-10-29T05:45:10.830062"
+  },
+  {
+    "asset_id": "a4de72ccb9397eec",
+    "company_asset_id": "ab0571ae5f70aa0f",
+    "asset_name": "Step_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP018",
+    "supplier_id": "COMP023",
+    "purchase_date": "2024-01-23",
+    "deployment_date": "2025-08-24",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.29,
+    "client_share": 0.27,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.59,
+    "revenue_impact": 0.35,
+    "operational_reliance": 0.279,
+    "timestamp": "2025-10-29T05:45:10.830134"
+  },
+  {
+    "asset_id": "d4d5f2c9599531bf",
+    "company_asset_id": "ddf65ff400677411",
+    "asset_name": "Discuss_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-07-18",
+    "deployment_date": "2025-04-13",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.25,
+    "client_share": 0.15,
+    "capacity_share": 0.28,
+    "redundancy_level": 0.98,
+    "revenue_impact": 0.16,
+    "operational_reliance": 0.16,
+    "timestamp": "2025-10-29T05:45:10.830207"
+  },
+  {
+    "asset_id": "57f9c2b1df45fb66",
+    "company_asset_id": "fdf3f973f8e2a6e4",
+    "asset_name": "Church_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP018",
+    "supplier_id": "COMP020",
+    "purchase_date": "2024-03-23",
+    "deployment_date": "2024-06-04",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.32,
+    "client_share": 0.33,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.45,
+    "revenue_impact": 0.67,
+    "operational_reliance": 0.348,
+    "timestamp": "2025-10-29T05:45:10.830278"
+  },
+  {
+    "asset_id": "41c761c3bac85fae",
+    "company_asset_id": "48a263c7b9f2edd9",
+    "asset_name": "Trade_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP020",
+    "supplier_id": "COMP007",
+    "purchase_date": "2023-09-02",
+    "deployment_date": "2023-12-03",
+    "revenue_share": 0.29,
+    "critical_service_share": 0.28,
+    "client_share": 0.33,
+    "capacity_share": 0.34,
+    "redundancy_level": 0.98,
+    "revenue_impact": 0.16,
+    "operational_reliance": 0.261,
+    "timestamp": "2025-10-29T05:45:10.830350"
+  },
+  {
+    "asset_id": "deb3e341ebb136d3",
+    "company_asset_id": "13556f55eedf56dd",
+    "asset_name": "Pay_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP020",
+    "supplier_id": "COMP011",
+    "purchase_date": "2023-03-01",
+    "deployment_date": "2023-11-05",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.28,
+    "client_share": 0.2,
+    "capacity_share": 0.23,
+    "redundancy_level": 0.16,
+    "revenue_impact": 0.36,
+    "operational_reliance": 0.282,
+    "timestamp": "2025-10-29T05:45:10.830437"
+  },
+  {
+    "asset_id": "c3763fb06952f0ec",
+    "company_asset_id": "27ce82ca73321f1e",
+    "asset_name": "Later_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP022",
+    "purchase_date": "2024-06-10",
+    "deployment_date": "2025-04-05",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.24,
+    "client_share": 0.26,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.65,
+    "revenue_impact": 0.15,
+    "operational_reliance": 0.236,
+    "timestamp": "2025-10-29T05:45:10.830511"
+  },
+  {
+    "asset_id": "20c5a25ffcc40664",
+    "company_asset_id": "8bac460b5174f3fd",
+    "asset_name": "Source_A",
+    "asset_type": "Software",
+    "company_id": "COMP018",
+    "supplier_id": "COMP022",
+    "purchase_date": "2023-04-19",
+    "deployment_date": "2023-04-29",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.39,
+    "client_share": 0.28,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.87,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.271,
+    "timestamp": "2025-10-29T05:45:10.830584"
+  },
+  {
+    "asset_id": "f90691af24027b32",
+    "company_asset_id": "6be3f1b3d22be271",
+    "asset_name": "Amount_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP024",
+    "purchase_date": "2022-11-15",
+    "deployment_date": "2023-01-13",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.38,
+    "client_share": 0.08,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.64,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.234,
+    "timestamp": "2025-10-29T05:45:10.830658"
+  },
+  {
+    "asset_id": "a247b749954a5456",
+    "company_asset_id": "b5d0e0c3b0c3a1b6",
+    "asset_name": "Voice_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP005",
+    "purchase_date": "2023-01-28",
+    "deployment_date": "2023-06-20",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.27,
+    "client_share": 0.18,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.18,
+    "revenue_impact": 0.25,
+    "operational_reliance": 0.281,
+    "timestamp": "2025-10-29T05:45:10.830731"
+  },
+  {
+    "asset_id": "6af7329b6b3e1674",
+    "company_asset_id": "9e1dbdd8aff38a49",
+    "asset_name": "Necessary_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP012",
+    "purchase_date": "2024-06-25",
+    "deployment_date": "2024-06-29",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.16,
+    "client_share": 0.08,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.1,
+    "revenue_impact": 0.64,
+    "operational_reliance": 0.286,
+    "timestamp": "2025-10-29T05:45:10.830805"
+  },
+  {
+    "asset_id": "82b0d9bf4529bc54",
+    "company_asset_id": "8e9b83850d6647b2",
+    "asset_name": "Operation_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP018",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-07-11",
+    "deployment_date": "2024-08-25",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.45,
+    "client_share": 0.27,
+    "capacity_share": 0.26,
+    "redundancy_level": 0.15,
+    "revenue_impact": 0.23,
+    "operational_reliance": 0.355,
+    "timestamp": "2025-10-29T05:45:10.830877"
+  },
+  {
+    "asset_id": "b7ecd4631e7b04b0",
+    "company_asset_id": "7e51c699c10bec49",
+    "asset_name": "Sure_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP018",
+    "supplier_id": "COMP021",
+    "purchase_date": "2024-07-26",
+    "deployment_date": "2025-01-08",
+    "revenue_share": 0.23,
+    "critical_service_share": 0.12,
+    "client_share": 0.18,
+    "capacity_share": 0.3,
+    "redundancy_level": 0.97,
+    "revenue_impact": 0.53,
+    "operational_reliance": 0.215,
+    "timestamp": "2025-10-29T05:45:10.830974"
+  },
+  {
+    "asset_id": "cf0aadbc7b9b2bbf",
+    "company_asset_id": "1e6e729511d2d946",
+    "asset_name": "Impact_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP021",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-06-30",
+    "deployment_date": "2025-07-13",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.42,
+    "client_share": 0.21,
+    "capacity_share": 0.34,
+    "redundancy_level": 0.37,
+    "revenue_impact": 0.76,
+    "operational_reliance": 0.359,
+    "timestamp": "2025-10-29T05:45:10.831065"
+  },
+  {
+    "asset_id": "a72d272ebe9e489f",
+    "company_asset_id": "9d605381de6a5263",
+    "asset_name": "This_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP015",
+    "purchase_date": "2022-12-23",
+    "deployment_date": "2023-07-09",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.41,
+    "client_share": 0.23,
+    "capacity_share": 0.2,
+    "redundancy_level": 0.16,
+    "revenue_impact": 0.24,
+    "operational_reliance": 0.335,
+    "timestamp": "2025-10-29T05:45:10.831151"
+  },
+  {
+    "asset_id": "8c9004711a8b2738",
+    "company_asset_id": "63073b90005b2d78",
+    "asset_name": "Listen_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP021",
+    "supplier_id": "COMP008",
+    "purchase_date": "2023-03-29",
+    "deployment_date": "2023-04-12",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.12,
+    "client_share": 0.22,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.93,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.225,
+    "timestamp": "2025-10-29T05:45:10.831227"
+  },
+  {
+    "asset_id": "a427c777b8f38759",
+    "company_asset_id": "11d13b4d31938efb",
+    "asset_name": "Box_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP018",
+    "supplier_id": "COMP011",
+    "purchase_date": "2024-02-23",
+    "deployment_date": "2025-04-08",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.41,
+    "client_share": 0.15,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.15,
+    "revenue_impact": 0.41,
+    "operational_reliance": 0.336,
+    "timestamp": "2025-10-29T05:45:10.831302"
+  },
+  {
+    "asset_id": "5a2c0dbd135bb31b",
+    "company_asset_id": "66dd5730cc8cbd27",
+    "asset_name": "Science_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP011",
+    "supplier_id": "COMP029",
+    "purchase_date": "2023-12-25",
+    "deployment_date": "2024-01-31",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.27,
+    "client_share": 0.19,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.39,
+    "revenue_impact": 0.16,
+    "operational_reliance": 0.27,
+    "timestamp": "2025-10-29T05:45:10.831376"
+  },
+  {
+    "asset_id": "efa72fc7af864918",
+    "company_asset_id": "34b7c4ef23d156a9",
+    "asset_name": "Wear_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP019",
+    "supplier_id": "COMP001",
+    "purchase_date": "2023-08-20",
+    "deployment_date": "2025-07-01",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.21,
+    "client_share": 0.34,
+    "capacity_share": 0.29,
+    "redundancy_level": 0.14,
+    "revenue_impact": 0.59,
+    "operational_reliance": 0.312,
+    "timestamp": "2025-10-29T05:45:10.831451"
+  },
+  {
+    "asset_id": "3bdbe5b7312cb30c",
+    "company_asset_id": "1c329a4f286a3fac",
+    "asset_name": "Direction_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP019",
+    "supplier_id": "COMP011",
+    "purchase_date": "2024-07-27",
+    "deployment_date": "2025-07-25",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.11,
+    "client_share": 0.13,
+    "capacity_share": 0.1,
+    "redundancy_level": 0.94,
+    "revenue_impact": 0.53,
+    "operational_reliance": 0.191,
+    "timestamp": "2025-10-29T05:45:10.831525"
+  },
+  {
+    "asset_id": "c399c6be9d3f9a13",
+    "company_asset_id": "24bde332509ba1a9",
+    "asset_name": "Significant_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP011",
+    "supplier_id": "COMP004",
+    "purchase_date": "2023-11-17",
+    "deployment_date": "2025-09-03",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.12,
+    "client_share": 0.2,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.46,
+    "revenue_impact": 0.18,
+    "operational_reliance": 0.214,
+    "timestamp": "2025-10-29T05:45:10.831600"
+  },
+  {
+    "asset_id": "546b77d9430e815b",
+    "company_asset_id": "83e36dda2b946e75",
+    "asset_name": "Because_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP011",
+    "supplier_id": "COMP027",
+    "purchase_date": "2024-06-22",
+    "deployment_date": "2025-05-11",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.33,
+    "client_share": 0.3,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.0,
+    "revenue_impact": 0.35,
+    "operational_reliance": 0.337,
+    "timestamp": "2025-10-29T05:45:10.831674"
+  },
+  {
+    "asset_id": "534c0188f600d951",
+    "company_asset_id": "0b00e66540b72fac",
+    "asset_name": "Government_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP019",
+    "supplier_id": "COMP004",
+    "purchase_date": "2022-12-25",
+    "deployment_date": "2025-06-26",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.37,
+    "client_share": 0.23,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.95,
+    "revenue_impact": 0.48,
+    "operational_reliance": 0.232,
+    "timestamp": "2025-10-29T05:45:10.831749"
+  },
+  {
+    "asset_id": "a57bfce1142c56fc",
+    "company_asset_id": "4c978d31bd513253",
+    "asset_name": "Hour_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP019",
+    "supplier_id": "COMP028",
+    "purchase_date": "2023-12-10",
+    "deployment_date": "2025-02-07",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.29,
+    "client_share": 0.27,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.25,
+    "revenue_impact": 0.11,
+    "operational_reliance": 0.295,
+    "timestamp": "2025-10-29T05:45:10.831827"
+  },
+  {
+    "asset_id": "693cdd59bcfacab7",
+    "company_asset_id": "01a62ab4b6f58607",
+    "asset_name": "Wish_A",
+    "asset_type": "Software",
+    "company_id": "COMP020",
+    "supplier_id": "COMP012",
+    "purchase_date": "2023-10-09",
+    "deployment_date": "2024-09-02",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.24,
+    "client_share": 0.17,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.83,
+    "revenue_impact": 0.58,
+    "operational_reliance": 0.221,
+    "timestamp": "2025-10-29T05:45:10.831901"
+  },
+  {
+    "asset_id": "42a76f0eacb106f4",
+    "company_asset_id": "6c84b2d1a3c7e889",
+    "asset_name": "American_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP020",
+    "supplier_id": "COMP008",
+    "purchase_date": "2023-03-27",
+    "deployment_date": "2024-02-17",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.13,
+    "client_share": 0.32,
+    "capacity_share": 0.21,
+    "redundancy_level": 0.29,
+    "revenue_impact": 0.13,
+    "operational_reliance": 0.259,
+    "timestamp": "2025-10-29T05:45:10.831975"
+  },
+  {
+    "asset_id": "a13611896943b1de",
+    "company_asset_id": "300bab1786ffc479",
+    "asset_name": "Reduce_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP020",
+    "supplier_id": "COMP025",
+    "purchase_date": "2024-10-18",
+    "deployment_date": "2025-08-31",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.22,
+    "client_share": 0.19,
+    "capacity_share": 0.34,
+    "redundancy_level": 0.47,
+    "revenue_impact": 0.13,
+    "operational_reliance": 0.233,
+    "timestamp": "2025-10-29T05:45:10.832049"
+  },
+  {
+    "asset_id": "78c03c71e92b4a53",
+    "company_asset_id": "d63211f8267c7cc5",
+    "asset_name": "Nation_A",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP010",
+    "purchase_date": "2023-09-10",
+    "deployment_date": "2024-10-25",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.42,
+    "client_share": 0.2,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.44,
+    "revenue_impact": 0.77,
+    "operational_reliance": 0.327,
+    "timestamp": "2025-10-29T05:45:10.832123"
+  },
+  {
+    "asset_id": "c51e9697f48d1b21",
+    "company_asset_id": "6d36b1d3b2ec0931",
+    "asset_name": "Husband_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP021",
+    "supplier_id": "COMP012",
+    "purchase_date": "2023-02-02",
+    "deployment_date": "2023-09-24",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.3,
+    "client_share": 0.37,
+    "capacity_share": 0.23,
+    "redundancy_level": 0.8,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.288,
+    "timestamp": "2025-10-29T05:45:10.832197"
+  },
+  {
+    "asset_id": "e381419d014f457b",
+    "company_asset_id": "01ffc5cbae24c785",
+    "asset_name": "Though_A",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP029",
+    "purchase_date": "2023-09-28",
+    "deployment_date": "2023-12-26",
+    "revenue_share": 0.2,
+    "critical_service_share": 0.43,
+    "client_share": 0.24,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.08,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.365,
+    "timestamp": "2025-10-29T05:45:10.832271"
+  },
+  {
+    "asset_id": "9867f884bfe2b328",
+    "company_asset_id": "13cf0f59805e78c9",
+    "asset_name": "Add_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP029",
+    "supplier_id": "COMP015",
+    "purchase_date": "2024-03-13",
+    "deployment_date": "2024-04-30",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.24,
+    "client_share": 0.06,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.35,
+    "revenue_impact": 0.8,
+    "operational_reliance": 0.322,
+    "timestamp": "2025-10-29T05:45:10.832346"
+  },
+  {
+    "asset_id": "19fdececda80432c",
+    "company_asset_id": "ec0152aa1299606e",
+    "asset_name": "Character_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP029",
+    "supplier_id": "COMP020",
+    "purchase_date": "2023-11-11",
+    "deployment_date": "2024-10-24",
+    "revenue_share": 0.07,
+    "critical_service_share": 0.36,
+    "client_share": 0.18,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.68,
+    "revenue_impact": 0.77,
+    "operational_reliance": 0.293,
+    "timestamp": "2025-10-29T05:45:10.832420"
+  },
+  {
+    "asset_id": "e6cf46a47c480685",
+    "company_asset_id": "77a5ed2b8a399b9d",
+    "asset_name": "Environment_X",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP026",
+    "purchase_date": "2023-05-12",
+    "deployment_date": "2023-06-23",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.13,
+    "client_share": 0.32,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.38,
+    "revenue_impact": 0.5,
+    "operational_reliance": 0.234,
+    "timestamp": "2025-10-29T05:45:10.832494"
+  },
+  {
+    "asset_id": "61037cecf02481b1",
+    "company_asset_id": "2797243e047c4dad",
+    "asset_name": "Everyone_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP022",
+    "supplier_id": "COMP023",
+    "purchase_date": "2024-03-10",
+    "deployment_date": "2025-06-07",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.26,
+    "client_share": 0.28,
+    "capacity_share": 0.14,
+    "redundancy_level": 0.11,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.323,
+    "timestamp": "2025-10-29T05:45:10.832569"
+  },
+  {
+    "asset_id": "9180bd2abea2089b",
+    "company_asset_id": "3d16875d29dcf3c4",
+    "asset_name": "Position_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP017",
+    "purchase_date": "2023-10-12",
+    "deployment_date": "2024-08-28",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.2,
+    "client_share": 0.21,
+    "capacity_share": 0.4,
+    "redundancy_level": 0.29,
+    "revenue_impact": 0.74,
+    "operational_reliance": 0.317,
+    "timestamp": "2025-10-29T05:45:10.832644"
+  },
+  {
+    "asset_id": "fb603747c4a4594f",
+    "company_asset_id": "b640153483cd29c6",
+    "asset_name": "Sing_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP013",
+    "purchase_date": "2023-06-08",
+    "deployment_date": "2024-01-24",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.44,
+    "client_share": 0.21,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.45,
+    "revenue_impact": 0.16,
+    "operational_reliance": 0.287,
+    "timestamp": "2025-10-29T05:45:10.832719"
+  },
+  {
+    "asset_id": "be1a404d4c6e9630",
+    "company_asset_id": "2932a8cd44e86c41",
+    "asset_name": "Arm_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP015",
+    "purchase_date": "2024-02-20",
+    "deployment_date": "2024-09-04",
+    "revenue_share": 0.23,
+    "critical_service_share": 0.32,
+    "client_share": 0.15,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.16,
+    "revenue_impact": 0.6,
+    "operational_reliance": 0.327,
+    "timestamp": "2025-10-29T05:45:10.832793"
+  },
+  {
+    "asset_id": "9cd8910a22ae033d",
+    "company_asset_id": "8fdd172e4554269a",
+    "asset_name": "Wind_X",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP012",
+    "purchase_date": "2023-03-28",
+    "deployment_date": "2024-02-23",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.15,
+    "client_share": 0.12,
+    "capacity_share": 0.1,
+    "redundancy_level": 0.79,
+    "revenue_impact": 0.12,
+    "operational_reliance": 0.148,
+    "timestamp": "2025-10-29T05:45:10.832868"
+  },
+  {
+    "asset_id": "0eff942fcefe7740",
+    "company_asset_id": "83b997702c04d67f",
+    "asset_name": "Defense_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP022",
+    "supplier_id": "COMP026",
+    "purchase_date": "2024-06-04",
+    "deployment_date": "2024-12-22",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.49,
+    "client_share": 0.1,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.07,
+    "revenue_impact": 0.38,
+    "operational_reliance": 0.365,
+    "timestamp": "2025-10-29T05:45:10.832943"
+  },
+  {
+    "asset_id": "753f63f5dd9d9e4c",
+    "company_asset_id": "6df4f20c9d3a848e",
+    "asset_name": "Government_X",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP017",
+    "purchase_date": "2023-11-07",
+    "deployment_date": "2025-03-06",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.28,
+    "client_share": 0.29,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.88,
+    "revenue_impact": 0.65,
+    "operational_reliance": 0.268,
+    "timestamp": "2025-10-29T05:45:10.833017"
+  },
+  {
+    "asset_id": "f183df39c655efb7",
+    "company_asset_id": "cb2ac26ccdfb57fe",
+    "asset_name": "Letter_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP014",
+    "purchase_date": "2024-03-07",
+    "deployment_date": "2024-07-18",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.15,
+    "client_share": 0.23,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.83,
+    "revenue_impact": 0.46,
+    "operational_reliance": 0.248,
+    "timestamp": "2025-10-29T05:45:10.833092"
+  },
+  {
+    "asset_id": "1427623e7312a5c2",
+    "company_asset_id": "de4d2e52539f849d",
+    "asset_name": "Military_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP026",
+    "purchase_date": "2023-12-27",
+    "deployment_date": "2024-06-30",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.47,
+    "client_share": 0.13,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.52,
+    "revenue_impact": 0.3,
+    "operational_reliance": 0.294,
+    "timestamp": "2025-10-29T05:45:10.833167"
+  },
+  {
+    "asset_id": "1ed6f590c5b56a4b",
+    "company_asset_id": "f8c304a7b9d42544",
+    "asset_name": "Off_A",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP029",
+    "purchase_date": "2024-05-04",
+    "deployment_date": "2024-10-18",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.48,
+    "client_share": 0.15,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.61,
+    "revenue_impact": 0.17,
+    "operational_reliance": 0.264,
+    "timestamp": "2025-10-29T05:45:10.833242"
+  },
+  {
+    "asset_id": "774b9383335775bb",
+    "company_asset_id": "3ebb175e1f77c52c",
+    "asset_name": "Upon_X",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP006",
+    "purchase_date": "2023-11-24",
+    "deployment_date": "2025-02-06",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.33,
+    "client_share": 0.34,
+    "capacity_share": 0.06,
+    "redundancy_level": 0.05,
+    "revenue_impact": 0.55,
+    "operational_reliance": 0.357,
+    "timestamp": "2025-10-29T05:45:10.833317"
+  },
+  {
+    "asset_id": "a6bfe669ecb31f70",
+    "company_asset_id": "6448572197ca8ea4",
+    "asset_name": "Others_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP019",
+    "purchase_date": "2023-07-06",
+    "deployment_date": "2024-01-05",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.41,
+    "client_share": 0.2,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.5,
+    "revenue_impact": 0.54,
+    "operational_reliance": 0.33,
+    "timestamp": "2025-10-29T05:45:10.833392"
+  },
+  {
+    "asset_id": "b5b5577d90780f43",
+    "company_asset_id": "b7b7f4e60681d4e4",
+    "asset_name": "Member_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP005",
+    "purchase_date": "2024-01-23",
+    "deployment_date": "2025-09-24",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.42,
+    "client_share": 0.29,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.07,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.321,
+    "timestamp": "2025-10-29T05:45:10.833467"
+  },
+  {
+    "asset_id": "ea8ee9ab941abdc2",
+    "company_asset_id": "2b32e941a0ea2873",
+    "asset_name": "Policy_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP019",
+    "purchase_date": "2024-05-30",
+    "deployment_date": "2025-01-25",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.18,
+    "client_share": 0.26,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.72,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.239,
+    "timestamp": "2025-10-29T05:45:10.833543"
+  },
+  {
+    "asset_id": "e7c0ce5f5294b822",
+    "company_asset_id": "c27a1c98277de35a",
+    "asset_name": "Class_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP003",
+    "purchase_date": "2023-10-23",
+    "deployment_date": "2024-10-07",
+    "revenue_share": 0.08,
+    "critical_service_share": 0.25,
+    "client_share": 0.25,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.47,
+    "revenue_impact": 0.29,
+    "operational_reliance": 0.226,
+    "timestamp": "2025-10-29T05:45:10.833618"
+  },
+  {
+    "asset_id": "351dbdea5c449cf4",
+    "company_asset_id": "dc617bd2a96ad9ae",
+    "asset_name": "News_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP024",
+    "supplier_id": "COMP005",
+    "purchase_date": "2024-02-25",
+    "deployment_date": "2024-05-14",
+    "revenue_share": 0.11,
+    "critical_service_share": 0.45,
+    "client_share": 0.11,
+    "capacity_share": 0.16,
+    "redundancy_level": 0.58,
+    "revenue_impact": 0.32,
+    "operational_reliance": 0.255,
+    "timestamp": "2025-10-29T05:45:10.833694"
+  },
+  {
+    "asset_id": "bffb01d8bfd17e88",
+    "company_asset_id": "d2c27da7d4cb13a8",
+    "asset_name": "Car_X",
+    "asset_type": "Software",
+    "company_id": "COMP024",
+    "supplier_id": "COMP004",
+    "purchase_date": "2023-04-04",
+    "deployment_date": "2024-06-15",
+    "revenue_share": 0.3,
+    "critical_service_share": 0.29,
+    "client_share": 0.36,
+    "capacity_share": 0.22,
+    "redundancy_level": 0.09,
+    "revenue_impact": 0.38,
+    "operational_reliance": 0.364,
+    "timestamp": "2025-10-29T05:45:10.833770"
+  },
+  {
+    "asset_id": "c6d62fed4281a0e3",
+    "company_asset_id": "bbad8e57acda903e",
+    "asset_name": "Camera_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP024",
+    "supplier_id": "COMP002",
+    "purchase_date": "2024-08-30",
+    "deployment_date": "2025-04-02",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.24,
+    "client_share": 0.07,
+    "capacity_share": 0.22,
+    "redundancy_level": 0.88,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.197,
+    "timestamp": "2025-10-29T05:45:10.833845"
+  },
+  {
+    "asset_id": "ec0ec9e49556a46f",
+    "company_asset_id": "22c4d5c6b731e836",
+    "asset_name": "Maybe_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP024",
+    "supplier_id": "COMP010",
+    "purchase_date": "2024-05-03",
+    "deployment_date": "2025-09-10",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.44,
+    "client_share": 0.2,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.73,
+    "revenue_impact": 0.63,
+    "operational_reliance": 0.329,
+    "timestamp": "2025-10-29T05:45:10.833921"
+  },
+  {
+    "asset_id": "fe6ba4a25f42b9ef",
+    "company_asset_id": "877135d96c25763f",
+    "asset_name": "Medical_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP025",
+    "supplier_id": "COMP002",
+    "purchase_date": "2023-07-06",
+    "deployment_date": "2025-02-02",
+    "revenue_share": 0.07,
+    "critical_service_share": 0.3,
+    "client_share": 0.32,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.99,
+    "revenue_impact": 0.58,
+    "operational_reliance": 0.222,
+    "timestamp": "2025-10-29T05:45:10.833996"
+  },
+  {
+    "asset_id": "2452b14a5e4708b3",
+    "company_asset_id": "700c7826cb4c6c35",
+    "asset_name": "For_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP025",
+    "supplier_id": "COMP013",
+    "purchase_date": "2023-07-29",
+    "deployment_date": "2025-05-05",
+    "revenue_share": 0.29,
+    "critical_service_share": 0.26,
+    "client_share": 0.33,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.94,
+    "revenue_impact": 0.63,
+    "operational_reliance": 0.281,
+    "timestamp": "2025-10-29T05:45:10.834072"
+  },
+  {
+    "asset_id": "26feb00a12e02619",
+    "company_asset_id": "ad1b19a315b525c9",
+    "asset_name": "Experience_X",
+    "asset_type": "Software",
+    "company_id": "COMP025",
+    "supplier_id": "COMP019",
+    "purchase_date": "2023-12-19",
+    "deployment_date": "2024-09-20",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.12,
+    "client_share": 0.1,
+    "capacity_share": 0.17,
+    "redundancy_level": 0.47,
+    "revenue_impact": 0.42,
+    "operational_reliance": 0.21,
+    "timestamp": "2025-10-29T05:45:10.834148"
+  },
+  {
+    "asset_id": "8f33206e108d14fa",
+    "company_asset_id": "3953a2d60075a683",
+    "asset_name": "Consumer_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP025",
+    "supplier_id": "COMP018",
+    "purchase_date": "2023-02-21",
+    "deployment_date": "2025-05-19",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.35,
+    "client_share": 0.11,
+    "capacity_share": 0.4,
+    "redundancy_level": 0.74,
+    "revenue_impact": 0.31,
+    "operational_reliance": 0.254,
+    "timestamp": "2025-10-29T05:45:10.834224"
+  },
+  {
+    "asset_id": "66b7fd8b5e1ebeb9",
+    "company_asset_id": "50510e135fee577e",
+    "asset_name": "Office_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP025",
+    "supplier_id": "COMP007",
+    "purchase_date": "2023-09-15",
+    "deployment_date": "2023-10-26",
+    "revenue_share": 0.23,
+    "critical_service_share": 0.22,
+    "client_share": 0.34,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.67,
+    "revenue_impact": 0.79,
+    "operational_reliance": 0.302,
+    "timestamp": "2025-10-29T05:45:10.834300"
+  },
+  {
+    "asset_id": "15f724a7a0cfa915",
+    "company_asset_id": "944ec840490ecf2b",
+    "asset_name": "Question_A",
+    "asset_type": "Software",
+    "company_id": "COMP007",
+    "supplier_id": "COMP011",
+    "purchase_date": "2023-11-20",
+    "deployment_date": "2024-02-02",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.36,
+    "client_share": 0.39,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.23,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.307,
+    "timestamp": "2025-10-29T05:45:10.834375"
+  },
+  {
+    "asset_id": "14cfc6d56979f17e",
+    "company_asset_id": "dabe2c1962201f9e",
+    "asset_name": "Summer_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP007",
+    "supplier_id": "COMP028",
+    "purchase_date": "2023-10-23",
+    "deployment_date": "2024-12-21",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.39,
+    "client_share": 0.32,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.82,
+    "revenue_impact": 0.27,
+    "operational_reliance": 0.263,
+    "timestamp": "2025-10-29T05:45:10.834451"
+  },
+  {
+    "asset_id": "f10081fdea32c5ee",
+    "company_asset_id": "5a3e4c6a09a64c22",
+    "asset_name": "Improve_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP007",
+    "supplier_id": "COMP026",
+    "purchase_date": "2024-09-01",
+    "deployment_date": "2025-04-14",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.28,
+    "client_share": 0.2,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.2,
+    "revenue_impact": 0.45,
+    "operational_reliance": 0.279,
+    "timestamp": "2025-10-29T05:45:10.834527"
+  },
+  {
+    "asset_id": "ac02021302dd6ea6",
+    "company_asset_id": "cf24d92bdbe32617",
+    "asset_name": "Whether_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP026",
+    "supplier_id": "COMP029",
+    "purchase_date": "2023-09-13",
+    "deployment_date": "2025-05-23",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.5,
+    "client_share": 0.22,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.96,
+    "revenue_impact": 0.42,
+    "operational_reliance": 0.278,
+    "timestamp": "2025-10-29T05:45:10.834603"
+  },
+  {
+    "asset_id": "27a29367c57eed07",
+    "company_asset_id": "0cfe6e003286825e",
+    "asset_name": "Artist_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP011",
+    "purchase_date": "2024-08-20",
+    "deployment_date": "2025-05-08",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.2,
+    "client_share": 0.25,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.97,
+    "revenue_impact": 0.31,
+    "operational_reliance": 0.166,
+    "timestamp": "2025-10-29T05:45:10.834679"
+  },
+  {
+    "asset_id": "6f0d885602925450",
+    "company_asset_id": "fac99f696e625b9d",
+    "asset_name": "Scene_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP029",
+    "supplier_id": "COMP018",
+    "purchase_date": "2024-07-05",
+    "deployment_date": "2024-12-15",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.3,
+    "client_share": 0.22,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.93,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.269,
+    "timestamp": "2025-10-29T05:45:10.834755"
+  },
+  {
+    "asset_id": "9b177648b5537674",
+    "company_asset_id": "cd5063ee2dd235ad",
+    "asset_name": "Group_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP029",
+    "supplier_id": "COMP012",
+    "purchase_date": "2024-04-11",
+    "deployment_date": "2024-10-02",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.32,
+    "client_share": 0.36,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.35,
+    "revenue_impact": 0.64,
+    "operational_reliance": 0.339,
+    "timestamp": "2025-10-29T05:45:10.834834"
+  },
+  {
+    "asset_id": "46785b17e5290a8f",
+    "company_asset_id": "5905d5fcfe2dc95a",
+    "asset_name": "See_X",
+    "asset_type": "Software",
+    "company_id": "COMP026",
+    "supplier_id": "COMP030",
+    "purchase_date": "2023-03-30",
+    "deployment_date": "2025-10-22",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.48,
+    "client_share": 0.08,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.66,
+    "revenue_impact": 0.62,
+    "operational_reliance": 0.298,
+    "timestamp": "2025-10-29T05:45:10.834910"
+  },
+  {
+    "asset_id": "de465b659cc62c10",
+    "company_asset_id": "306b85b5dfead1bb",
+    "asset_name": "Assume_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP026",
+    "supplier_id": "COMP024",
+    "purchase_date": "2022-12-14",
+    "deployment_date": "2023-06-25",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.21,
+    "client_share": 0.25,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.11,
+    "revenue_impact": 0.62,
+    "operational_reliance": 0.329,
+    "timestamp": "2025-10-29T05:45:10.834987"
+  },
+  {
+    "asset_id": "b5145978f1ea33c7",
+    "company_asset_id": "4049938b368ae59b",
+    "asset_name": "Away_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP026",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-06-10",
+    "deployment_date": "2024-06-28",
+    "revenue_share": 0.06,
+    "critical_service_share": 0.46,
+    "client_share": 0.13,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.1,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.292,
+    "timestamp": "2025-10-29T05:45:10.835063"
+  },
+  {
+    "asset_id": "7f4784add82aee11",
+    "company_asset_id": "316f82b559875070",
+    "asset_name": "Let_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP026",
+    "supplier_id": "COMP002",
+    "purchase_date": "2023-06-04",
+    "deployment_date": "2023-12-16",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.15,
+    "client_share": 0.39,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.16,
+    "revenue_impact": 0.56,
+    "operational_reliance": 0.349,
+    "timestamp": "2025-10-29T05:45:10.835139"
+  },
+  {
+    "asset_id": "2195fec379dd2b37",
+    "company_asset_id": "c5e36592e0da0247",
+    "asset_name": "Lead_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP026",
+    "supplier_id": "COMP023",
+    "purchase_date": "2023-07-07",
+    "deployment_date": "2025-06-23",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.4,
+    "client_share": 0.15,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.06,
+    "revenue_impact": 0.64,
+    "operational_reliance": 0.355,
+    "timestamp": "2025-10-29T05:45:10.835216"
+  },
+  {
+    "asset_id": "ecfbb5e83e220ff1",
+    "company_asset_id": "31dc209c2748323b",
+    "asset_name": "Expect_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP019",
+    "purchase_date": "2022-11-13",
+    "deployment_date": "2024-03-05",
+    "revenue_share": 0.15,
+    "critical_service_share": 0.44,
+    "client_share": 0.38,
+    "capacity_share": 0.06,
+    "redundancy_level": 0.84,
+    "revenue_impact": 0.65,
+    "operational_reliance": 0.294,
+    "timestamp": "2025-10-29T05:45:10.835292"
+  },
+  {
+    "asset_id": "7cd670df9416a1c3",
+    "company_asset_id": "edc666a3983537a1",
+    "asset_name": "Several_X",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP008",
+    "purchase_date": "2024-03-24",
+    "deployment_date": "2025-08-08",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.1,
+    "client_share": 0.25,
+    "capacity_share": 0.09,
+    "redundancy_level": 0.98,
+    "revenue_impact": 0.3,
+    "operational_reliance": 0.176,
+    "timestamp": "2025-10-29T05:45:10.835369"
+  },
+  {
+    "asset_id": "acfa19407e629d95",
+    "company_asset_id": "291a599d244be5c3",
+    "asset_name": "Court_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP018",
+    "purchase_date": "2023-02-11",
+    "deployment_date": "2025-10-07",
+    "revenue_share": 0.27,
+    "critical_service_share": 0.15,
+    "client_share": 0.23,
+    "capacity_share": 0.15,
+    "redundancy_level": 0.81,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.214,
+    "timestamp": "2025-10-29T05:45:10.835446"
+  },
+  {
+    "asset_id": "8e4f691eaac4587b",
+    "company_asset_id": "cb545afd11585fe4",
+    "asset_name": "Knowledge_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP027",
+    "supplier_id": "COMP021",
+    "purchase_date": "2024-02-13",
+    "deployment_date": "2025-09-17",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.4,
+    "client_share": 0.11,
+    "capacity_share": 0.35,
+    "redundancy_level": 0.9,
+    "revenue_impact": 0.68,
+    "operational_reliance": 0.295,
+    "timestamp": "2025-10-29T05:45:10.835522"
+  },
+  {
+    "asset_id": "38b35e4cdce2336a",
+    "company_asset_id": "4abc69eeb4744df6",
+    "asset_name": "Threat_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP021",
+    "supplier_id": "COMP011",
+    "purchase_date": "2024-05-24",
+    "deployment_date": "2025-06-08",
+    "revenue_share": 0.3,
+    "critical_service_share": 0.29,
+    "client_share": 0.38,
+    "capacity_share": 0.05,
+    "redundancy_level": 0.38,
+    "revenue_impact": 0.41,
+    "operational_reliance": 0.315,
+    "timestamp": "2025-10-29T05:45:10.835599"
+  },
+  {
+    "asset_id": "8eba47b185635127",
+    "company_asset_id": "2988f51d9e75cbca",
+    "asset_name": "Morning_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP003",
+    "purchase_date": "2022-12-06",
+    "deployment_date": "2025-10-28",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.39,
+    "client_share": 0.05,
+    "capacity_share": 0.28,
+    "redundancy_level": 0.69,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.225,
+    "timestamp": "2025-10-29T05:45:10.835676"
+  },
+  {
+    "asset_id": "af78bc5298e6c43a",
+    "company_asset_id": "fbba5824daf5bc87",
+    "asset_name": "Even_A",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP013",
+    "purchase_date": "2024-07-15",
+    "deployment_date": "2025-01-18",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.26,
+    "client_share": 0.23,
+    "capacity_share": 0.36,
+    "redundancy_level": 0.7,
+    "revenue_impact": 0.32,
+    "operational_reliance": 0.248,
+    "timestamp": "2025-10-29T05:45:10.835763"
+  },
+  {
+    "asset_id": "0db0e39a1d7c45fb",
+    "company_asset_id": "091081cac2026a33",
+    "asset_name": "Democratic_A",
+    "asset_type": "Software",
+    "company_id": "COMP027",
+    "supplier_id": "COMP009",
+    "purchase_date": "2024-01-02",
+    "deployment_date": "2025-07-02",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.19,
+    "client_share": 0.39,
+    "capacity_share": 0.22,
+    "redundancy_level": 0.45,
+    "revenue_impact": 0.79,
+    "operational_reliance": 0.308,
+    "timestamp": "2025-10-29T05:45:10.835840"
+  },
+  {
+    "asset_id": "56a9be68446486b2",
+    "company_asset_id": "e16d974df217c7b8",
+    "asset_name": "Answer_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-11-10",
+    "deployment_date": "2023-11-25",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.42,
+    "client_share": 0.34,
+    "capacity_share": 0.32,
+    "redundancy_level": 0.68,
+    "revenue_impact": 0.52,
+    "operational_reliance": 0.348,
+    "timestamp": "2025-10-29T05:45:10.835917"
+  },
+  {
+    "asset_id": "b799e514545d1c7c",
+    "company_asset_id": "c770087476eca4d2",
+    "asset_name": "Military_A",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP024",
+    "purchase_date": "2024-08-17",
+    "deployment_date": "2024-11-26",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.24,
+    "client_share": 0.37,
+    "capacity_share": 0.09,
+    "redundancy_level": 0.83,
+    "revenue_impact": 0.73,
+    "operational_reliance": 0.264,
+    "timestamp": "2025-10-29T05:45:10.835998"
+  },
+  {
+    "asset_id": "1f41a85213ea9b13",
+    "company_asset_id": "0ada8674b49c8b56",
+    "asset_name": "Tell_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP027",
+    "supplier_id": "COMP023",
+    "purchase_date": "2024-05-14",
+    "deployment_date": "2025-01-26",
+    "revenue_share": 0.09,
+    "critical_service_share": 0.44,
+    "client_share": 0.2,
+    "capacity_share": 0.29,
+    "redundancy_level": 0.72,
+    "revenue_impact": 0.44,
+    "operational_reliance": 0.278,
+    "timestamp": "2025-10-29T05:45:10.836075"
+  },
+  {
+    "asset_id": "d564ebf6630ff8f2",
+    "company_asset_id": "f11f24919c5c24f0",
+    "asset_name": "Describe_Plus",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP015",
+    "purchase_date": "2024-04-06",
+    "deployment_date": "2024-12-23",
+    "revenue_share": 0.18,
+    "critical_service_share": 0.28,
+    "client_share": 0.07,
+    "capacity_share": 0.21,
+    "redundancy_level": 0.81,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.237,
+    "timestamp": "2025-10-29T05:45:10.836152"
+  },
+  {
+    "asset_id": "6febdc0668202c32",
+    "company_asset_id": "f6e87cf69f71ceaa",
+    "asset_name": "Particularly_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP023",
+    "supplier_id": "COMP028",
+    "purchase_date": "2024-10-10",
+    "deployment_date": "2025-02-05",
+    "revenue_share": 0.25,
+    "critical_service_share": 0.4,
+    "client_share": 0.25,
+    "capacity_share": 0.07,
+    "redundancy_level": 0.34,
+    "revenue_impact": 0.14,
+    "operational_reliance": 0.291,
+    "timestamp": "2025-10-29T05:45:10.836230"
+  },
+  {
+    "asset_id": "edc6dc665553a29b",
+    "company_asset_id": "839165732df7406c",
+    "asset_name": "Design_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP023",
+    "supplier_id": "COMP002",
+    "purchase_date": "2023-11-26",
+    "deployment_date": "2024-07-02",
+    "revenue_share": 0.3,
+    "critical_service_share": 0.29,
+    "client_share": 0.15,
+    "capacity_share": 0.11,
+    "redundancy_level": 0.14,
+    "revenue_impact": 0.55,
+    "operational_reliance": 0.328,
+    "timestamp": "2025-10-29T05:45:10.836308"
+  },
+  {
+    "asset_id": "7bc3f8f51138ee9c",
+    "company_asset_id": "0f1031b6fce9b180",
+    "asset_name": "Book_Plus",
+    "asset_type": "Software",
+    "company_id": "COMP027",
+    "supplier_id": "COMP006",
+    "purchase_date": "2024-09-08",
+    "deployment_date": "2025-02-28",
+    "revenue_share": 0.3,
+    "critical_service_share": 0.25,
+    "client_share": 0.35,
+    "capacity_share": 0.37,
+    "redundancy_level": 0.38,
+    "revenue_impact": 0.58,
+    "operational_reliance": 0.365,
+    "timestamp": "2025-10-29T05:45:10.836386"
+  },
+  {
+    "asset_id": "1757732b81c3b558",
+    "company_asset_id": "0b395a739eb6ae3f",
+    "asset_name": "Woman_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP027",
+    "supplier_id": "COMP001",
+    "purchase_date": "2023-09-05",
+    "deployment_date": "2023-12-16",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.24,
+    "client_share": 0.11,
+    "capacity_share": 0.24,
+    "redundancy_level": 0.53,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.273,
+    "timestamp": "2025-10-29T05:45:10.836464"
+  },
+  {
+    "asset_id": "9467799dc7edbc42",
+    "company_asset_id": "e4ff4b69d2c378e9",
+    "asset_name": "Ago_X",
+    "asset_type": "Hardware",
+    "company_id": "COMP027",
+    "supplier_id": "COMP024",
+    "purchase_date": "2023-03-24",
+    "deployment_date": "2024-10-14",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.49,
+    "client_share": 0.21,
+    "capacity_share": 0.3,
+    "redundancy_level": 0.42,
+    "revenue_impact": 0.37,
+    "operational_reliance": 0.354,
+    "timestamp": "2025-10-29T05:45:10.836542"
+  },
+  {
+    "asset_id": "6ba2cb5306e14da3",
+    "company_asset_id": "dd13f2967a750cb9",
+    "asset_name": "Huge_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP028",
+    "supplier_id": "COMP008",
+    "purchase_date": "2022-12-01",
+    "deployment_date": "2025-07-02",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.39,
+    "client_share": 0.09,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.42,
+    "revenue_impact": 0.64,
+    "operational_reliance": 0.353,
+    "timestamp": "2025-10-29T05:45:10.836619"
+  },
+  {
+    "asset_id": "7917cb49d3c20723",
+    "company_asset_id": "b61cf89955d7f801",
+    "asset_name": "Design_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP028",
+    "supplier_id": "COMP015",
+    "purchase_date": "2022-11-23",
+    "deployment_date": "2022-12-24",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.14,
+    "client_share": 0.06,
+    "capacity_share": 0.26,
+    "redundancy_level": 0.7,
+    "revenue_impact": 0.13,
+    "operational_reliance": 0.151,
+    "timestamp": "2025-10-29T05:45:10.836697"
+  },
+  {
+    "asset_id": "bcdc6d49ec3ab3bc",
+    "company_asset_id": "6c0d195c2c4acb2e",
+    "asset_name": "Left_A",
+    "asset_type": "Software",
+    "company_id": "COMP028",
+    "supplier_id": "COMP012",
+    "purchase_date": "2024-10-27",
+    "deployment_date": "2025-06-13",
+    "revenue_share": 0.16,
+    "critical_service_share": 0.32,
+    "client_share": 0.31,
+    "capacity_share": 0.32,
+    "redundancy_level": 0.14,
+    "revenue_impact": 0.8,
+    "operational_reliance": 0.381,
+    "timestamp": "2025-10-29T05:45:10.836775"
+  },
+  {
+    "asset_id": "1b73d18bafe837f5",
+    "company_asset_id": "27dfd538810585b7",
+    "asset_name": "Staff_X",
+    "asset_type": "Software",
+    "company_id": "COMP028",
+    "supplier_id": "COMP005",
+    "purchase_date": "2024-01-22",
+    "deployment_date": "2024-08-07",
+    "revenue_share": 0.19,
+    "critical_service_share": 0.41,
+    "client_share": 0.34,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.88,
+    "revenue_impact": 0.79,
+    "operational_reliance": 0.311,
+    "timestamp": "2025-10-29T05:45:10.836854"
+  },
+  {
+    "asset_id": "b7f1cc6b799aef12",
+    "company_asset_id": "15f4af0a2ae1e3c2",
+    "asset_name": "Here_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP029",
+    "supplier_id": "COMP014",
+    "purchase_date": "2024-08-01",
+    "deployment_date": "2025-04-22",
+    "revenue_share": 0.21,
+    "critical_service_share": 0.27,
+    "client_share": 0.22,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.94,
+    "revenue_impact": 0.57,
+    "operational_reliance": 0.274,
+    "timestamp": "2025-10-29T05:45:10.836932"
+  },
+  {
+    "asset_id": "a3b4f77c43c48055",
+    "company_asset_id": "5e8c47ee1bf62436",
+    "asset_name": "Need_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP010",
+    "purchase_date": "2023-09-26",
+    "deployment_date": "2025-02-19",
+    "revenue_share": 0.22,
+    "critical_service_share": 0.26,
+    "client_share": 0.15,
+    "capacity_share": 0.11,
+    "redundancy_level": 0.54,
+    "revenue_impact": 0.27,
+    "operational_reliance": 0.232,
+    "timestamp": "2025-10-29T05:45:10.837010"
+  },
+  {
+    "asset_id": "cf90eece2a711cda",
+    "company_asset_id": "adba05ac6f615088",
+    "asset_name": "Ask_X",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP009",
+    "purchase_date": "2023-08-25",
+    "deployment_date": "2025-09-26",
+    "revenue_share": 0.26,
+    "critical_service_share": 0.16,
+    "client_share": 0.21,
+    "capacity_share": 0.07,
+    "redundancy_level": 0.41,
+    "revenue_impact": 0.39,
+    "operational_reliance": 0.245,
+    "timestamp": "2025-10-29T05:45:10.837088"
+  },
+  {
+    "asset_id": "df074151737c0187",
+    "company_asset_id": "1527248e52947db4",
+    "asset_name": "Positive_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP009",
+    "supplier_id": "COMP005",
+    "purchase_date": "2023-11-11",
+    "deployment_date": "2025-07-12",
+    "revenue_share": 0.13,
+    "critical_service_share": 0.13,
+    "client_share": 0.21,
+    "capacity_share": 0.18,
+    "redundancy_level": 0.54,
+    "revenue_impact": 0.68,
+    "operational_reliance": 0.237,
+    "timestamp": "2025-10-29T05:45:10.837166"
+  },
+  {
+    "asset_id": "b2449d0b8053c856",
+    "company_asset_id": "ae0fc557c0619ed8",
+    "asset_name": "Around_A",
+    "asset_type": "Software",
+    "company_id": "COMP009",
+    "supplier_id": "COMP014",
+    "purchase_date": "2023-10-29",
+    "deployment_date": "2023-12-02",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.34,
+    "client_share": 0.06,
+    "capacity_share": 0.08,
+    "redundancy_level": 0.8,
+    "revenue_impact": 0.51,
+    "operational_reliance": 0.212,
+    "timestamp": "2025-10-29T05:45:10.837244"
+  },
+  {
+    "asset_id": "7d8c65fe6638b906",
+    "company_asset_id": "77003d47876155ba",
+    "asset_name": "What_Edge",
+    "asset_type": "Hardware",
+    "company_id": "COMP009",
+    "supplier_id": "COMP008",
+    "purchase_date": "2023-11-18",
+    "deployment_date": "2025-06-03",
+    "revenue_share": 0.17,
+    "critical_service_share": 0.45,
+    "client_share": 0.17,
+    "capacity_share": 0.38,
+    "redundancy_level": 0.02,
+    "revenue_impact": 0.76,
+    "operational_reliance": 0.412,
+    "timestamp": "2025-10-29T05:45:10.837323"
+  },
+  {
+    "asset_id": "08b77f4210633461",
+    "company_asset_id": "90058e2ad125476f",
+    "asset_name": "Deep_A",
+    "asset_type": "Software",
+    "company_id": "COMP029",
+    "supplier_id": "COMP002",
+    "purchase_date": "2023-10-04",
+    "deployment_date": "2025-10-26",
+    "revenue_share": 0.28,
+    "critical_service_share": 0.38,
+    "client_share": 0.3,
+    "capacity_share": 0.19,
+    "redundancy_level": 0.24,
+    "revenue_impact": 0.33,
+    "operational_reliance": 0.348,
+    "timestamp": "2025-10-29T05:45:10.837401"
+  },
+  {
+    "asset_id": "51f1f80c4ee2a9f2",
+    "company_asset_id": "48474c1444cb441c",
+    "asset_name": "Thing_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP030",
+    "supplier_id": "COMP013",
+    "purchase_date": "2024-02-05",
+    "deployment_date": "2024-08-25",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.45,
+    "client_share": 0.21,
+    "capacity_share": 0.33,
+    "redundancy_level": 0.72,
+    "revenue_impact": 0.63,
+    "operational_reliance": 0.32,
+    "timestamp": "2025-10-29T05:45:10.837480"
+  },
+  {
+    "asset_id": "2440432000e4d9f4",
+    "company_asset_id": "682ba93c4f6149b3",
+    "asset_name": "Young_Pro",
+    "asset_type": "Hardware",
+    "company_id": "COMP030",
+    "supplier_id": "COMP015",
+    "purchase_date": "2023-04-06",
+    "deployment_date": "2025-01-13",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.27,
+    "client_share": 0.25,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.15,
+    "revenue_impact": 0.28,
+    "operational_reliance": 0.273,
+    "timestamp": "2025-10-29T05:45:10.837559"
+  },
+  {
+    "asset_id": "ec9ab19afaa977bb",
+    "company_asset_id": "3bce06a18709479e",
+    "asset_name": "Traditional_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP030",
+    "supplier_id": "COMP018",
+    "purchase_date": "2023-01-12",
+    "deployment_date": "2024-12-02",
+    "revenue_share": 0.12,
+    "critical_service_share": 0.18,
+    "client_share": 0.13,
+    "capacity_share": 0.25,
+    "redundancy_level": 0.25,
+    "revenue_impact": 0.49,
+    "operational_reliance": 0.256,
+    "timestamp": "2025-10-29T05:45:10.837642"
+  },
+  {
+    "asset_id": "3c932d304811984b",
+    "company_asset_id": "8ac06c573afbed2a",
+    "asset_name": "Six_Pro",
+    "asset_type": "Software",
+    "company_id": "COMP030",
+    "supplier_id": "COMP021",
+    "purchase_date": "2023-11-28",
+    "deployment_date": "2024-08-18",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.3,
+    "client_share": 0.3,
+    "capacity_share": 0.31,
+    "redundancy_level": 0.46,
+    "revenue_impact": 0.61,
+    "operational_reliance": 0.341,
+    "timestamp": "2025-10-29T05:45:10.837721"
+  },
+  {
+    "asset_id": "52d8f7d6e2dc32db",
+    "company_asset_id": "c544aa9b93e21c3f",
+    "asset_name": "That_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP021",
+    "supplier_id": "COMP006",
+    "purchase_date": "2023-09-02",
+    "deployment_date": "2024-09-15",
+    "revenue_share": 0.1,
+    "critical_service_share": 0.46,
+    "client_share": 0.4,
+    "capacity_share": 0.39,
+    "redundancy_level": 0.52,
+    "revenue_impact": 0.69,
+    "operational_reliance": 0.376,
+    "timestamp": "2025-10-29T05:45:10.837800"
+  },
+  {
+    "asset_id": "48d76322b9f22bfb",
+    "company_asset_id": "7bc344fcd58c9c7b",
+    "asset_name": "Focus_A",
+    "asset_type": "Hardware",
+    "company_id": "COMP021",
+    "supplier_id": "COMP005",
+    "purchase_date": "2023-02-19",
+    "deployment_date": "2024-09-08",
+    "revenue_share": 0.24,
+    "critical_service_share": 0.26,
+    "client_share": 0.34,
+    "capacity_share": 0.13,
+    "redundancy_level": 0.71,
+    "revenue_impact": 0.11,
+    "operational_reliance": 0.235,
+    "timestamp": "2025-10-29T05:45:10.837879"
+  },
+  {
+    "asset_id": "682123f783b5a3b0",
+    "company_asset_id": "0a41808c2b42bae1",
+    "asset_name": "Southern_Edge",
+    "asset_type": "Software",
+    "company_id": "COMP030",
+    "supplier_id": "COMP012",
+    "purchase_date": "2024-01-17",
+    "deployment_date": "2025-04-04",
+    "revenue_share": 0.14,
+    "critical_service_share": 0.35,
+    "client_share": 0.28,
+    "capacity_share": 0.27,
+    "redundancy_level": 0.48,
+    "revenue_impact": 0.44,
+    "operational_reliance": 0.301,
+    "timestamp": "2025-10-29T05:45:10.837960"
   }
 ]
