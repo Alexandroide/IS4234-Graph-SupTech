@@ -66,7 +66,7 @@ class Company:
     
     def get_sector_name(self) -> str:
         for entry in naics_data:
-            if entry.get("2022 NAICS US Code") == str(self.sector_id):
+            if str(entry.get("2022 NAICS US Code")) == str(self.sector_id):
                 return entry.get("2022 NAICS US Title")
         return None
 

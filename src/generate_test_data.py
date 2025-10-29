@@ -2,10 +2,20 @@ import pandas as pd
 import random
 from faker import Faker
 import numpy as np
+import json
 
 fake = Faker()
 random.seed(42)
 np.random.seed(42)
+
+# Load NAICS JSON from file
+with open("../data/NAICS_codes.json", "r") as f:
+    naics_data = json.load(f)
+
+naics_codes = []
+
+for element in naics_data:
+    naics_codes.append(int(element["2022 NAICS US Code"]))
 
 # ---------- 1️⃣ Generate fake company data ----------
 
@@ -15,7 +25,7 @@ companies = []
 def make_company_entry(company_id: str):
     """Generate a fake company entry."""
     company_name = fake.company()
-    sector_id = random.randint(100, 999)
+    sector_id = random.choice(naics_codes)
     employee_count = random.randint(100, 10000)
     revenue = round(random.uniform(5e6, 5e9), 2)
     market_cap = round(revenue * random.uniform(2, 5), 2)
