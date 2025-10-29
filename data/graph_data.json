@@ -6,11 +6,11 @@
       "global": 4462.42
     },
     "edges": {
-      "SUP001": null,
-      "SUP002": null,
-      "SUP003": null,
-      "SUP004": null,
-      "SUP005": null
+      "SUP001": 0.37,
+      "SUP002": 0.25,
+      "SUP003": 0.183,
+      "SUP004": 0.265,
+      "SUP005": 0.223
     }
   },
   "SUP001": {

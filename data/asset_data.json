@@ -14,8 +14,8 @@
     "capacity_share": 0.35,
     "redundancy_level": 0.5,
     "revenue_impact": 0.6,
-    "operational_reliance": null,
-    "timestamp": "2025-10-29T04:24:11.706275"
+    "operational_reliance": 0.37,
+    "timestamp": "2025-10-29T04:46:35.317161"
   },
   {
     "asset_id": "17db4b1710d6a2dd",
@@ -32,8 +32,8 @@
     "capacity_share": 0.25,
     "redundancy_level": 0.7,
     "revenue_impact": 0.4,
-    "operational_reliance": null,
-    "timestamp": "2025-10-29T04:24:11.706814"
+    "operational_reliance": 0.25,
+    "timestamp": "2025-10-29T04:46:35.317287"
   },
   {
     "asset_id": "20e640db9647d552",
@@ -50,8 +50,8 @@
     "capacity_share": 0.15,
     "redundancy_level": 0.6,
     "revenue_impact": 0.3,
-    "operational_reliance": null,
-    "timestamp": "2025-10-29T04:24:11.706900"
+    "operational_reliance": 0.183,
+    "timestamp": "2025-10-29T04:46:35.317377"
   },
   {
     "asset_id": "248e6f58ce801f35",
@@ -68,8 +68,8 @@
     "capacity_share": 0.3,
     "redundancy_level": 0.8,
     "revenue_impact": 0.5,
-    "operational_reliance": null,
-    "timestamp": "2025-10-29T04:24:11.706975"
+    "operational_reliance": 0.265,
+    "timestamp": "2025-10-29T04:46:35.317455"
   },
   {
     "asset_id": "94447b0b5d44a6ea",
@@ -86,7 +86,7 @@
     "capacity_share": 0.2,
     "redundancy_level": 0.4,
     "revenue_impact": 0.35,
-    "operational_reliance": null,
-    "timestamp": "2025-10-29T04:24:11.707046"
+    "operational_reliance": 0.223,
+    "timestamp": "2025-10-29T04:46:35.317529"
   }
 ]
