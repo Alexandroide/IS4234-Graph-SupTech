@@ -111,28 +111,52 @@ class GraphAnalyzerCIDM:
         plt.show()
 
     # ANALYTICAL METHODS
-    def centrality(self) -> Dict[str, float]:
+    def systemic_influence(self, damping: float = 0.85, max_iter: int = 100, tol: float = 1e-6) -> Dict[str, float]:
         """
-        Measure: Degree Centrality
-        --------------------------
-        Indicates how many direct connections a company has.
-        High centrality = many relationships (either dependencies or providers).
-        """
-        return nx.degree_centrality(self.G)
+        Compute recursive systemic influence for all companies.
+        
+        Each company's score is influenced by the criticality of companies that depend on it,
+        weighted by dependency strength (edge weight) and propagated recursively.
 
-    def dependency_centrality(self) -> Dict[str, float]:
+        Parameters
+        ----------
+        damping : float
+            Damping factor (like in PageRank, 0 < damping < 1)
+        max_iter : int
+            Maximum number of iterations
+        tol : float
+            Convergence tolerance
+
+        Returns
+        -------
+        Dict[str, float]
+            Node ID -> systemic influence score (sorted descending)
         """
-        Measure: Dependency Centrality
-        ------------------------------
-        Quantifies how much other companies rely on a given company.
-        Calculated as the sum of inbound edge weights.
-        High score = key provider with many reliant clients.
-        """
-        centrality = {}
-        for node in self.G.nodes:
-            inbound_edges = self.G.in_edges(node, data=True)
-            centrality[node] = sum(d["weight"] for _, _, d in inbound_edges)
-        return centrality
+        # Initialize scores with intrinsic global importance
+        scores = {node: self.G.nodes[node]["global"] for node in self.G.nodes}
+        
+        for iteration in range(max_iter):
+            new_scores = {}
+            max_change = 0.0
+            
+            for node in self.G.nodes:
+                # Sum over all inbound edges (who depends on me)
+                total = sum(
+                    scores[src] * d["weight"] for src, _, d in self.G.in_edges(node, data=True)
+                )
+                # Update with damping: preserves intrinsic node weight
+                new_score = (1 - damping) * self.G.nodes[node]["global"] + damping * total
+                new_scores[node] = new_score
+                max_change = max(max_change, abs(new_score - scores[node]))
+            
+            scores = new_scores
+            
+            if max_change < tol:
+                break
+        
+        # Return scores sorted descending
+        return dict(sorted(scores.items(), key=lambda x: x[1], reverse=True))
+
 
     def systemic_importance(self) -> Dict[str, float]:
         """
@@ -150,61 +174,100 @@ class GraphAnalyzerCIDM:
             importance[node] = (0.6 * w_dep) + (0.4 * w_glob)
         return dict(sorted(importance.items(), key=lambda x: x[1], reverse=True))
 
-    def simulate_failure(self, node: str, threshold: float = 0.3) -> List[str]:
+    def simulate_failure_recursive(self, node: str, threshold: float = 0.3, company_file: str = "../data/company_data.json") -> List[Dict[str, str]]:
         """
-        Simulation: Cascading Failure Model
-        -----------------------------------
-        Simulates the ripple effect of a company outage.
+        Cascading failure simulation with recursive propagation.
+        Computes effective dependency along chains using multiplication of edge weights.
+        """
+        # Load company names
+        try:
+            with open(company_file, "r") as f:
+                companies = json.load(f)
+            id_to_name = {c["company_id"]: c["company_name"] for c in companies}
+        except FileNotFoundError:
+            id_to_name = {}
 
-        Any company that relies more than `threshold` on a failed company
-        is considered 'failed' as well, and the effect propagates recursively.
-        """
         failed = {node}
-        new_failures = {node}
-        while new_failures:
-            next_failures = set()
-            for n in new_failures:
-                dependents = [src for src, tgt, d in self.G.in_edges(n, data=True) if d["weight"] >= threshold]
-                next_failures.update(dependents)
-            next_failures -= failed
-            if not next_failures:
-                break
-            failed |= next_failures
-            new_failures = next_failures
-        return list(failed)
+        # Track effective dependencies for all nodes
+        effective_dep = {node: 1.0}
 
-    def shortest_path(self, source: str, target: str) -> List[str]:
-        """
-        Utility: Dependency Path Finder
-        -------------------------------
-        Finds the shortest operational dependency path between two companies.
-        Helps trace supply routes or software reliance chains.
-        """
-        return nx.shortest_path(self.G, source=source, target=target, weight='weight')
+        changed = True
+        while changed:
+            changed = False
+            for n in self.G.nodes:
+                if n in failed:
+                    continue
+                # Compute max effective dependency to any failed node
+                max_dep = 0.0
+                for succ in self.G.successors(n):
+                    if succ in effective_dep:
+                        max_dep = max(max_dep, self.G[n][succ]["weight"] * effective_dep[succ])
+                if max_dep >= threshold:
+                    failed.add(n)
+                    effective_dep[n] = max_dep
+                    changed = True
 
-# TEST CODE
+        affected_list = [{"company_id": cid, "company_name": id_to_name.get(cid, "Unknown")} for cid in failed]
+        return affected_list
+
+
+    def get_company_info(self, company_id: str, company_file: str = "../data/company_data.json") -> dict:
+        """
+        Retrieve all useful information about a company given its company_id.
+
+        Parameters
+        ----------
+        company_id : str
+            ID of the company to retrieve.
+        company_file : str
+            Path to the JSON file containing company details.
+
+        Returns
+        -------
+        dict
+            Dictionary with all available information, or empty dict if not found.
+        """
+        try:
+            with open(company_file, "r") as f:
+                companies = json.load(f)
+            for comp in companies:
+                if comp.get("company_id") == company_id:
+                    return comp
+            print(f"Company {company_id} not found in {company_file}.")
+            return {}
+        except FileNotFoundError:
+            print(f"File {company_file} not found.")
+            return {}
+        
 if __name__ == "__main__":
-    # Executive Summary: Load and test a company dependency network
+    # Initialize analyzer
     analyzer = GraphAnalyzerCIDM("../data/graph_data.json")
 
-    # 1. Overview
+    # 1️⃣ Print graph summary
     analyzer.summary()
 
-    # 2. Visual diagnostic of systemic dependencies
+    # 2️⃣ Compute recursive systemic influence
+    influence_scores = analyzer.systemic_influence()
+
+    # Top 10 most systemically critical companies
+    print("\nTop 10 most systemically critical companies:")
+    top_companies = list(influence_scores.items())[:10]
+    for i, (company, score) in enumerate(top_companies, start=1):
+        print(f"{i}. {company}: {score:.2f}")
+
+    # 3️⃣ Get detailed info for the top company
+    top_company_id = top_companies[0][0]
+    print(f"\n=== DETAILED INFO FOR TOP COMPANY: {top_company_id} ===")
+    company_info = analyzer.get_company_info(top_company_id, company_file="../data/company_data.json")
+    if company_info:
+        for key, value in company_info.items():
+            print(f"{key}: {value}")
+
+    # 4️⃣ Optional: simulate failure of top company
+    affected_companies = analyzer.simulate_failure(top_company_id, threshold=0.3)
+    print(f"\nSimulating failure of {top_company_id}...")
+    print(f"{len(affected_companies)} companies would be affected:")
+    print(affected_companies)
+
+    # 5️⃣ Optional: visualize network
     analyzer.visualize()
-
-    # 3. Identify top systemic providers
-    print("\n=== SYSTEMIC IMPORTANCE RANKING ===")
-    importance = analyzer.systemic_importance()
-    for company, score in list(importance.items())[:10]:
-        print(f"{company}: {score:.2f}")
-
-    # 4. Simulate failure of a key company
-    critical_node = list(importance.keys())[0]
-    cascade = analyzer.simulate_failure(critical_node, threshold=0.3)
-    print(f"\nIf {critical_node} fails, {len(cascade)} companies are impacted:")
-    print(cascade)
-
-    # 5. Example path query
-    print("\nExample dependency path:")
-    print(analyzer.shortest_path("COMP001", "COMP010"))
