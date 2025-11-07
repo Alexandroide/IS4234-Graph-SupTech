@@ -157,23 +157,6 @@ class GraphAnalyzerCIDM:
         # Return scores sorted descending
         return dict(sorted(scores.items(), key=lambda x: x[1], reverse=True))
 
-
-    def systemic_importance(self) -> Dict[str, float]:
-        """
-        Measure: Systemic Importance Index
-        ----------------------------------
-        Combines dependency influence (inbound reliance)
-        with intrinsic company importance (global weight).
-        Identifies 'too critical to fail' nodes in the ecosystem.
-        """
-        dep_centrality = self.dependency_centrality()
-        importance = {}
-        for node in self.G.nodes:
-            w_dep = dep_centrality[node]
-            w_glob = self.G.nodes[node]["global"]
-            importance[node] = (0.6 * w_dep) + (0.4 * w_glob)
-        return dict(sorted(importance.items(), key=lambda x: x[1], reverse=True))
-
     def simulate_failure_recursive(self, node: str, threshold: float = 0.3, company_file: str = "../data/company_data.json") -> List[Dict[str, str]]:
         """
         Cascading failure simulation with recursive propagation.
