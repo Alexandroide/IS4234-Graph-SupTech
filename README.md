@@ -5,7 +5,7 @@
 This project explores a **SupTech (Supervisory Technology)** approach to monitoring digital infrastructure resilience through **graph theory**.  
 It models **inter-company dependencies** between hardware and software providers to identify *systemically critical technology suppliers*.
 
-By integrating company- and asset-level disclosures into a **weighted network**, regulators can compute systemic influence scores—using a **PageRank-style algorithm**—to pinpoint providers whose failure could cascade through the ecosystem.
+By integrating company- and asset-level disclosures into a **weighted network**, regulators can compute systemic influence scores, using a **PageRank-style algorithm**, to pinpoint providers whose failure could cascade through the ecosystem.
 
 ---
 
