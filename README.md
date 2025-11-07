@@ -86,6 +86,20 @@ The **`GraphAnalyzerCIDM`** class (in `graph_analyzer_cidm.py`) performs:
 
 ---
 
+⚠️ Note on Criticality Computation Functions
+
+The following functions are incomplete prototypes and should not be used for producing realistic results:
+
+- compute_operational_reliance
+- compute_economic_criticality_score
+- compute_societal_criticality_score
+- compute_total_criticality_score
+
+Their current implementations rely on arbitrarily chosen weights applied to multiple variables. These are placeholder, naïve approaches intended only for demonstration purposes.
+Further development is required to define appropriate models, parameter values, and data sources before these functions can yield meaningful or reliable outputs.
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
