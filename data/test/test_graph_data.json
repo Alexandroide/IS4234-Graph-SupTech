@@ -1,0 +1,21 @@
+{
+    "COMP001": {
+      "weights": {
+        "societal": 71.97,
+        "economic": 5798.98,
+        "global": 4979.94
+      },
+      "edges": {
+        "COMP002": 0.37
+      }
+    },
+    "COMP002": {
+      "weights": {
+        "societal": 78.15,
+        "economic": 9542.4,
+        "global": 3347.65
+      },
+      "edges": {
+      }
+  }
+}

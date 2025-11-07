@@ -3777,7 +3777,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.49,
     "operational_reliance": 0.252,
-    "timestamp": "2025-10-29T05:45:10.822192"
+    "timestamp": "2025-10-30T13:04:54.595485"
   },
   {
     "asset_id": "e647d7cb77e76b02",
@@ -3795,7 +3795,7 @@
     "redundancy_level": 0.04,
     "revenue_impact": 0.36,
     "operational_reliance": 0.33,
-    "timestamp": "2025-10-29T05:45:10.822305"
+    "timestamp": "2025-10-30T13:04:54.595611"
   },
   {
     "asset_id": "a293f2b9670ff95a",
@@ -3813,7 +3813,7 @@
     "redundancy_level": 0.21,
     "revenue_impact": 0.27,
     "operational_reliance": 0.385,
-    "timestamp": "2025-10-29T05:45:10.822390"
+    "timestamp": "2025-10-30T13:04:54.595712"
   },
   {
     "asset_id": "d7d8db1ef6749d49",
@@ -3831,7 +3831,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.75,
     "operational_reliance": 0.404,
-    "timestamp": "2025-10-29T05:45:10.822464"
+    "timestamp": "2025-10-30T13:04:54.595803"
   },
   {
     "asset_id": "a9dc191e6cd3069c",
@@ -3849,7 +3849,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.66,
     "operational_reliance": 0.24,
-    "timestamp": "2025-10-29T05:45:10.822536"
+    "timestamp": "2025-10-30T13:04:54.595891"
   },
   {
     "asset_id": "f8472fdf062cb6a2",
@@ -3867,7 +3867,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.24,
     "operational_reliance": 0.231,
-    "timestamp": "2025-10-29T05:45:10.822605"
+    "timestamp": "2025-10-30T13:04:54.595977"
   },
   {
     "asset_id": "3cdf2f28f2dd619f",
@@ -3885,7 +3885,7 @@
     "redundancy_level": 0.19,
     "revenue_impact": 0.33,
     "operational_reliance": 0.28,
-    "timestamp": "2025-10-29T05:45:10.822673"
+    "timestamp": "2025-10-30T13:04:54.596063"
   },
   {
     "asset_id": "04d83b2584d94550",
@@ -3903,7 +3903,7 @@
     "redundancy_level": 0.33,
     "revenue_impact": 0.12,
     "operational_reliance": 0.285,
-    "timestamp": "2025-10-29T05:45:10.822741"
+    "timestamp": "2025-10-30T13:04:54.596149"
   },
   {
     "asset_id": "657df5d0a9fa0481",
@@ -3921,7 +3921,7 @@
     "redundancy_level": 0.61,
     "revenue_impact": 0.46,
     "operational_reliance": 0.242,
-    "timestamp": "2025-10-29T05:45:10.822808"
+    "timestamp": "2025-10-30T13:04:54.596235"
   },
   {
     "asset_id": "7aa54ba447d56c18",
@@ -3939,7 +3939,7 @@
     "redundancy_level": 0.54,
     "revenue_impact": 0.6,
     "operational_reliance": 0.291,
-    "timestamp": "2025-10-29T05:45:10.822877"
+    "timestamp": "2025-10-30T13:04:54.596320"
   },
   {
     "asset_id": "0c88a99e370e38c6",
@@ -3957,7 +3957,7 @@
     "redundancy_level": 0.66,
     "revenue_impact": 0.19,
     "operational_reliance": 0.309,
-    "timestamp": "2025-10-29T05:45:10.822943"
+    "timestamp": "2025-10-30T13:04:54.596405"
   },
   {
     "asset_id": "19915ce87f83773d",
@@ -3975,7 +3975,7 @@
     "redundancy_level": 0.75,
     "revenue_impact": 0.22,
     "operational_reliance": 0.208,
-    "timestamp": "2025-10-29T05:45:10.823011"
+    "timestamp": "2025-10-30T13:04:54.596490"
   },
   {
     "asset_id": "5539a20d419ffb85",
@@ -3993,7 +3993,7 @@
     "redundancy_level": 0.79,
     "revenue_impact": 0.52,
     "operational_reliance": 0.26,
-    "timestamp": "2025-10-29T05:45:10.823077"
+    "timestamp": "2025-10-30T13:04:54.596575"
   },
   {
     "asset_id": "1506a89b5a85366b",
@@ -4011,7 +4011,7 @@
     "redundancy_level": 0.28,
     "revenue_impact": 0.56,
     "operational_reliance": 0.399,
-    "timestamp": "2025-10-29T05:45:10.823147"
+    "timestamp": "2025-10-30T13:04:54.596659"
   },
   {
     "asset_id": "df0f0706d1329026",
@@ -4029,7 +4029,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.2,
     "operational_reliance": 0.22,
-    "timestamp": "2025-10-29T05:45:10.823214"
+    "timestamp": "2025-10-30T13:04:54.596743"
   },
   {
     "asset_id": "f1d1a6391135b6d5",
@@ -4047,7 +4047,7 @@
     "redundancy_level": 0.89,
     "revenue_impact": 0.5,
     "operational_reliance": 0.3,
-    "timestamp": "2025-10-29T05:45:10.823280"
+    "timestamp": "2025-10-30T13:04:54.596827"
   },
   {
     "asset_id": "0bba95cc33f7fb1e",
@@ -4065,7 +4065,7 @@
     "redundancy_level": 0.89,
     "revenue_impact": 0.64,
     "operational_reliance": 0.299,
-    "timestamp": "2025-10-29T05:45:10.823346"
+    "timestamp": "2025-10-30T13:04:54.596911"
   },
   {
     "asset_id": "e07c492d5b2fc09c",
@@ -4083,7 +4083,7 @@
     "redundancy_level": 0.92,
     "revenue_impact": 0.18,
     "operational_reliance": 0.253,
-    "timestamp": "2025-10-29T05:45:10.823415"
+    "timestamp": "2025-10-30T13:04:54.596995"
   },
   {
     "asset_id": "5157b7e4cc73854d",
@@ -4101,7 +4101,7 @@
     "redundancy_level": 0.89,
     "revenue_impact": 0.53,
     "operational_reliance": 0.34,
-    "timestamp": "2025-10-29T05:45:10.823481"
+    "timestamp": "2025-10-30T13:04:54.597079"
   },
   {
     "asset_id": "50630800161c2af1",
@@ -4119,7 +4119,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.28,
     "operational_reliance": 0.327,
-    "timestamp": "2025-10-29T05:45:10.823546"
+    "timestamp": "2025-10-30T13:04:54.597164"
   },
   {
     "asset_id": "f9cc551d7b9f774d",
@@ -4137,7 +4137,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.3,
     "operational_reliance": 0.323,
-    "timestamp": "2025-10-29T05:45:10.823612"
+    "timestamp": "2025-10-30T13:04:54.597248"
   },
   {
     "asset_id": "626559b5fdb779de",
@@ -4155,7 +4155,7 @@
     "redundancy_level": 0.33,
     "revenue_impact": 0.43,
     "operational_reliance": 0.236,
-    "timestamp": "2025-10-29T05:45:10.823678"
+    "timestamp": "2025-10-30T13:04:54.597332"
   },
   {
     "asset_id": "4a9beaeeb2f06023",
@@ -4173,7 +4173,7 @@
     "redundancy_level": 0.02,
     "revenue_impact": 0.72,
     "operational_reliance": 0.405,
-    "timestamp": "2025-10-29T05:45:10.823744"
+    "timestamp": "2025-10-30T13:04:54.597417"
   },
   {
     "asset_id": "02fbd9b5101d0e4a",
@@ -4191,7 +4191,7 @@
     "redundancy_level": 0.89,
     "revenue_impact": 0.69,
     "operational_reliance": 0.293,
-    "timestamp": "2025-10-29T05:45:10.823810"
+    "timestamp": "2025-10-30T13:04:54.597501"
   },
   {
     "asset_id": "45c96bddc7ec6dab",
@@ -4209,7 +4209,7 @@
     "redundancy_level": 0.67,
     "revenue_impact": 0.66,
     "operational_reliance": 0.256,
-    "timestamp": "2025-10-29T05:45:10.823879"
+    "timestamp": "2025-10-30T13:04:54.597589"
   },
   {
     "asset_id": "f6e6cf4a26b6d278",
@@ -4227,7 +4227,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.56,
     "operational_reliance": 0.381,
-    "timestamp": "2025-10-29T05:45:10.823945"
+    "timestamp": "2025-10-30T13:04:54.597675"
   },
   {
     "asset_id": "7ac6176dd0512cb6",
@@ -4245,7 +4245,7 @@
     "redundancy_level": 0.76,
     "revenue_impact": 0.37,
     "operational_reliance": 0.18,
-    "timestamp": "2025-10-29T05:45:10.824011"
+    "timestamp": "2025-10-30T13:04:54.597760"
   },
   {
     "asset_id": "4e167366d627d641",
@@ -4263,7 +4263,7 @@
     "redundancy_level": 0.65,
     "revenue_impact": 0.65,
     "operational_reliance": 0.278,
-    "timestamp": "2025-10-29T05:45:10.824076"
+    "timestamp": "2025-10-30T13:04:54.597845"
   },
   {
     "asset_id": "3b02f18a5fe2569a",
@@ -4281,7 +4281,7 @@
     "redundancy_level": 0.13,
     "revenue_impact": 0.57,
     "operational_reliance": 0.286,
-    "timestamp": "2025-10-29T05:45:10.824142"
+    "timestamp": "2025-10-30T13:04:54.597929"
   },
   {
     "asset_id": "162b472242ed4cb5",
@@ -4299,7 +4299,7 @@
     "redundancy_level": 0.96,
     "revenue_impact": 0.6,
     "operational_reliance": 0.223,
-    "timestamp": "2025-10-29T05:45:10.824231"
+    "timestamp": "2025-10-30T13:04:54.598014"
   },
   {
     "asset_id": "0411e2f939deb543",
@@ -4317,7 +4317,7 @@
     "redundancy_level": 0.96,
     "revenue_impact": 0.38,
     "operational_reliance": 0.157,
-    "timestamp": "2025-10-29T05:45:10.824298"
+    "timestamp": "2025-10-30T13:04:54.598099"
   },
   {
     "asset_id": "465b5a270e9c2104",
@@ -4335,7 +4335,7 @@
     "redundancy_level": 0.8,
     "revenue_impact": 0.5,
     "operational_reliance": 0.273,
-    "timestamp": "2025-10-29T05:45:10.824364"
+    "timestamp": "2025-10-30T13:04:54.598184"
   },
   {
     "asset_id": "b28f23ed2329d769",
@@ -4353,7 +4353,7 @@
     "redundancy_level": 0.01,
     "revenue_impact": 0.39,
     "operational_reliance": 0.326,
-    "timestamp": "2025-10-29T05:45:10.824430"
+    "timestamp": "2025-10-30T13:04:54.598269"
   },
   {
     "asset_id": "3a2cb058634d744d",
@@ -4371,7 +4371,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.67,
     "operational_reliance": 0.37,
-    "timestamp": "2025-10-29T05:45:10.824496"
+    "timestamp": "2025-10-30T13:04:54.598355"
   },
   {
     "asset_id": "f93887175ff199c2",
@@ -4389,7 +4389,7 @@
     "redundancy_level": 0.25,
     "revenue_impact": 0.75,
     "operational_reliance": 0.363,
-    "timestamp": "2025-10-29T05:45:10.824563"
+    "timestamp": "2025-10-30T13:04:54.598441"
   },
   {
     "asset_id": "e0a28ffc811db480",
@@ -4407,7 +4407,7 @@
     "redundancy_level": 0.03,
     "revenue_impact": 0.7,
     "operational_reliance": 0.333,
-    "timestamp": "2025-10-29T05:45:10.824629"
+    "timestamp": "2025-10-30T13:04:54.598527"
   },
   {
     "asset_id": "d585cecba7e3290a",
@@ -4425,7 +4425,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.29,
     "operational_reliance": 0.268,
-    "timestamp": "2025-10-29T05:45:10.824695"
+    "timestamp": "2025-10-30T13:04:54.598613"
   },
   {
     "asset_id": "2d232f116b1effd4",
@@ -4443,7 +4443,7 @@
     "redundancy_level": 0.49,
     "revenue_impact": 0.66,
     "operational_reliance": 0.345,
-    "timestamp": "2025-10-29T05:45:10.824761"
+    "timestamp": "2025-10-30T13:04:54.598700"
   },
   {
     "asset_id": "bf17df11d2507b39",
@@ -4461,7 +4461,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.47,
     "operational_reliance": 0.284,
-    "timestamp": "2025-10-29T05:45:10.824827"
+    "timestamp": "2025-10-30T13:04:54.598791"
   },
   {
     "asset_id": "ca20b0a2c6653eea",
@@ -4479,7 +4479,7 @@
     "redundancy_level": 0.72,
     "revenue_impact": 0.32,
     "operational_reliance": 0.208,
-    "timestamp": "2025-10-29T05:45:10.824898"
+    "timestamp": "2025-10-30T13:04:54.598877"
   },
   {
     "asset_id": "589f1fa39b5126dd",
@@ -4497,7 +4497,7 @@
     "redundancy_level": 0.3,
     "revenue_impact": 0.6,
     "operational_reliance": 0.362,
-    "timestamp": "2025-10-29T05:45:10.824965"
+    "timestamp": "2025-10-30T13:04:54.598963"
   },
   {
     "asset_id": "8ced5eaed81589e1",
@@ -4515,7 +4515,7 @@
     "redundancy_level": 0.64,
     "revenue_impact": 0.63,
     "operational_reliance": 0.224,
-    "timestamp": "2025-10-29T05:45:10.825033"
+    "timestamp": "2025-10-30T13:04:54.599048"
   },
   {
     "asset_id": "61083a0e24cc7942",
@@ -4533,7 +4533,7 @@
     "redundancy_level": 0.05,
     "revenue_impact": 0.76,
     "operational_reliance": 0.337,
-    "timestamp": "2025-10-29T05:45:10.825100"
+    "timestamp": "2025-10-30T13:04:54.599135"
   },
   {
     "asset_id": "6d61b6ec8cf49312",
@@ -4551,7 +4551,7 @@
     "redundancy_level": 0.05,
     "revenue_impact": 0.2,
     "operational_reliance": 0.298,
-    "timestamp": "2025-10-29T05:45:10.825166"
+    "timestamp": "2025-10-30T13:04:54.599221"
   },
   {
     "asset_id": "9854a7eb2be99a7a",
@@ -4569,7 +4569,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.4,
     "operational_reliance": 0.281,
-    "timestamp": "2025-10-29T05:45:10.825234"
+    "timestamp": "2025-10-30T13:04:54.599306"
   },
   {
     "asset_id": "355098df9e419e52",
@@ -4587,7 +4587,7 @@
     "redundancy_level": 0.21,
     "revenue_impact": 0.56,
     "operational_reliance": 0.36,
-    "timestamp": "2025-10-29T05:45:10.825301"
+    "timestamp": "2025-10-30T13:04:54.599392"
   },
   {
     "asset_id": "ed6db61d936ea9f9",
@@ -4605,7 +4605,7 @@
     "redundancy_level": 0.03,
     "revenue_impact": 0.3,
     "operational_reliance": 0.289,
-    "timestamp": "2025-10-29T05:45:10.825369"
+    "timestamp": "2025-10-30T13:04:54.599478"
   },
   {
     "asset_id": "99501485bfc54340",
@@ -4623,7 +4623,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.66,
     "operational_reliance": 0.243,
-    "timestamp": "2025-10-29T05:45:10.825436"
+    "timestamp": "2025-10-30T13:04:54.599564"
   },
   {
     "asset_id": "5ada278960719e60",
@@ -4641,7 +4641,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.14,
     "operational_reliance": 0.204,
-    "timestamp": "2025-10-29T05:45:10.825504"
+    "timestamp": "2025-10-30T13:04:54.599649"
   },
   {
     "asset_id": "ede2d3e394420f5f",
@@ -4659,7 +4659,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.48,
     "operational_reliance": 0.286,
-    "timestamp": "2025-10-29T05:45:10.825572"
+    "timestamp": "2025-10-30T13:04:54.599735"
   },
   {
     "asset_id": "6c8103b4603ba453",
@@ -4677,7 +4677,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.11,
     "operational_reliance": 0.211,
-    "timestamp": "2025-10-29T05:45:10.825640"
+    "timestamp": "2025-10-30T13:04:54.599821"
   },
   {
     "asset_id": "34a70b7a9c494aad",
@@ -4695,7 +4695,7 @@
     "redundancy_level": 0.28,
     "revenue_impact": 0.8,
     "operational_reliance": 0.319,
-    "timestamp": "2025-10-29T05:45:10.825744"
+    "timestamp": "2025-10-30T13:04:54.599909"
   },
   {
     "asset_id": "52b15fb67915f672",
@@ -4713,7 +4713,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.39,
     "operational_reliance": 0.268,
-    "timestamp": "2025-10-29T05:45:10.825816"
+    "timestamp": "2025-10-30T13:04:54.599995"
   },
   {
     "asset_id": "2d51725936e02788",
@@ -4731,7 +4731,7 @@
     "redundancy_level": 0.09,
     "revenue_impact": 0.28,
     "operational_reliance": 0.296,
-    "timestamp": "2025-10-29T05:45:10.825888"
+    "timestamp": "2025-10-30T13:04:54.600082"
   },
   {
     "asset_id": "16ce124c65f98b37",
@@ -4749,7 +4749,7 @@
     "redundancy_level": 0.46,
     "revenue_impact": 0.14,
     "operational_reliance": 0.303,
-    "timestamp": "2025-10-29T05:45:10.825957"
+    "timestamp": "2025-10-30T13:04:54.600168"
   },
   {
     "asset_id": "50feddac7ebbc649",
@@ -4767,7 +4767,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.19,
     "operational_reliance": 0.26,
-    "timestamp": "2025-10-29T05:45:10.826025"
+    "timestamp": "2025-10-30T13:04:54.600254"
   },
   {
     "asset_id": "dbcc4c25c7d57a94",
@@ -4785,7 +4785,7 @@
     "redundancy_level": 0.8,
     "revenue_impact": 0.6,
     "operational_reliance": 0.27,
-    "timestamp": "2025-10-29T05:45:10.826093"
+    "timestamp": "2025-10-30T13:04:54.600341"
   },
   {
     "asset_id": "b3b93b2c924c19d6",
@@ -4803,7 +4803,7 @@
     "redundancy_level": 0.46,
     "revenue_impact": 0.18,
     "operational_reliance": 0.27,
-    "timestamp": "2025-10-29T05:45:10.826162"
+    "timestamp": "2025-10-30T13:04:54.600428"
   },
   {
     "asset_id": "8b45e09897f8cc97",
@@ -4821,7 +4821,7 @@
     "redundancy_level": 0.38,
     "revenue_impact": 0.75,
     "operational_reliance": 0.382,
-    "timestamp": "2025-10-29T05:45:10.826229"
+    "timestamp": "2025-10-30T13:04:54.600514"
   },
   {
     "asset_id": "358548e319d4be07",
@@ -4839,7 +4839,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.46,
     "operational_reliance": 0.253,
-    "timestamp": "2025-10-29T05:45:10.826297"
+    "timestamp": "2025-10-30T13:04:54.600600"
   },
   {
     "asset_id": "5c31017aa140e2c1",
@@ -4857,7 +4857,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.41,
     "operational_reliance": 0.298,
-    "timestamp": "2025-10-29T05:45:10.826365"
+    "timestamp": "2025-10-30T13:04:54.600687"
   },
   {
     "asset_id": "cbbc7b70f7c68209",
@@ -4875,7 +4875,7 @@
     "redundancy_level": 0.57,
     "revenue_impact": 0.26,
     "operational_reliance": 0.228,
-    "timestamp": "2025-10-29T05:45:10.826432"
+    "timestamp": "2025-10-30T13:04:54.600775"
   },
   {
     "asset_id": "cd45a48108b90e6e",
@@ -4893,7 +4893,7 @@
     "redundancy_level": 0.99,
     "revenue_impact": 0.65,
     "operational_reliance": 0.254,
-    "timestamp": "2025-10-29T05:45:10.826500"
+    "timestamp": "2025-10-30T13:04:54.600862"
   },
   {
     "asset_id": "0450dffa527e70bd",
@@ -4911,7 +4911,7 @@
     "redundancy_level": 0.1,
     "revenue_impact": 0.69,
     "operational_reliance": 0.353,
-    "timestamp": "2025-10-29T05:45:10.826569"
+    "timestamp": "2025-10-30T13:04:54.600949"
   },
   {
     "asset_id": "38c9c9b75f181c57",
@@ -4929,7 +4929,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.54,
     "operational_reliance": 0.377,
-    "timestamp": "2025-10-29T05:45:10.826637"
+    "timestamp": "2025-10-30T13:04:54.601036"
   },
   {
     "asset_id": "583a9d3f797e5ea5",
@@ -4947,7 +4947,7 @@
     "redundancy_level": 0.32,
     "revenue_impact": 0.6,
     "operational_reliance": 0.383,
-    "timestamp": "2025-10-29T05:45:10.826705"
+    "timestamp": "2025-10-30T13:04:54.601124"
   },
   {
     "asset_id": "1e8db25c071bd56d",
@@ -4965,7 +4965,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.16,
     "operational_reliance": 0.257,
-    "timestamp": "2025-10-29T05:45:10.826773"
+    "timestamp": "2025-10-30T13:04:54.601211"
   },
   {
     "asset_id": "a3bd9adb2bb58d9a",
@@ -4983,7 +4983,7 @@
     "redundancy_level": 0.06,
     "revenue_impact": 0.35,
     "operational_reliance": 0.239,
-    "timestamp": "2025-10-29T05:45:10.826844"
+    "timestamp": "2025-10-30T13:04:54.601301"
   },
   {
     "asset_id": "a53dcc6a2fe6728e",
@@ -5001,7 +5001,7 @@
     "redundancy_level": 0.18,
     "revenue_impact": 0.53,
     "operational_reliance": 0.288,
-    "timestamp": "2025-10-29T05:45:10.826913"
+    "timestamp": "2025-10-30T13:04:54.601388"
   },
   {
     "asset_id": "73044c4affe3577c",
@@ -5019,7 +5019,7 @@
     "redundancy_level": 0.26,
     "revenue_impact": 0.11,
     "operational_reliance": 0.247,
-    "timestamp": "2025-10-29T05:45:10.826982"
+    "timestamp": "2025-10-30T13:04:54.601476"
   },
   {
     "asset_id": "eba680585004ee1d",
@@ -5037,7 +5037,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.55,
     "operational_reliance": 0.246,
-    "timestamp": "2025-10-29T05:45:10.827051"
+    "timestamp": "2025-10-30T13:04:54.601563"
   },
   {
     "asset_id": "b018b5a65070d94d",
@@ -5055,7 +5055,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.37,
     "operational_reliance": 0.333,
-    "timestamp": "2025-10-29T05:45:10.827120"
+    "timestamp": "2025-10-30T13:04:54.601650"
   },
   {
     "asset_id": "2c79eb487cd88ef2",
@@ -5073,7 +5073,7 @@
     "redundancy_level": 0.91,
     "revenue_impact": 0.62,
     "operational_reliance": 0.302,
-    "timestamp": "2025-10-29T05:45:10.827189"
+    "timestamp": "2025-10-30T13:04:54.601738"
   },
   {
     "asset_id": "36f802e8d1e5f956",
@@ -5091,7 +5091,7 @@
     "redundancy_level": 0.77,
     "revenue_impact": 0.58,
     "operational_reliance": 0.218,
-    "timestamp": "2025-10-29T05:45:10.827257"
+    "timestamp": "2025-10-30T13:04:54.601825"
   },
   {
     "asset_id": "ae5eea08f44027f3",
@@ -5109,7 +5109,7 @@
     "redundancy_level": 0.58,
     "revenue_impact": 0.61,
     "operational_reliance": 0.317,
-    "timestamp": "2025-10-29T05:45:10.827326"
+    "timestamp": "2025-10-30T13:04:54.601913"
   },
   {
     "asset_id": "bab419915eb7fccc",
@@ -5127,7 +5127,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.36,
     "operational_reliance": 0.216,
-    "timestamp": "2025-10-29T05:45:10.827394"
+    "timestamp": "2025-10-30T13:04:54.602002"
   },
   {
     "asset_id": "5b5bf9c288b1435c",
@@ -5145,7 +5145,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.62,
     "operational_reliance": 0.28,
-    "timestamp": "2025-10-29T05:45:10.827463"
+    "timestamp": "2025-10-30T13:04:54.602089"
   },
   {
     "asset_id": "dfd9a17ebd7498f9",
@@ -5163,7 +5163,7 @@
     "redundancy_level": 0.68,
     "revenue_impact": 0.57,
     "operational_reliance": 0.23,
-    "timestamp": "2025-10-29T05:45:10.827531"
+    "timestamp": "2025-10-30T13:04:54.602178"
   },
   {
     "asset_id": "b382cd6f33481f70",
@@ -5181,7 +5181,7 @@
     "redundancy_level": 0.37,
     "revenue_impact": 0.62,
     "operational_reliance": 0.242,
-    "timestamp": "2025-10-29T05:45:10.827600"
+    "timestamp": "2025-10-30T13:04:54.602266"
   },
   {
     "asset_id": "62f13d5adb3b7572",
@@ -5199,7 +5199,7 @@
     "redundancy_level": 0.61,
     "revenue_impact": 0.55,
     "operational_reliance": 0.305,
-    "timestamp": "2025-10-29T05:45:10.827669"
+    "timestamp": "2025-10-30T13:04:54.602354"
   },
   {
     "asset_id": "ae8f6326ded42d75",
@@ -5217,7 +5217,7 @@
     "redundancy_level": 0.12,
     "revenue_impact": 0.26,
     "operational_reliance": 0.233,
-    "timestamp": "2025-10-29T05:45:10.827738"
+    "timestamp": "2025-10-30T13:04:54.602442"
   },
   {
     "asset_id": "c55a5558c307847a",
@@ -5235,7 +5235,7 @@
     "redundancy_level": 0.54,
     "revenue_impact": 0.51,
     "operational_reliance": 0.297,
-    "timestamp": "2025-10-29T05:45:10.827807"
+    "timestamp": "2025-10-30T13:04:54.602531"
   },
   {
     "asset_id": "0b48b48f74310c1b",
@@ -5253,7 +5253,7 @@
     "redundancy_level": 0.28,
     "revenue_impact": 0.58,
     "operational_reliance": 0.388,
-    "timestamp": "2025-10-29T05:45:10.827876"
+    "timestamp": "2025-10-30T13:04:54.602619"
   },
   {
     "asset_id": "056eabe9fff4e72f",
@@ -5271,7 +5271,7 @@
     "redundancy_level": 0.37,
     "revenue_impact": 0.73,
     "operational_reliance": 0.309,
-    "timestamp": "2025-10-29T05:45:10.827945"
+    "timestamp": "2025-10-30T13:04:54.602707"
   },
   {
     "asset_id": "1a703d310ad17da7",
@@ -5289,7 +5289,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.56,
     "operational_reliance": 0.26,
-    "timestamp": "2025-10-29T05:45:10.828015"
+    "timestamp": "2025-10-30T13:04:54.602796"
   },
   {
     "asset_id": "6e2685a708aea2f3",
@@ -5307,7 +5307,7 @@
     "redundancy_level": 0.21,
     "revenue_impact": 0.68,
     "operational_reliance": 0.329,
-    "timestamp": "2025-10-29T05:45:10.828085"
+    "timestamp": "2025-10-30T13:04:54.602887"
   },
   {
     "asset_id": "fd1ddf1627b9986f",
@@ -5325,7 +5325,7 @@
     "redundancy_level": 0.98,
     "revenue_impact": 0.79,
     "operational_reliance": 0.307,
-    "timestamp": "2025-10-29T05:45:10.828154"
+    "timestamp": "2025-10-30T13:04:54.602976"
   },
   {
     "asset_id": "af4067d9a8d92c04",
@@ -5343,7 +5343,7 @@
     "redundancy_level": 0.36,
     "revenue_impact": 0.65,
     "operational_reliance": 0.294,
-    "timestamp": "2025-10-29T05:45:10.828224"
+    "timestamp": "2025-10-30T13:04:54.603063"
   },
   {
     "asset_id": "e2f9a1754ca5089e",
@@ -5361,7 +5361,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.14,
     "operational_reliance": 0.212,
-    "timestamp": "2025-10-29T05:45:10.828294"
+    "timestamp": "2025-10-30T13:04:54.603149"
   },
   {
     "asset_id": "0339be7bbc4be129",
@@ -5379,7 +5379,7 @@
     "redundancy_level": 0.04,
     "revenue_impact": 0.65,
     "operational_reliance": 0.332,
-    "timestamp": "2025-10-29T05:45:10.828420"
+    "timestamp": "2025-10-30T13:04:54.603235"
   },
   {
     "asset_id": "d8fd5db05026a23a",
@@ -5397,7 +5397,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.53,
     "operational_reliance": 0.343,
-    "timestamp": "2025-10-29T05:45:10.828551"
+    "timestamp": "2025-10-30T13:04:54.603322"
   },
   {
     "asset_id": "ce68e7001e61c230",
@@ -5415,7 +5415,7 @@
     "redundancy_level": 0.99,
     "revenue_impact": 0.47,
     "operational_reliance": 0.225,
-    "timestamp": "2025-10-29T05:45:10.828647"
+    "timestamp": "2025-10-30T13:04:54.603408"
   },
   {
     "asset_id": "0d7ab8342f531c7f",
@@ -5433,7 +5433,7 @@
     "redundancy_level": 0.55,
     "revenue_impact": 0.71,
     "operational_reliance": 0.312,
-    "timestamp": "2025-10-29T05:45:10.828729"
+    "timestamp": "2025-10-30T13:04:54.603496"
   },
   {
     "asset_id": "5ec6b768e64f5a37",
@@ -5451,7 +5451,7 @@
     "redundancy_level": 0.73,
     "revenue_impact": 0.32,
     "operational_reliance": 0.273,
-    "timestamp": "2025-10-29T05:45:10.828810"
+    "timestamp": "2025-10-30T13:04:54.603581"
   },
   {
     "asset_id": "cdc71a117abe3e55",
@@ -5469,7 +5469,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.17,
     "operational_reliance": 0.175,
-    "timestamp": "2025-10-29T05:45:10.828886"
+    "timestamp": "2025-10-30T13:04:54.603667"
   },
   {
     "asset_id": "ab81769cdc15fef0",
@@ -5487,7 +5487,7 @@
     "redundancy_level": 0.33,
     "revenue_impact": 0.19,
     "operational_reliance": 0.305,
-    "timestamp": "2025-10-29T05:45:10.828961"
+    "timestamp": "2025-10-30T13:04:54.603754"
   },
   {
     "asset_id": "35d844c37c7b58cd",
@@ -5505,7 +5505,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.5,
     "operational_reliance": 0.378,
-    "timestamp": "2025-10-29T05:45:10.829035"
+    "timestamp": "2025-10-30T13:04:54.603841"
   },
   {
     "asset_id": "ecdfc0dfbd51482a",
@@ -5523,7 +5523,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.69,
     "operational_reliance": 0.301,
-    "timestamp": "2025-10-29T05:45:10.829108"
+    "timestamp": "2025-10-30T13:04:54.603927"
   },
   {
     "asset_id": "b90ba603b7d8a0ff",
@@ -5541,7 +5541,7 @@
     "redundancy_level": 0.27,
     "revenue_impact": 0.63,
     "operational_reliance": 0.329,
-    "timestamp": "2025-10-29T05:45:10.829186"
+    "timestamp": "2025-10-30T13:04:54.604014"
   },
   {
     "asset_id": "52940e5e02b5c078",
@@ -5559,7 +5559,7 @@
     "redundancy_level": 0.03,
     "revenue_impact": 0.62,
     "operational_reliance": 0.327,
-    "timestamp": "2025-10-29T05:45:10.829258"
+    "timestamp": "2025-10-30T13:04:54.604100"
   },
   {
     "asset_id": "e1a6e1c6039ea6ea",
@@ -5577,7 +5577,7 @@
     "redundancy_level": 0.78,
     "revenue_impact": 0.5,
     "operational_reliance": 0.241,
-    "timestamp": "2025-10-29T05:45:10.829337"
+    "timestamp": "2025-10-30T13:04:54.604187"
   },
   {
     "asset_id": "24cbd4c0273481b7",
@@ -5595,7 +5595,7 @@
     "redundancy_level": 0.44,
     "revenue_impact": 0.4,
     "operational_reliance": 0.241,
-    "timestamp": "2025-10-29T05:45:10.829409"
+    "timestamp": "2025-10-30T13:04:54.604274"
   },
   {
     "asset_id": "213a64c4c233511f",
@@ -5613,7 +5613,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.57,
     "operational_reliance": 0.291,
-    "timestamp": "2025-10-29T05:45:10.829482"
+    "timestamp": "2025-10-30T13:04:54.604360"
   },
   {
     "asset_id": "1093e910234f5f56",
@@ -5631,7 +5631,7 @@
     "redundancy_level": 0.26,
     "revenue_impact": 0.33,
     "operational_reliance": 0.207,
-    "timestamp": "2025-10-29T05:45:10.829555"
+    "timestamp": "2025-10-30T13:04:54.604447"
   },
   {
     "asset_id": "597dcff336378d42",
@@ -5649,7 +5649,7 @@
     "redundancy_level": 0.5,
     "revenue_impact": 0.68,
     "operational_reliance": 0.292,
-    "timestamp": "2025-10-29T05:45:10.829628"
+    "timestamp": "2025-10-30T13:04:54.604535"
   },
   {
     "asset_id": "9d0fc05b3c9eb649",
@@ -5667,7 +5667,7 @@
     "redundancy_level": 0.57,
     "revenue_impact": 0.6,
     "operational_reliance": 0.323,
-    "timestamp": "2025-10-29T05:45:10.829701"
+    "timestamp": "2025-10-30T13:04:54.604622"
   },
   {
     "asset_id": "e9952f4acc4a8335",
@@ -5685,7 +5685,7 @@
     "redundancy_level": 0.62,
     "revenue_impact": 0.68,
     "operational_reliance": 0.227,
-    "timestamp": "2025-10-29T05:45:10.829773"
+    "timestamp": "2025-10-30T13:04:54.604709"
   },
   {
     "asset_id": "e1352c144eb0a15a",
@@ -5703,7 +5703,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.71,
     "operational_reliance": 0.297,
-    "timestamp": "2025-10-29T05:45:10.829845"
+    "timestamp": "2025-10-30T13:04:54.604796"
   },
   {
     "asset_id": "6355314e821059cf",
@@ -5721,7 +5721,7 @@
     "redundancy_level": 0.51,
     "revenue_impact": 0.73,
     "operational_reliance": 0.245,
-    "timestamp": "2025-10-29T05:45:10.829918"
+    "timestamp": "2025-10-30T13:04:54.604884"
   },
   {
     "asset_id": "fa25d9ba28500a92",
@@ -5739,7 +5739,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.24,
     "operational_reliance": 0.345,
-    "timestamp": "2025-10-29T05:45:10.829990"
+    "timestamp": "2025-10-30T13:04:54.604972"
   },
   {
     "asset_id": "fac354c05adbefbf",
@@ -5757,7 +5757,7 @@
     "redundancy_level": 0.49,
     "revenue_impact": 0.63,
     "operational_reliance": 0.328,
-    "timestamp": "2025-10-29T05:45:10.830062"
+    "timestamp": "2025-10-30T13:04:54.605060"
   },
   {
     "asset_id": "a4de72ccb9397eec",
@@ -5775,7 +5775,7 @@
     "redundancy_level": 0.59,
     "revenue_impact": 0.35,
     "operational_reliance": 0.279,
-    "timestamp": "2025-10-29T05:45:10.830134"
+    "timestamp": "2025-10-30T13:04:54.605148"
   },
   {
     "asset_id": "d4d5f2c9599531bf",
@@ -5793,7 +5793,7 @@
     "redundancy_level": 0.98,
     "revenue_impact": 0.16,
     "operational_reliance": 0.16,
-    "timestamp": "2025-10-29T05:45:10.830207"
+    "timestamp": "2025-10-30T13:04:54.605268"
   },
   {
     "asset_id": "57f9c2b1df45fb66",
@@ -5811,7 +5811,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.67,
     "operational_reliance": 0.348,
-    "timestamp": "2025-10-29T05:45:10.830278"
+    "timestamp": "2025-10-30T13:04:54.605361"
   },
   {
     "asset_id": "41c761c3bac85fae",
@@ -5829,7 +5829,7 @@
     "redundancy_level": 0.98,
     "revenue_impact": 0.16,
     "operational_reliance": 0.261,
-    "timestamp": "2025-10-29T05:45:10.830350"
+    "timestamp": "2025-10-30T13:04:54.605449"
   },
   {
     "asset_id": "deb3e341ebb136d3",
@@ -5847,7 +5847,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.36,
     "operational_reliance": 0.282,
-    "timestamp": "2025-10-29T05:45:10.830437"
+    "timestamp": "2025-10-30T13:04:54.605537"
   },
   {
     "asset_id": "c3763fb06952f0ec",
@@ -5865,7 +5865,7 @@
     "redundancy_level": 0.65,
     "revenue_impact": 0.15,
     "operational_reliance": 0.236,
-    "timestamp": "2025-10-29T05:45:10.830511"
+    "timestamp": "2025-10-30T13:04:54.605626"
   },
   {
     "asset_id": "20c5a25ffcc40664",
@@ -5883,7 +5883,7 @@
     "redundancy_level": 0.87,
     "revenue_impact": 0.33,
     "operational_reliance": 0.271,
-    "timestamp": "2025-10-29T05:45:10.830584"
+    "timestamp": "2025-10-30T13:04:54.605713"
   },
   {
     "asset_id": "f90691af24027b32",
@@ -5901,7 +5901,7 @@
     "redundancy_level": 0.64,
     "revenue_impact": 0.33,
     "operational_reliance": 0.234,
-    "timestamp": "2025-10-29T05:45:10.830658"
+    "timestamp": "2025-10-30T13:04:54.605802"
   },
   {
     "asset_id": "a247b749954a5456",
@@ -5919,7 +5919,7 @@
     "redundancy_level": 0.18,
     "revenue_impact": 0.25,
     "operational_reliance": 0.281,
-    "timestamp": "2025-10-29T05:45:10.830731"
+    "timestamp": "2025-10-30T13:04:54.605890"
   },
   {
     "asset_id": "6af7329b6b3e1674",
@@ -5937,7 +5937,7 @@
     "redundancy_level": 0.1,
     "revenue_impact": 0.64,
     "operational_reliance": 0.286,
-    "timestamp": "2025-10-29T05:45:10.830805"
+    "timestamp": "2025-10-30T13:04:54.605979"
   },
   {
     "asset_id": "82b0d9bf4529bc54",
@@ -5955,7 +5955,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.23,
     "operational_reliance": 0.355,
-    "timestamp": "2025-10-29T05:45:10.830877"
+    "timestamp": "2025-10-30T13:04:54.606067"
   },
   {
     "asset_id": "b7ecd4631e7b04b0",
@@ -5973,7 +5973,7 @@
     "redundancy_level": 0.97,
     "revenue_impact": 0.53,
     "operational_reliance": 0.215,
-    "timestamp": "2025-10-29T05:45:10.830974"
+    "timestamp": "2025-10-30T13:04:54.606156"
   },
   {
     "asset_id": "cf0aadbc7b9b2bbf",
@@ -5991,7 +5991,7 @@
     "redundancy_level": 0.37,
     "revenue_impact": 0.76,
     "operational_reliance": 0.359,
-    "timestamp": "2025-10-29T05:45:10.831065"
+    "timestamp": "2025-10-30T13:04:54.606245"
   },
   {
     "asset_id": "a72d272ebe9e489f",
@@ -6009,7 +6009,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.24,
     "operational_reliance": 0.335,
-    "timestamp": "2025-10-29T05:45:10.831151"
+    "timestamp": "2025-10-30T13:04:54.606333"
   },
   {
     "asset_id": "8c9004711a8b2738",
@@ -6027,7 +6027,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.6,
     "operational_reliance": 0.225,
-    "timestamp": "2025-10-29T05:45:10.831227"
+    "timestamp": "2025-10-30T13:04:54.606423"
   },
   {
     "asset_id": "a427c777b8f38759",
@@ -6045,7 +6045,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.41,
     "operational_reliance": 0.336,
-    "timestamp": "2025-10-29T05:45:10.831302"
+    "timestamp": "2025-10-30T13:04:54.606512"
   },
   {
     "asset_id": "5a2c0dbd135bb31b",
@@ -6063,7 +6063,7 @@
     "redundancy_level": 0.39,
     "revenue_impact": 0.16,
     "operational_reliance": 0.27,
-    "timestamp": "2025-10-29T05:45:10.831376"
+    "timestamp": "2025-10-30T13:04:54.606602"
   },
   {
     "asset_id": "efa72fc7af864918",
@@ -6081,7 +6081,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.59,
     "operational_reliance": 0.312,
-    "timestamp": "2025-10-29T05:45:10.831451"
+    "timestamp": "2025-10-30T13:04:54.606691"
   },
   {
     "asset_id": "3bdbe5b7312cb30c",
@@ -6099,7 +6099,7 @@
     "redundancy_level": 0.94,
     "revenue_impact": 0.53,
     "operational_reliance": 0.191,
-    "timestamp": "2025-10-29T05:45:10.831525"
+    "timestamp": "2025-10-30T13:04:54.606781"
   },
   {
     "asset_id": "c399c6be9d3f9a13",
@@ -6117,7 +6117,7 @@
     "redundancy_level": 0.46,
     "revenue_impact": 0.18,
     "operational_reliance": 0.214,
-    "timestamp": "2025-10-29T05:45:10.831600"
+    "timestamp": "2025-10-30T13:04:54.606871"
   },
   {
     "asset_id": "546b77d9430e815b",
@@ -6135,7 +6135,7 @@
     "redundancy_level": 0.0,
     "revenue_impact": 0.35,
     "operational_reliance": 0.337,
-    "timestamp": "2025-10-29T05:45:10.831674"
+    "timestamp": "2025-10-30T13:04:54.606961"
   },
   {
     "asset_id": "534c0188f600d951",
@@ -6153,7 +6153,7 @@
     "redundancy_level": 0.95,
     "revenue_impact": 0.48,
     "operational_reliance": 0.232,
-    "timestamp": "2025-10-29T05:45:10.831749"
+    "timestamp": "2025-10-30T13:04:54.607051"
   },
   {
     "asset_id": "a57bfce1142c56fc",
@@ -6171,7 +6171,7 @@
     "redundancy_level": 0.25,
     "revenue_impact": 0.11,
     "operational_reliance": 0.295,
-    "timestamp": "2025-10-29T05:45:10.831827"
+    "timestamp": "2025-10-30T13:04:54.607141"
   },
   {
     "asset_id": "693cdd59bcfacab7",
@@ -6189,7 +6189,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.58,
     "operational_reliance": 0.221,
-    "timestamp": "2025-10-29T05:45:10.831901"
+    "timestamp": "2025-10-30T13:04:54.607230"
   },
   {
     "asset_id": "42a76f0eacb106f4",
@@ -6207,7 +6207,7 @@
     "redundancy_level": 0.29,
     "revenue_impact": 0.13,
     "operational_reliance": 0.259,
-    "timestamp": "2025-10-29T05:45:10.831975"
+    "timestamp": "2025-10-30T13:04:54.607320"
   },
   {
     "asset_id": "a13611896943b1de",
@@ -6225,7 +6225,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.13,
     "operational_reliance": 0.233,
-    "timestamp": "2025-10-29T05:45:10.832049"
+    "timestamp": "2025-10-30T13:04:54.607410"
   },
   {
     "asset_id": "78c03c71e92b4a53",
@@ -6243,7 +6243,7 @@
     "redundancy_level": 0.44,
     "revenue_impact": 0.77,
     "operational_reliance": 0.327,
-    "timestamp": "2025-10-29T05:45:10.832123"
+    "timestamp": "2025-10-30T13:04:54.607501"
   },
   {
     "asset_id": "c51e9697f48d1b21",
@@ -6261,7 +6261,7 @@
     "redundancy_level": 0.8,
     "revenue_impact": 0.61,
     "operational_reliance": 0.288,
-    "timestamp": "2025-10-29T05:45:10.832197"
+    "timestamp": "2025-10-30T13:04:54.607592"
   },
   {
     "asset_id": "e381419d014f457b",
@@ -6279,7 +6279,7 @@
     "redundancy_level": 0.08,
     "revenue_impact": 0.56,
     "operational_reliance": 0.365,
-    "timestamp": "2025-10-29T05:45:10.832271"
+    "timestamp": "2025-10-30T13:04:54.607682"
   },
   {
     "asset_id": "9867f884bfe2b328",
@@ -6297,7 +6297,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.8,
     "operational_reliance": 0.322,
-    "timestamp": "2025-10-29T05:45:10.832346"
+    "timestamp": "2025-10-30T13:04:54.607772"
   },
   {
     "asset_id": "19fdececda80432c",
@@ -6315,7 +6315,7 @@
     "redundancy_level": 0.68,
     "revenue_impact": 0.77,
     "operational_reliance": 0.293,
-    "timestamp": "2025-10-29T05:45:10.832420"
+    "timestamp": "2025-10-30T13:04:54.607865"
   },
   {
     "asset_id": "e6cf46a47c480685",
@@ -6333,7 +6333,7 @@
     "redundancy_level": 0.38,
     "revenue_impact": 0.5,
     "operational_reliance": 0.234,
-    "timestamp": "2025-10-29T05:45:10.832494"
+    "timestamp": "2025-10-30T13:04:54.607956"
   },
   {
     "asset_id": "61037cecf02481b1",
@@ -6351,7 +6351,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.61,
     "operational_reliance": 0.323,
-    "timestamp": "2025-10-29T05:45:10.832569"
+    "timestamp": "2025-10-30T13:04:54.608046"
   },
   {
     "asset_id": "9180bd2abea2089b",
@@ -6369,7 +6369,7 @@
     "redundancy_level": 0.29,
     "revenue_impact": 0.74,
     "operational_reliance": 0.317,
-    "timestamp": "2025-10-29T05:45:10.832644"
+    "timestamp": "2025-10-30T13:04:54.608137"
   },
   {
     "asset_id": "fb603747c4a4594f",
@@ -6387,7 +6387,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.16,
     "operational_reliance": 0.287,
-    "timestamp": "2025-10-29T05:45:10.832719"
+    "timestamp": "2025-10-30T13:04:54.608227"
   },
   {
     "asset_id": "be1a404d4c6e9630",
@@ -6405,7 +6405,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.6,
     "operational_reliance": 0.327,
-    "timestamp": "2025-10-29T05:45:10.832793"
+    "timestamp": "2025-10-30T13:04:54.608318"
   },
   {
     "asset_id": "9cd8910a22ae033d",
@@ -6423,7 +6423,7 @@
     "redundancy_level": 0.79,
     "revenue_impact": 0.12,
     "operational_reliance": 0.148,
-    "timestamp": "2025-10-29T05:45:10.832868"
+    "timestamp": "2025-10-30T13:04:54.608409"
   },
   {
     "asset_id": "0eff942fcefe7740",
@@ -6441,7 +6441,7 @@
     "redundancy_level": 0.07,
     "revenue_impact": 0.38,
     "operational_reliance": 0.365,
-    "timestamp": "2025-10-29T05:45:10.832943"
+    "timestamp": "2025-10-30T13:04:54.608499"
   },
   {
     "asset_id": "753f63f5dd9d9e4c",
@@ -6459,7 +6459,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.65,
     "operational_reliance": 0.268,
-    "timestamp": "2025-10-29T05:45:10.833017"
+    "timestamp": "2025-10-30T13:04:54.608590"
   },
   {
     "asset_id": "f183df39c655efb7",
@@ -6477,7 +6477,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.46,
     "operational_reliance": 0.248,
-    "timestamp": "2025-10-29T05:45:10.833092"
+    "timestamp": "2025-10-30T13:04:54.608681"
   },
   {
     "asset_id": "1427623e7312a5c2",
@@ -6495,7 +6495,7 @@
     "redundancy_level": 0.52,
     "revenue_impact": 0.3,
     "operational_reliance": 0.294,
-    "timestamp": "2025-10-29T05:45:10.833167"
+    "timestamp": "2025-10-30T13:04:54.608772"
   },
   {
     "asset_id": "1ed6f590c5b56a4b",
@@ -6513,7 +6513,7 @@
     "redundancy_level": 0.61,
     "revenue_impact": 0.17,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:45:10.833242"
+    "timestamp": "2025-10-30T13:04:54.608863"
   },
   {
     "asset_id": "774b9383335775bb",
@@ -6531,7 +6531,7 @@
     "redundancy_level": 0.05,
     "revenue_impact": 0.55,
     "operational_reliance": 0.357,
-    "timestamp": "2025-10-29T05:45:10.833317"
+    "timestamp": "2025-10-30T13:04:54.608954"
   },
   {
     "asset_id": "a6bfe669ecb31f70",
@@ -6549,7 +6549,7 @@
     "redundancy_level": 0.5,
     "revenue_impact": 0.54,
     "operational_reliance": 0.33,
-    "timestamp": "2025-10-29T05:45:10.833392"
+    "timestamp": "2025-10-30T13:04:54.609045"
   },
   {
     "asset_id": "b5b5577d90780f43",
@@ -6567,7 +6567,7 @@
     "redundancy_level": 0.07,
     "revenue_impact": 0.14,
     "operational_reliance": 0.321,
-    "timestamp": "2025-10-29T05:45:10.833467"
+    "timestamp": "2025-10-30T13:04:54.609137"
   },
   {
     "asset_id": "ea8ee9ab941abdc2",
@@ -6585,7 +6585,7 @@
     "redundancy_level": 0.72,
     "revenue_impact": 0.61,
     "operational_reliance": 0.239,
-    "timestamp": "2025-10-29T05:45:10.833543"
+    "timestamp": "2025-10-30T13:04:54.609230"
   },
   {
     "asset_id": "e7c0ce5f5294b822",
@@ -6603,7 +6603,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.29,
     "operational_reliance": 0.226,
-    "timestamp": "2025-10-29T05:45:10.833618"
+    "timestamp": "2025-10-30T13:04:54.609322"
   },
   {
     "asset_id": "351dbdea5c449cf4",
@@ -6621,7 +6621,7 @@
     "redundancy_level": 0.58,
     "revenue_impact": 0.32,
     "operational_reliance": 0.255,
-    "timestamp": "2025-10-29T05:45:10.833694"
+    "timestamp": "2025-10-30T13:04:54.609414"
   },
   {
     "asset_id": "bffb01d8bfd17e88",
@@ -6639,7 +6639,7 @@
     "redundancy_level": 0.09,
     "revenue_impact": 0.38,
     "operational_reliance": 0.364,
-    "timestamp": "2025-10-29T05:45:10.833770"
+    "timestamp": "2025-10-30T13:04:54.609506"
   },
   {
     "asset_id": "c6d62fed4281a0e3",
@@ -6657,7 +6657,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.56,
     "operational_reliance": 0.197,
-    "timestamp": "2025-10-29T05:45:10.833845"
+    "timestamp": "2025-10-30T13:04:54.609598"
   },
   {
     "asset_id": "ec0ec9e49556a46f",
@@ -6675,7 +6675,7 @@
     "redundancy_level": 0.73,
     "revenue_impact": 0.63,
     "operational_reliance": 0.329,
-    "timestamp": "2025-10-29T05:45:10.833921"
+    "timestamp": "2025-10-30T13:04:54.609691"
   },
   {
     "asset_id": "fe6ba4a25f42b9ef",
@@ -6693,7 +6693,7 @@
     "redundancy_level": 0.99,
     "revenue_impact": 0.58,
     "operational_reliance": 0.222,
-    "timestamp": "2025-10-29T05:45:10.833996"
+    "timestamp": "2025-10-30T13:04:54.609784"
   },
   {
     "asset_id": "2452b14a5e4708b3",
@@ -6711,7 +6711,7 @@
     "redundancy_level": 0.94,
     "revenue_impact": 0.63,
     "operational_reliance": 0.281,
-    "timestamp": "2025-10-29T05:45:10.834072"
+    "timestamp": "2025-10-30T13:04:54.609877"
   },
   {
     "asset_id": "26feb00a12e02619",
@@ -6729,7 +6729,7 @@
     "redundancy_level": 0.47,
     "revenue_impact": 0.42,
     "operational_reliance": 0.21,
-    "timestamp": "2025-10-29T05:45:10.834148"
+    "timestamp": "2025-10-30T13:04:54.609970"
   },
   {
     "asset_id": "8f33206e108d14fa",
@@ -6747,7 +6747,7 @@
     "redundancy_level": 0.74,
     "revenue_impact": 0.31,
     "operational_reliance": 0.254,
-    "timestamp": "2025-10-29T05:45:10.834224"
+    "timestamp": "2025-10-30T13:04:54.610111"
   },
   {
     "asset_id": "66b7fd8b5e1ebeb9",
@@ -6765,7 +6765,7 @@
     "redundancy_level": 0.67,
     "revenue_impact": 0.79,
     "operational_reliance": 0.302,
-    "timestamp": "2025-10-29T05:45:10.834300"
+    "timestamp": "2025-10-30T13:04:54.610265"
   },
   {
     "asset_id": "15f724a7a0cfa915",
@@ -6783,7 +6783,7 @@
     "redundancy_level": 0.23,
     "revenue_impact": 0.14,
     "operational_reliance": 0.307,
-    "timestamp": "2025-10-29T05:45:10.834375"
+    "timestamp": "2025-10-30T13:04:54.610380"
   },
   {
     "asset_id": "14cfc6d56979f17e",
@@ -6801,7 +6801,7 @@
     "redundancy_level": 0.82,
     "revenue_impact": 0.27,
     "operational_reliance": 0.263,
-    "timestamp": "2025-10-29T05:45:10.834451"
+    "timestamp": "2025-10-30T13:04:54.610483"
   },
   {
     "asset_id": "f10081fdea32c5ee",
@@ -6819,7 +6819,7 @@
     "redundancy_level": 0.2,
     "revenue_impact": 0.45,
     "operational_reliance": 0.279,
-    "timestamp": "2025-10-29T05:45:10.834527"
+    "timestamp": "2025-10-30T13:04:54.610583"
   },
   {
     "asset_id": "ac02021302dd6ea6",
@@ -6837,7 +6837,7 @@
     "redundancy_level": 0.96,
     "revenue_impact": 0.42,
     "operational_reliance": 0.278,
-    "timestamp": "2025-10-29T05:45:10.834603"
+    "timestamp": "2025-10-30T13:04:54.610683"
   },
   {
     "asset_id": "27a29367c57eed07",
@@ -6855,7 +6855,7 @@
     "redundancy_level": 0.97,
     "revenue_impact": 0.31,
     "operational_reliance": 0.166,
-    "timestamp": "2025-10-29T05:45:10.834679"
+    "timestamp": "2025-10-30T13:04:54.610781"
   },
   {
     "asset_id": "6f0d885602925450",
@@ -6873,7 +6873,7 @@
     "redundancy_level": 0.93,
     "revenue_impact": 0.61,
     "operational_reliance": 0.269,
-    "timestamp": "2025-10-29T05:45:10.834755"
+    "timestamp": "2025-10-30T13:04:54.610879"
   },
   {
     "asset_id": "9b177648b5537674",
@@ -6891,7 +6891,7 @@
     "redundancy_level": 0.35,
     "revenue_impact": 0.64,
     "operational_reliance": 0.339,
-    "timestamp": "2025-10-29T05:45:10.834834"
+    "timestamp": "2025-10-30T13:04:54.610974"
   },
   {
     "asset_id": "46785b17e5290a8f",
@@ -6909,7 +6909,7 @@
     "redundancy_level": 0.66,
     "revenue_impact": 0.62,
     "operational_reliance": 0.298,
-    "timestamp": "2025-10-29T05:45:10.834910"
+    "timestamp": "2025-10-30T13:04:54.611070"
   },
   {
     "asset_id": "de465b659cc62c10",
@@ -6927,7 +6927,7 @@
     "redundancy_level": 0.11,
     "revenue_impact": 0.62,
     "operational_reliance": 0.329,
-    "timestamp": "2025-10-29T05:45:10.834987"
+    "timestamp": "2025-10-30T13:04:54.611166"
   },
   {
     "asset_id": "b5145978f1ea33c7",
@@ -6945,7 +6945,7 @@
     "redundancy_level": 0.1,
     "revenue_impact": 0.33,
     "operational_reliance": 0.292,
-    "timestamp": "2025-10-29T05:45:10.835063"
+    "timestamp": "2025-10-30T13:04:54.611262"
   },
   {
     "asset_id": "7f4784add82aee11",
@@ -6963,7 +6963,7 @@
     "redundancy_level": 0.16,
     "revenue_impact": 0.56,
     "operational_reliance": 0.349,
-    "timestamp": "2025-10-29T05:45:10.835139"
+    "timestamp": "2025-10-30T13:04:54.611357"
   },
   {
     "asset_id": "2195fec379dd2b37",
@@ -6981,7 +6981,7 @@
     "redundancy_level": 0.06,
     "revenue_impact": 0.64,
     "operational_reliance": 0.355,
-    "timestamp": "2025-10-29T05:45:10.835216"
+    "timestamp": "2025-10-30T13:04:54.611453"
   },
   {
     "asset_id": "ecfbb5e83e220ff1",
@@ -6999,7 +6999,7 @@
     "redundancy_level": 0.84,
     "revenue_impact": 0.65,
     "operational_reliance": 0.294,
-    "timestamp": "2025-10-29T05:45:10.835292"
+    "timestamp": "2025-10-30T13:04:54.611547"
   },
   {
     "asset_id": "7cd670df9416a1c3",
@@ -7017,7 +7017,7 @@
     "redundancy_level": 0.98,
     "revenue_impact": 0.3,
     "operational_reliance": 0.176,
-    "timestamp": "2025-10-29T05:45:10.835369"
+    "timestamp": "2025-10-30T13:04:54.611642"
   },
   {
     "asset_id": "acfa19407e629d95",
@@ -7035,7 +7035,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.33,
     "operational_reliance": 0.214,
-    "timestamp": "2025-10-29T05:45:10.835446"
+    "timestamp": "2025-10-30T13:04:54.611737"
   },
   {
     "asset_id": "8e4f691eaac4587b",
@@ -7053,7 +7053,7 @@
     "redundancy_level": 0.9,
     "revenue_impact": 0.68,
     "operational_reliance": 0.295,
-    "timestamp": "2025-10-29T05:45:10.835522"
+    "timestamp": "2025-10-30T13:04:54.611832"
   },
   {
     "asset_id": "38b35e4cdce2336a",
@@ -7071,7 +7071,7 @@
     "redundancy_level": 0.38,
     "revenue_impact": 0.41,
     "operational_reliance": 0.315,
-    "timestamp": "2025-10-29T05:45:10.835599"
+    "timestamp": "2025-10-30T13:04:54.611927"
   },
   {
     "asset_id": "8eba47b185635127",
@@ -7089,7 +7089,7 @@
     "redundancy_level": 0.69,
     "revenue_impact": 0.14,
     "operational_reliance": 0.225,
-    "timestamp": "2025-10-29T05:45:10.835676"
+    "timestamp": "2025-10-30T13:04:54.612022"
   },
   {
     "asset_id": "af78bc5298e6c43a",
@@ -7107,7 +7107,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.32,
     "operational_reliance": 0.248,
-    "timestamp": "2025-10-29T05:45:10.835763"
+    "timestamp": "2025-10-30T13:04:54.612116"
   },
   {
     "asset_id": "0db0e39a1d7c45fb",
@@ -7125,7 +7125,7 @@
     "redundancy_level": 0.45,
     "revenue_impact": 0.79,
     "operational_reliance": 0.308,
-    "timestamp": "2025-10-29T05:45:10.835840"
+    "timestamp": "2025-10-30T13:04:54.612212"
   },
   {
     "asset_id": "56a9be68446486b2",
@@ -7143,7 +7143,7 @@
     "redundancy_level": 0.68,
     "revenue_impact": 0.52,
     "operational_reliance": 0.348,
-    "timestamp": "2025-10-29T05:45:10.835917"
+    "timestamp": "2025-10-30T13:04:54.612360"
   },
   {
     "asset_id": "b799e514545d1c7c",
@@ -7161,7 +7161,7 @@
     "redundancy_level": 0.83,
     "revenue_impact": 0.73,
     "operational_reliance": 0.264,
-    "timestamp": "2025-10-29T05:45:10.835998"
+    "timestamp": "2025-10-30T13:04:54.612504"
   },
   {
     "asset_id": "1f41a85213ea9b13",
@@ -7179,7 +7179,7 @@
     "redundancy_level": 0.72,
     "revenue_impact": 0.44,
     "operational_reliance": 0.278,
-    "timestamp": "2025-10-29T05:45:10.836075"
+    "timestamp": "2025-10-30T13:04:54.612619"
   },
   {
     "asset_id": "d564ebf6630ff8f2",
@@ -7197,7 +7197,7 @@
     "redundancy_level": 0.81,
     "revenue_impact": 0.61,
     "operational_reliance": 0.237,
-    "timestamp": "2025-10-29T05:45:10.836152"
+    "timestamp": "2025-10-30T13:04:54.612726"
   },
   {
     "asset_id": "6febdc0668202c32",
@@ -7215,7 +7215,7 @@
     "redundancy_level": 0.34,
     "revenue_impact": 0.14,
     "operational_reliance": 0.291,
-    "timestamp": "2025-10-29T05:45:10.836230"
+    "timestamp": "2025-10-30T13:04:54.612829"
   },
   {
     "asset_id": "edc6dc665553a29b",
@@ -7233,7 +7233,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.55,
     "operational_reliance": 0.328,
-    "timestamp": "2025-10-29T05:45:10.836308"
+    "timestamp": "2025-10-30T13:04:54.612931"
   },
   {
     "asset_id": "7bc3f8f51138ee9c",
@@ -7251,7 +7251,7 @@
     "redundancy_level": 0.38,
     "revenue_impact": 0.58,
     "operational_reliance": 0.365,
-    "timestamp": "2025-10-29T05:45:10.836386"
+    "timestamp": "2025-10-30T13:04:54.613031"
   },
   {
     "asset_id": "1757732b81c3b558",
@@ -7269,7 +7269,7 @@
     "redundancy_level": 0.53,
     "revenue_impact": 0.61,
     "operational_reliance": 0.273,
-    "timestamp": "2025-10-29T05:45:10.836464"
+    "timestamp": "2025-10-30T13:04:54.613131"
   },
   {
     "asset_id": "9467799dc7edbc42",
@@ -7287,7 +7287,7 @@
     "redundancy_level": 0.42,
     "revenue_impact": 0.37,
     "operational_reliance": 0.354,
-    "timestamp": "2025-10-29T05:45:10.836542"
+    "timestamp": "2025-10-30T13:04:54.613229"
   },
   {
     "asset_id": "6ba2cb5306e14da3",
@@ -7305,7 +7305,7 @@
     "redundancy_level": 0.42,
     "revenue_impact": 0.64,
     "operational_reliance": 0.353,
-    "timestamp": "2025-10-29T05:45:10.836619"
+    "timestamp": "2025-10-30T13:04:54.613328"
   },
   {
     "asset_id": "7917cb49d3c20723",
@@ -7323,7 +7323,7 @@
     "redundancy_level": 0.7,
     "revenue_impact": 0.13,
     "operational_reliance": 0.151,
-    "timestamp": "2025-10-29T05:45:10.836697"
+    "timestamp": "2025-10-30T13:04:54.613426"
   },
   {
     "asset_id": "bcdc6d49ec3ab3bc",
@@ -7341,7 +7341,7 @@
     "redundancy_level": 0.14,
     "revenue_impact": 0.8,
     "operational_reliance": 0.381,
-    "timestamp": "2025-10-29T05:45:10.836775"
+    "timestamp": "2025-10-30T13:04:54.613526"
   },
   {
     "asset_id": "1b73d18bafe837f5",
@@ -7359,7 +7359,7 @@
     "redundancy_level": 0.88,
     "revenue_impact": 0.79,
     "operational_reliance": 0.311,
-    "timestamp": "2025-10-29T05:45:10.836854"
+    "timestamp": "2025-10-30T13:04:54.613627"
   },
   {
     "asset_id": "b7f1cc6b799aef12",
@@ -7377,7 +7377,7 @@
     "redundancy_level": 0.94,
     "revenue_impact": 0.57,
     "operational_reliance": 0.274,
-    "timestamp": "2025-10-29T05:45:10.836932"
+    "timestamp": "2025-10-30T13:04:54.613725"
   },
   {
     "asset_id": "a3b4f77c43c48055",
@@ -7395,7 +7395,7 @@
     "redundancy_level": 0.54,
     "revenue_impact": 0.27,
     "operational_reliance": 0.232,
-    "timestamp": "2025-10-29T05:45:10.837010"
+    "timestamp": "2025-10-30T13:04:54.613821"
   },
   {
     "asset_id": "cf90eece2a711cda",
@@ -7413,7 +7413,7 @@
     "redundancy_level": 0.41,
     "revenue_impact": 0.39,
     "operational_reliance": 0.245,
-    "timestamp": "2025-10-29T05:45:10.837088"
+    "timestamp": "2025-10-30T13:04:54.613918"
   },
   {
     "asset_id": "df074151737c0187",
@@ -7431,7 +7431,7 @@
     "redundancy_level": 0.54,
     "revenue_impact": 0.68,
     "operational_reliance": 0.237,
-    "timestamp": "2025-10-29T05:45:10.837166"
+    "timestamp": "2025-10-30T13:04:54.614016"
   },
   {
     "asset_id": "b2449d0b8053c856",
@@ -7449,7 +7449,7 @@
     "redundancy_level": 0.8,
     "revenue_impact": 0.51,
     "operational_reliance": 0.212,
-    "timestamp": "2025-10-29T05:45:10.837244"
+    "timestamp": "2025-10-30T13:04:54.614114"
   },
   {
     "asset_id": "7d8c65fe6638b906",
@@ -7467,7 +7467,7 @@
     "redundancy_level": 0.02,
     "revenue_impact": 0.76,
     "operational_reliance": 0.412,
-    "timestamp": "2025-10-29T05:45:10.837323"
+    "timestamp": "2025-10-30T13:04:54.614211"
   },
   {
     "asset_id": "08b77f4210633461",
@@ -7485,7 +7485,7 @@
     "redundancy_level": 0.24,
     "revenue_impact": 0.33,
     "operational_reliance": 0.348,
-    "timestamp": "2025-10-29T05:45:10.837401"
+    "timestamp": "2025-10-30T13:04:54.614308"
   },
   {
     "asset_id": "51f1f80c4ee2a9f2",
@@ -7503,7 +7503,7 @@
     "redundancy_level": 0.72,
     "revenue_impact": 0.63,
     "operational_reliance": 0.32,
-    "timestamp": "2025-10-29T05:45:10.837480"
+    "timestamp": "2025-10-30T13:04:54.614406"
   },
   {
     "asset_id": "2440432000e4d9f4",
@@ -7521,7 +7521,7 @@
     "redundancy_level": 0.15,
     "revenue_impact": 0.28,
     "operational_reliance": 0.273,
-    "timestamp": "2025-10-29T05:45:10.837559"
+    "timestamp": "2025-10-30T13:04:54.614503"
   },
   {
     "asset_id": "ec9ab19afaa977bb",
@@ -7539,7 +7539,7 @@
     "redundancy_level": 0.25,
     "revenue_impact": 0.49,
     "operational_reliance": 0.256,
-    "timestamp": "2025-10-29T05:45:10.837642"
+    "timestamp": "2025-10-30T13:04:54.614601"
   },
   {
     "asset_id": "3c932d304811984b",
@@ -7557,7 +7557,7 @@
     "redundancy_level": 0.46,
     "revenue_impact": 0.61,
     "operational_reliance": 0.341,
-    "timestamp": "2025-10-29T05:45:10.837721"
+    "timestamp": "2025-10-30T13:04:54.614698"
   },
   {
     "asset_id": "52d8f7d6e2dc32db",
@@ -7575,7 +7575,7 @@
     "redundancy_level": 0.52,
     "revenue_impact": 0.69,
     "operational_reliance": 0.376,
-    "timestamp": "2025-10-29T05:45:10.837800"
+    "timestamp": "2025-10-30T13:04:54.614796"
   },
   {
     "asset_id": "48d76322b9f22bfb",
@@ -7593,7 +7593,7 @@
     "redundancy_level": 0.71,
     "revenue_impact": 0.11,
     "operational_reliance": 0.235,
-    "timestamp": "2025-10-29T05:45:10.837879"
+    "timestamp": "2025-10-30T13:04:54.614895"
   },
   {
     "asset_id": "682123f783b5a3b0",
@@ -7611,6 +7611,6 @@
     "redundancy_level": 0.48,
     "revenue_impact": 0.44,
     "operational_reliance": 0.301,
-    "timestamp": "2025-10-29T05:45:10.837960"
+    "timestamp": "2025-10-30T13:04:54.614994"
   }
 ]
