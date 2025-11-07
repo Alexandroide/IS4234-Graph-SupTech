@@ -1,4 +1,4 @@
-# IS4234 — Graph-Based SupTech Framework for Systemic Risk Analysis
+# IS4234 – Graph-Based SupTech Framework for Systemic Risk Analysis
 
 ## 🧭 Overview
 
