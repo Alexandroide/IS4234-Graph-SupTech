@@ -81,7 +81,6 @@ The **`GraphAnalyzerCIDM`** class (in `graph_analyzer_cidm.py`) performs:
 | `summary()` | Prints network statistics (nodes, edges, samples) |
 | `visualize()` | Generates network visualization using `matplotlib` and `networkx` |
 | `systemic_influence()` | PageRank-style recursive influence propagation |
-| `systemic_importance()` | Combines dependency and intrinsic weights into a criticality index |
 | `simulate_failure_recursive()` | Simulates cascading failures from a node |
 | `get_company_info()` | Retrieves company details from stored JSON |
 
